@@ -1,0 +1,79 @@
+/*--------- Home Page -------------------*/
+#logo
+{
+    text-align: center;
+    width: 50px;
+    height: 50px;
+}
+.services-box
+{
+    background: #f9f9f9;
+    padding: 10px;
+    margin-top: 20px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+}
+.services-box .fa
+{
+    margin: 0 10px;
+    font-size: 20px;
+}
+.services-box span
+{
+    margin: 3px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.services-box p
+{
+    font-size: 15px;
+    margin-top: 20px;
+    color: #777;
+}
+.services-box:hover
+{
+    background: #000;
+    color: #fff;
+    border-top-right-radius: 0;
+    border-bottom-left-radius: 0;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    transition: 0.5s;
+}
+.services-box:hover p
+{
+    color: #fff;
+}
+.company-logo
+{
+    margin: 10px;
+    text-align: center;
+    width: 70px;
+    height: 60px;
+    background-color: #e7c4c4;
+    box-shadow: 0 4px 25px rgba(65,167,219,.15);
+    border-radius: .5rem;
+    overflow: hidden;
+}
+.company-logo img
+{
+    margin-top: 5px;
+    width: 50px;
+    height: 50px;
+}
+.footer
+{
+    color: #ffffff;
+    background-color: #000000;
+}
+.social-icons ul
+{
+    padding: 0px;
+    list-style-type: none;
+}
+.social-icons ul li
+{
+    display: inline;
+    padding: 10px;
+}
+
