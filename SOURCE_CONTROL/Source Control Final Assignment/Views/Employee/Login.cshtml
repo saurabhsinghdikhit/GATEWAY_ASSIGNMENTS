@@ -1,0 +1,51 @@
+﻿@model LoginRegistrationInMVCWithDatabase.ViewModel.LoginViewModel
+@{
+    ViewBag.Title = "Login";
+
+}
+
+    
+        @using (Html.BeginForm("Login", "Employee"))
+        {
+        <div class="main" style="padding:0px">
+            <div style="color:red;">@Html.ValidationSummary()</div>
+            <div class="row">
+                <!--Show details are saved successfully message-->
+                <div class="col-lg-12 h2" style="color:green;">@ViewBag.Message</div>
+            </div><br />
+            <!-- Sing in  Form -->
+            <section class="sign-in">
+                <div class="container">
+                    <div class="signin-content">
+                        <div class="signin-image">
+                            <figure><img src="~/images/signin-image.jpg" alt="sing in image"></figure>
+                            @Html.ActionLink("Create an Account", "Register", "Employee")
+                        </div>
+
+                        <div class="signin-form">
+                            <h2 class="form-title">Sign in</h2>
+                            <form method="POST" class="register-form" id="login-form">
+                                <div class="form-group">
+                                    <label for="your_email"><i class="fa fa-envelope material-icons-name"></i></label>
+                                    @Html.TextBoxFor(a => a.Email, new { @PlaceHolder = "Email" })
+                                    @Html.ValidationMessageFor(a => a.Email, "", new { @class = "text-danger" })
+                                </div>
+                                <div class="form-group">
+                                    <label for="your_email"><i class="fa fa-unlock-alt material-icons-name"></i></label>
+                                    @Html.TextBoxFor(a => a.Password, new { @PlaceHolder = "Password", type = "Password" })
+                                    @Html.ValidationMessageFor(a => a.Password, "", new { @class = "text-danger" })
+
+                                </div>
+                                <div class="form-group form-button">
+                                    <input type="submit" id="signin" class="form-submit" value="Log in" />
+                                </div>
+                            </form>
+
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+        </div>
+         
+        }

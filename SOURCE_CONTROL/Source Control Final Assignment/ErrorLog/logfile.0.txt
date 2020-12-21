@@ -1,0 +1,6 @@
+Trace|(2020-12-21 20:59:01.9013)|SAURABH|
+                      Exception Type: |
+                      Exception Message: |
+                      Stack Trace: |
+                      Additional Info:User have logged out ss520553@gmail.com
+

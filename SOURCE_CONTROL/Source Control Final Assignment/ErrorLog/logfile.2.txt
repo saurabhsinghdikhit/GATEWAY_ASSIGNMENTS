@@ -1,0 +1,24 @@
+Trace|(2020-12-21 21:47:06.1739)|SAURABH|
+                      Exception Type: |
+                      Exception Message: |
+                      Stack Trace: |
+                      Additional Info:Checking for email ss
+
+Trace|(2020-12-21 21:47:06.1899)|SAURABH|
+                      Exception Type: |
+                      Exception Message: |
+                      Stack Trace: |
+                      Additional Info:Email found in the database showing warning!!
+
+Trace|(2020-12-21 21:47:20.4159)|SAURABH|
+                      Exception Type: |
+                      Exception Message: |
+                      Stack Trace: |
+                      Additional Info:Checking for email ss
+
+Trace|(2020-12-21 21:47:20.4159)|SAURABH|
+                      Exception Type: |
+                      Exception Message: |
+                      Stack Trace: |
+                      Additional Info:Email found in the database showing warning!!
+

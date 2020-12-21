@@ -1,0 +1,24 @@
+Trace|(2020-12-21 21:45:38.7544)|SAURABH|
+                      Exception Type: |
+                      Exception Message: |
+                      Stack Trace: |
+                      Additional Info:Checking for email ss
+
+Trace|(2020-12-21 21:45:38.8373)|SAURABH|
+                      Exception Type: |
+                      Exception Message: |
+                      Stack Trace: |
+                      Additional Info:Email not found in the database going to make new entry
+
+Trace|(2020-12-21 21:45:38.8626)|SAURABH|
+                      Exception Type: |
+                      Exception Message: |
+                      Stack Trace: |
+                      Additional Info:Image saved
+
+Trace|(2020-12-21 21:45:39.0669)|SAURABH|
+                      Exception Type: |
+                      Exception Message: |
+                      Stack Trace: |
+                      Additional Info:Data inserted into database
+

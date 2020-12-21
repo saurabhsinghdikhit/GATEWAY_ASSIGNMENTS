@@ -1,0 +1,54 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+@if (!Request.IsAuthenticated)
+{
+    <div class="main" style="padding:0px;margin-top:10px">
+
+        <section class="main">
+            <div class="container text-center h4" style="padding:20px">
+
+                @Html.ActionLink("Create an Account", "Register", "Employee")
+                <br /><br />
+                @Html.ActionLink("Login", "Login", "Employee")
+
+            </div>
+        </section>
+
+
+    </div>
+}
+@if (Request.IsAuthenticated && Session["userEmail"] != null)
+{
+    <section class="sign-in"  style="padding:0px;margin-top:10px">
+        <div class="container">
+            <div class="signin-content">
+                <div class="signin-image">
+                    <figure><img src="~/Uploads/@Model.employeeImage" width="500px" height="500px" class="img-circle" alt="sing in image"></figure>
+                </div>
+                <div class="signin-form">
+                    <div class="form-group">
+                        <p>ID: @Model.ID</p>
+                    </div>
+                    <div class="form-group">
+                        <p>Name: @Model.FirstName @Model.LastName</p>
+                    </div>
+                    <div class="form-group">
+                        <p>Email: @Model.Email</p>
+                    </div>
+                    <div class="form-group">
+                        <p>Mobile: @Model.Mobile</p>
+                    </div>
+                    <div class="form-group">
+                        <p>Salary: @Model.Salary</p>
+                    </div>
+                    <div class="form-group">
+                        <p>Date of joining: @Model.empDoj</p>
+                    </div>
+                </div>
+                   
+            </div>
+        </div>
+    </section>
+}

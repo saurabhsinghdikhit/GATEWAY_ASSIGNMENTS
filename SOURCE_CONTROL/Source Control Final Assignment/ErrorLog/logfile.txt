@@ -1,0 +1,48 @@
+Trace|(2020-12-21 22:00:34.6950)|SAURABH|
+                      Exception Type: |
+                      Exception Message: |
+                      Stack Trace: |
+                      Additional Info:User is trying to login
+
+Trace|(2020-12-21 22:00:34.8110)|SAURABH|
+                      Exception Type: |
+                      Exception Message: |
+                      Stack Trace: |
+                      Additional Info:Validation performed
+
+Trace|(2020-12-21 22:00:34.8210)|SAURABH|
+                      Exception Type: |
+                      Exception Message: |
+                      Stack Trace: |
+                      Additional Info:Checking user credientials
+
+Trace|(2020-12-21 22:00:35.9053)|SAURABH|
+                      Exception Type: |
+                      Exception Message: |
+                      Stack Trace: |
+                      Additional Info:User have entered right credientials
+
+Trace|(2020-12-21 22:00:35.9135)|SAURABH|
+                      Exception Type: |
+                      Exception Message: |
+                      Stack Trace: |
+                      Additional Info:User found in the database of raju@gmail.com
+
+Trace|(2020-12-21 22:00:35.9135)|SAURABH|
+                      Exception Type: |
+                      Exception Message: |
+                      Stack Trace: |
+                      Additional Info:Redirecting to index page
+
+Trace|(2020-12-21 22:00:35.9684)|SAURABH|
+                      Exception Type: |
+                      Exception Message: |
+                      Stack Trace: |
+                      Additional Info:Getting data of raju@gmail.com
+
+Trace|(2020-12-21 22:00:36.0008)|SAURABH|
+                      Exception Type: |
+                      Exception Message: |
+                      Stack Trace: |
+                      Additional Info:Data got fetched of raju@gmail.com
+
