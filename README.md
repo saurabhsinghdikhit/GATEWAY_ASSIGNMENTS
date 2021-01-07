@@ -8,13 +8,13 @@
 - 👯 This project is portable because this include database inside it.
 - 🥅 modified the bootstrap classes to make it look good.
 - ⚡ Error handling and error logging has been done via log file.
-
+<br/>
 [![register.png](https://i.postimg.cc/wvqRXBpX/register.png)](https://postimg.cc/mcnrRBhk)
 [![login.png](https://i.postimg.cc/NFPXfvZ1/login.png)](https://postimg.cc/RJKhXySF)
 [![homePage.png](https://i.postimg.cc/rpcDTpzB/homePage.png)](https://postimg.cc/Js6rcMNx)
 [![product-Listing.png](https://i.postimg.cc/d3z0xszS/product-Listing.png)](https://postimg.cc/WqwjDvpM)
-[![Edit-Product.png](https://i.postimg.cc/QNWKcvLn/Edit-Product.png)](https://postimg.cc/yWsNHQ8F)
 [![View-Product.png](https://i.postimg.cc/s2wgR9kW/View-Product.png)](https://postimg.cc/gwLWVRkc)
+[![Edit-Product.png](https://i.postimg.cc/QNWKcvLn/Edit-Product.png)](https://postimg.cc/yWsNHQ8F)
 [![Multidelete.png](https://i.postimg.cc/rw2mGpGD/Multidelete.png)](https://postimg.cc/3d9YYYch)
 
 
