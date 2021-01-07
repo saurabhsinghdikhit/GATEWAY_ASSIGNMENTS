@@ -10,8 +10,10 @@
 - ⚡ Error handling and error logging has been done via log file.
 <br/>
 ##Screenshots
-![ScreenShot](https://raw.github.com/saurabhsinghdikhit/GATEWAY_ASSIGNMENTS/main/Product Management Assignment/ProductManagementMVC/ScreenShots/login.png)
 
+<div align="center">
+    <img src="/Product Management Assignment/ProductManagementMVC/ScreenShots/login.png" width="400px"</img> 
+</div>
 
 
 
