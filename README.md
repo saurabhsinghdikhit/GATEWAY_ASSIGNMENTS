@@ -1,18 +1,16 @@
 ### Hello there, I am Saurabh singh [website] 👋
 ## This repository contains all the assignments given by Gateway groups including Product Management Assignment.
 <br/>
-
-## Product Management Assignment
+## About: Product Management Assignment
 - 🔭 This MVC project has WebAPI integration in it.
-- 🌱 ALl the database operations has been done via webapi call.
-- 🔭 I have also implemented chats that are being populated from database itself.
+- 🌱 ALl the database operations(login,register,CRUD operations,sorting,searching,) has been done via webapi call.
+- 🔭 I have also implemented charts that are being populated from database itself.
 - 👯 This project is portable because this include database inside it.
 - 🥅 I have not used readymade template just modified the bootstrap classes to make it look good.
 - ⚡ Error handling and error logging has been done via log file.
 <br/>
-
 ##Screenshots
-
+![Alt text](/../main/GATEWAY_ASSIGNMENTS/Product Management Assignment/ProductManagementMVC/ScreenShots/login.png?raw=true "Login Page")
 
 
 
