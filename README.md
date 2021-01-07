@@ -11,10 +11,8 @@
 <br/>
 <br/>
 ##Screenshots
+![Screenshot](/Product Management Assignment/ProductManagementMVC/ScreenShots/login.png)
 
-<div>
-    <img src="/Product Management Assignment/ProductManagementMVC/ScreenShots/login.png"/> 
-</div>
 
 
 
