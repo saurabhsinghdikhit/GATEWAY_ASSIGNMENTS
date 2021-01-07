@@ -8,8 +8,6 @@
 - 👯 This project is portable because this include database inside it.
 - 🥅 modified the bootstrap classes to make it look good.
 - ⚡ Error handling and error logging has been done via log file.
-<br/>
-<br/>
 
 [![Screenshot-127.png](https://i.postimg.cc/7bvx86XT/Screenshot-127.png)](https://postimg.cc/5Q3c8fhx)
 
