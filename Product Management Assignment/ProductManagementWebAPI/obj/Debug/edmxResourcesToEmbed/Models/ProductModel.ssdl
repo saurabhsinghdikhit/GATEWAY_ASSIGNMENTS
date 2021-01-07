@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ProductManagementProductModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Products">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Category" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Price" Type="float" Nullable="false" />
+    <Property Name="Quantity" Type="bigint" Nullable="false" />
+    <Property Name="ShortDescription" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="LongDescription" Type="nvarchar(max)" />
+    <Property Name="SmallImageUrl" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="LargeImageUrl" Type="nvarchar" MaxLength="50" />
+    <Property Name="CreatedBy" Type="int" Nullable="false" />
+    <Property Name="CreatedAt" Type="datetime" />
+    <Property Name="ModifiedAt" Type="datetime" />
+    <Property Name="ModifiedBy" Type="int" />
+  </EntityType>
+  <EntityContainer Name="ProductManagementProductModelStoreContainer">
+    <EntitySet Name="Products" EntityType="Self.Products" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>
