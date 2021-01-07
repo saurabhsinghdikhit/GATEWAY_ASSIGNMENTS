@@ -9,10 +9,7 @@
 - 🥅 modified the bootstrap classes to make it look good.
 - ⚡ Error handling and error logging has been done via log file.
 
-[![Screenshot-127.png](https://i.postimg.cc/7bvx86XT/Screenshot-127.png)](https://postimg.cc/5Q3c8fhx)
-
-
-![Settings Window](https://raw.github.com/saurabhsinghdikhit/GATEWAY_ASSIGNMENTS/tree/main/Product Management Assignment/ProductManagementMVC/ScreenShots/login.png)
+[![Screenshot-127.png](https://i.postimg.cc/5Q3c8fhx/Screenshot-127.png)](https://postimg.cc/5Q3c8fhx)
 
 
 
