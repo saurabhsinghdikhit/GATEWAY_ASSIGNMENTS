@@ -16,32 +16,44 @@
     <img src="/Product Management Assignment/ProductManagementMVC/ScreenShots/register.png"/> 
 </div>
 
-Login
+### Login
 
 <div>
     <img src="/Product Management Assignment/ProductManagementMVC/ScreenShots/login.png"/> 
 </div>
+
 ### Home Page with charts
+
 <div>
     <img src="/Product Management Assignment/ProductManagementMVC/ScreenShots/homePage.png"/> 
 </div>
+
 ### Product Listing with sorting and searching
+
 <div>
     <img src="/Product Management Assignment/ProductManagementMVC/ScreenShots/productListing.png"/> 
 </div>
+
 ### View Single Product
+
 <div>
     <img src="/Product Management Assignment/ProductManagementMVC/ScreenShots/ViewProduct.png"/> 
 </div>
+
 ### Edit Single Product
+
 <div>
     <img src="/Product Management Assignment/ProductManagementMVC/ScreenShots/EditProduct.png"/> 
 </div>
+
 ### Multiple Delete Operation
+
 <div>
     <img src="/Product Management Assignment/ProductManagementMVC/ScreenShots/Multidelete.png"/> 
 </div>
+
 ### Insert Product
+
 <div>
     <img src="/Product Management Assignment/ProductManagementMVC/ScreenShots/InsertProduct.png"/> 
 </div>
