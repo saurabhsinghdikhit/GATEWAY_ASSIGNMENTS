@@ -8,7 +8,9 @@
 - 🥅 modified the bootstrap classes to make it look good.
 - ⚡ Error handling and error logging has been done via log file.
 
-
+<div>
+    <img src="/Product Management Assignment/ProductManagementMVC/ScreenShots/login.png" width="400px"</img> 
+</div>
 
 ### Connect with me:
 
