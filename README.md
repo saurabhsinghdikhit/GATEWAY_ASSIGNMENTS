@@ -6,8 +6,9 @@
 - 🌱 ALl the database operations(login,register,CRUD operations,sorting,searching,) has been done via webapi call.
 - 🔭 I have also implemented charts that are being populated from database itself.
 - 👯 This project is portable because this include database inside it.
-- 🥅 I have not used readymade template just modified the bootstrap classes to make it look good.
+- 🥅 modified the bootstrap classes to make it look good.
 - ⚡ Error handling and error logging has been done via log file.
+<br/>
 <br/>
 ##Screenshots
 
