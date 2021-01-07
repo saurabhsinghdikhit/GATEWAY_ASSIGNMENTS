@@ -12,7 +12,7 @@
 [![Screenshot-127.png](https://i.postimg.cc/7bvx86XT/Screenshot-127.png)](https://postimg.cc/5Q3c8fhx)
 
 
-![Settings Window](https://raw.github.com/saurabhsinghdikhit/GATEWAY_ASSIGNMENTS/tree/main/Product%20Management%20Assignment/ProductManagementMVC/ScreenShots/login.png)
+![Settings Window](https://raw.github.com/saurabhsinghdikhit/GATEWAY_ASSIGNMENTS/tree/main/Product Management Assignment/ProductManagementMVC/ScreenShots/login.png)
 
 
 
