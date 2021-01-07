@@ -28,11 +28,12 @@
     <img src="/Product Management Assignment/ProductManagementMVC/ScreenShots/EditProduct.png"/> 
 </div>
 <div>
-    <img src="/Product Management Assignment/ProductManagementMVC/ScreenShots/InsertProduct.png"/> 
-</div>
-<div>
     <img src="/Product Management Assignment/ProductManagementMVC/ScreenShots/Multidelete.png"/> 
 </div>
+<div>
+    <img src="/Product Management Assignment/ProductManagementMVC/ScreenShots/InsertProduct.png"/> 
+</div>
+
 
 ### Connect with me:
 
