@@ -11,7 +11,7 @@
 <br/>
 <br/>
 
-![Screenshot](/Product Management Assignment/ProductManagementMVC/ScreenShots/login.png)
+![Screenshot](Product Management Assignment/ProductManagementMVC/ScreenShots/login.png)
 
 
 
