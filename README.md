@@ -8,8 +8,30 @@
 - 🥅 modified the bootstrap classes to make it look good.
 - ⚡ Error handling and error logging has been done via log file.
 
+## Screenshots
 <div>
-    <img src="/Product Management Assignment/ProductManagementMVC/ScreenShots/login.png" /> 
+    <img src="/Product Management Assignment/ProductManagementMVC/ScreenShots/register.png"/> 
+</div>
+<div>
+    <img src="/Product Management Assignment/ProductManagementMVC/ScreenShots/login.png"/> 
+</div>
+<div>
+    <img src="/Product Management Assignment/ProductManagementMVC/ScreenShots/homePage.png"/> 
+</div>
+<div>
+    <img src="/Product Management Assignment/ProductManagementMVC/ScreenShots/productListing.png"/> 
+</div>
+<div>
+    <img src="/Product Management Assignment/ProductManagementMVC/ScreenShots/ViewProduct.png"/> 
+</div>
+<div>
+    <img src="/Product Management Assignment/ProductManagementMVC/ScreenShots/EditProduct.png"/> 
+</div>
+<div>
+    <img src="/Product Management Assignment/ProductManagementMVC/ScreenShots/InsertProduct.png"/> 
+</div>
+<div>
+    <img src="/Product Management Assignment/ProductManagementMVC/ScreenShots/Multidelete.png"/> 
 </div>
 
 ### Connect with me:
