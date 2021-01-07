@@ -11,8 +11,8 @@
 <br/>
 ##Screenshots
 
-<div align="center">
-    <img src="/Product Management Assignment/ProductManagementMVC/ScreenShots/login.png" width="400px"</img> 
+<div>
+    <img src="/Product Management Assignment/ProductManagementMVC/ScreenShots/login.png"/> 
 </div>
 
 
