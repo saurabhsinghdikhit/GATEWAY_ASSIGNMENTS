@@ -9,11 +9,15 @@
 - ⚡ Error handling and error logging has been done via log file.
 
 ## Screenshots
+
 ### Register
+
 <div>
     <img src="/Product Management Assignment/ProductManagementMVC/ScreenShots/register.png"/> 
 </div>
-### Login
+
+Login
+
 <div>
     <img src="/Product Management Assignment/ProductManagementMVC/ScreenShots/login.png"/> 
 </div>
