@@ -1,6 +1,6 @@
 ### Hello there, I am Saurabh singh [website] 👋
 ## This repository contains all the assignments given by Gateway groups including Product Management Assignment.
-<br/>
+<br />
 ## About: Product Management Assignment
 - 🔭 This MVC project has WebAPI integration in it.
 - 🌱 ALl the database operations(login,register,CRUD operations,sorting,searching,) has been done via webapi call.
