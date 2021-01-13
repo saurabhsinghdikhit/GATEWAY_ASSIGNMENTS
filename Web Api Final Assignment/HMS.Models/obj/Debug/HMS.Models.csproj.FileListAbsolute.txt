@@ -1,0 +1,6 @@
+F:\GATEWAY\Gateway Assignments\Web Api Final Assignment\HMS.Models\obj\Debug\HMS.Models.csprojAssemblyReference.cache
+F:\GATEWAY\Gateway Assignments\Web Api Final Assignment\HMS.Models\obj\Debug\HMS.Models.csproj.CoreCompileInputs.cache
+F:\GATEWAY\Gateway Assignments\Web Api Final Assignment\HMS.Models\bin\Debug\HMS.Models.dll
+F:\GATEWAY\Gateway Assignments\Web Api Final Assignment\HMS.Models\bin\Debug\HMS.Models.pdb
+F:\GATEWAY\Gateway Assignments\Web Api Final Assignment\HMS.Models\obj\Debug\HMS.Models.dll
+F:\GATEWAY\Gateway Assignments\Web Api Final Assignment\HMS.Models\obj\Debug\HMS.Models.pdb

@@ -1,0 +1,1229 @@
+{
+	"info": {
+		"_postman_id": "84630ae6-e04e-420f-8371-ec41bbb8a526",
+		"name": "SaurabhSingh.HotelManagementSystemPostmanCollection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "https://localhost:44371/api/hotel/createHotel",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"HotelName\": \"Rohan Hotel\",\r\n    \"Address\": \"Ahmedabad\",\r\n    \"City\": \"Ahmedabad\",\r\n    \"Pincode\": 245520,\r\n    \"ContactNo\": 9621221615,\r\n    \"ContactPerson\": \"Rohan Singh\",\r\n    \"Website\": \"RohanHotel.com\",\r\n    \"Facebook\": \"Rohan Hotel\",\r\n    \"Twitter\": \"Rohan Hotel\",\r\n    \"IsActive\": \"Y\",\r\n    \"CreatedDate\": \"2020-12-12T00:00:00\",\r\n    \"CreatedBy\": \"Rohan\",\r\n    \"UpdatedDate\": null,\r\n    \"UpdatedBy\": null\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44371/api/hotel/createHotel",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44371",
+					"path": [
+						"api",
+						"hotel",
+						"createHotel"
+					]
+				},
+				"description": "● POST 5-10 hotels with details of hotel"
+			},
+			"response": [
+				{
+					"name": "Create Hotel",
+					"originalRequest": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"HotelName\": \"Rohan Hotel\",\r\n    \"Address\": \"Ahmedabad\",\r\n    \"City\": \"Ahmedabad\",\r\n    \"Pincode\": 245520,\r\n    \"ContactNo\": 9621221615,\r\n    \"ContactPerson\": \"Rohan Singh\",\r\n    \"Website\": \"RohanHotel.com\",\r\n    \"Facebook\": \"Rohan Hotel\",\r\n    \"Twitter\": \"Rohan Hotel\",\r\n    \"IsActive\": \"Y\",\r\n    \"CreatedDate\": \"2020-12-12T00:00:00\",\r\n    \"CreatedBy\": \"Rohan\",\r\n    \"UpdatedDate\": null,\r\n    \"UpdatedBy\": null\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:44371/api/hotel/createHotel",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "44371",
+							"path": [
+								"api",
+								"hotel",
+								"createHotel"
+							]
+						}
+					},
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "json",
+					"header": [
+						{
+							"key": "Cache-Control",
+							"value": "no-cache"
+						},
+						{
+							"key": "Pragma",
+							"value": "no-cache"
+						},
+						{
+							"key": "Content-Type",
+							"value": "application/json; charset=utf-8"
+						},
+						{
+							"key": "Expires",
+							"value": "-1"
+						},
+						{
+							"key": "Server",
+							"value": "Microsoft-IIS/10.0"
+						},
+						{
+							"key": "X-AspNet-Version",
+							"value": "4.0.30319"
+						},
+						{
+							"key": "X-SourceFiles",
+							"value": "=?UTF-8?B?RjpcR0FURVdBWVxHYXRld2F5IEFzc2lnbm1lbnRzXFdlYiBBcGkgRmluYWwgQXNzaWdubWVudFxITVMuV2ViQXBpXGFwaVxob3RlbFxjcmVhdGVIb3RlbA==?="
+						},
+						{
+							"key": "X-Powered-By",
+							"value": "ASP.NET"
+						},
+						{
+							"key": "Date",
+							"value": "Wed, 13 Jan 2021 05:41:45 GMT"
+						},
+						{
+							"key": "Content-Length",
+							"value": "22"
+						}
+					],
+					"cookie": [],
+					"body": "\"Successfully Added!!\""
+				}
+			]
+		},
+		{
+			"name": "https://localhost:44371/api/hotel/AllHotels",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44371/api/hotel/AllHotels",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44371",
+					"path": [
+						"api",
+						"hotel",
+						"AllHotels"
+					]
+				},
+				"description": "GET all hotels sort by alphabetic order"
+			},
+			"response": [
+				{
+					"name": "Listing of all hotels sort by alphabetic order",
+					"originalRequest": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:44371/api/hotel/AllHotels",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "44371",
+							"path": [
+								"api",
+								"hotel",
+								"AllHotels"
+							]
+						}
+					},
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "json",
+					"header": [
+						{
+							"key": "Cache-Control",
+							"value": "no-cache"
+						},
+						{
+							"key": "Pragma",
+							"value": "no-cache"
+						},
+						{
+							"key": "Content-Type",
+							"value": "application/json; charset=utf-8"
+						},
+						{
+							"key": "Expires",
+							"value": "-1"
+						},
+						{
+							"key": "Server",
+							"value": "Microsoft-IIS/10.0"
+						},
+						{
+							"key": "X-AspNet-Version",
+							"value": "4.0.30319"
+						},
+						{
+							"key": "X-SourceFiles",
+							"value": "=?UTF-8?B?RjpcR0FURVdBWVxHYXRld2F5IEFzc2lnbm1lbnRzXFdlYiBBcGkgRmluYWwgQXNzaWdubWVudFxITVMuV2ViQXBpXGFwaVxob3RlbFxBbGxIb3RlbHM=?="
+						},
+						{
+							"key": "X-Powered-By",
+							"value": "ASP.NET"
+						},
+						{
+							"key": "Date",
+							"value": "Wed, 13 Jan 2021 05:42:13 GMT"
+						},
+						{
+							"key": "Content-Length",
+							"value": "3286"
+						}
+					],
+					"cookie": [],
+					"body": "[\n    {\n        \"Id\": 5,\n        \"HotelName\": \"Abu Hotel\",\n        \"Address\": \"Navsari\",\n        \"City\": \"Navsari\",\n        \"Pincode\": 396450,\n        \"ContactNo\": 9621221615,\n        \"ContactPerson\": \"Hema Singh\",\n        \"Website\": \"Abu.com\",\n        \"Facebook\": \"Abu hotel\",\n        \"Twitter\": \"Abu hotel\",\n        \"IsActive\": \"Y\",\n        \"CreatedDate\": \"2021-01-11T14:34:00.537\",\n        \"CreatedBy\": \"Hema\",\n        \"UpdatedDate\": null,\n        \"UpdatedBy\": null\n    },\n    {\n        \"Id\": 10,\n        \"HotelName\": \"Aman Hotel\",\n        \"Address\": \"Ahmedabad\",\n        \"City\": \"Ahmedabad\",\n        \"Pincode\": 245520,\n        \"ContactNo\": 9621221615,\n        \"ContactPerson\": \"Aman Singh\",\n        \"Website\": \"AmanHotel.com\",\n        \"Facebook\": \"Aman Hotel\",\n        \"Twitter\": \"Aman Hotel\",\n        \"IsActive\": \"Y\",\n        \"CreatedDate\": \"2020-12-12T00:00:00\",\n        \"CreatedBy\": \"Aman\",\n        \"UpdatedDate\": null,\n        \"UpdatedBy\": null\n    },\n    {\n        \"Id\": 9,\n        \"HotelName\": \"Ambika Hotel\",\n        \"Address\": \"Ahmedabad\",\n        \"City\": \"Ahmedabad\",\n        \"Pincode\": 245520,\n        \"ContactNo\": 9621221615,\n        \"ContactPerson\": \"Ambika Singh\",\n        \"Website\": \"AmbikaHotel.com\",\n        \"Facebook\": \"Ambika Hotel\",\n        \"Twitter\": \"Ambika Hotel\",\n        \"IsActive\": \"Y\",\n        \"CreatedDate\": \"2021-01-11T14:44:05.983\",\n        \"CreatedBy\": \"Abhay\",\n        \"UpdatedDate\": null,\n        \"UpdatedBy\": null\n    },\n    {\n        \"Id\": 3,\n        \"HotelName\": \"Hotel Kohinoor\",\n        \"Address\": \"Navsari\",\n        \"City\": \"Navsari\",\n        \"Pincode\": 396450,\n        \"ContactNo\": 9621221615,\n        \"ContactPerson\": \"Rohit Dwivedi\",\n        \"Website\": \"KohinoorHotel.com\",\n        \"Facebook\": \"Kohinoor Hotel\",\n        \"Twitter\": \"Kohinoor Hotel\",\n        \"IsActive\": \"Y\",\n        \"CreatedDate\": \"2020-12-12T00:00:00\",\n        \"CreatedBy\": \"Rajan\",\n        \"UpdatedDate\": null,\n        \"UpdatedBy\": null\n    },\n    {\n        \"Id\": 7,\n        \"HotelName\": \"IQ Hotel\",\n        \"Address\": \"Surat\",\n        \"City\": \"Surat\",\n        \"Pincode\": 345250,\n        \"ContactNo\": 9621221615,\n        \"ContactPerson\": \"Abhay Singh\",\n        \"Website\": \"IQHotel.com\",\n        \"Facebook\": \"IQ Hotel\",\n        \"Twitter\": \"IQ Hotel\",\n        \"IsActive\": \"Y\",\n        \"CreatedDate\": \"2021-01-11T14:36:36.37\",\n        \"CreatedBy\": \"Abhay\",\n        \"UpdatedDate\": null,\n        \"UpdatedBy\": null\n    },\n    {\n        \"Id\": 4,\n        \"HotelName\": \"Juhu Hotel\",\n        \"Address\": \"Navsari\",\n        \"City\": \"Navsari\",\n        \"Pincode\": 396450,\n        \"ContactNo\": 9621221615,\n        \"ContactPerson\": \"Raju Singh\",\n        \"Website\": \"Juhu.com\",\n        \"Facebook\": \"Juhu hotel\",\n        \"Twitter\": \"Juhu hotel\",\n        \"IsActive\": \"Y\",\n        \"CreatedDate\": \"2021-01-11T14:30:29.407\",\n        \"CreatedBy\": \"Raju\",\n        \"UpdatedDate\": null,\n        \"UpdatedBy\": null\n    },\n    {\n        \"Id\": 8,\n        \"HotelName\": \"Lambo Hotel\",\n        \"Address\": \"Nadiad\",\n        \"City\": \"Nadiad\",\n        \"Pincode\": 245520,\n        \"ContactNo\": 9621221615,\n        \"ContactPerson\": \"Ranu Singh\",\n        \"Website\": \"LamboHotel.com\",\n        \"Facebook\": \"Lambo Hotel\",\n        \"Twitter\": \"Lambo Hotel\",\n        \"IsActive\": \"Y\",\n        \"CreatedDate\": \"2021-01-11T14:40:13.91\",\n        \"CreatedBy\": \"Abhay\",\n        \"UpdatedDate\": null,\n        \"UpdatedBy\": null\n    },\n    {\n        \"Id\": 2,\n        \"HotelName\": \"Rama Hotel\",\n        \"Address\": \"Navsari\",\n        \"City\": \"Navsari\",\n        \"Pincode\": 396450,\n        \"ContactNo\": 9621221615,\n        \"ContactPerson\": \"Saurabh Singh\",\n        \"Website\": \"ramaHotel.com\",\n        \"Facebook\": \"Rama hotel\",\n        \"Twitter\": \"Rama hotel\",\n        \"IsActive\": \"Y\",\n        \"CreatedDate\": \"2020-12-12T00:00:00\",\n        \"CreatedBy\": \"Raman\",\n        \"UpdatedDate\": null,\n        \"UpdatedBy\": null\n    },\n    {\n        \"Id\": 11,\n        \"HotelName\": \"Rohan Hotel\",\n        \"Address\": \"Ahmedabad\",\n        \"City\": \"Ahmedabad\",\n        \"Pincode\": 245520,\n        \"ContactNo\": 9621221615,\n        \"ContactPerson\": \"Rohan Singh\",\n        \"Website\": \"RohanHotel.com\",\n        \"Facebook\": \"Rohan Hotel\",\n        \"Twitter\": \"Rohan Hotel\",\n        \"IsActive\": \"Y\",\n        \"CreatedDate\": \"2020-12-12T00:00:00\",\n        \"CreatedBy\": \"Rohan\",\n        \"UpdatedDate\": null,\n        \"UpdatedBy\": null\n    },\n    {\n        \"Id\": 6,\n        \"HotelName\": \"Your Food Hotel\",\n        \"Address\": \"Navsari\",\n        \"City\": \"Navsari\",\n        \"Pincode\": 396450,\n        \"ContactNo\": 9621221615,\n        \"ContactPerson\": \"Raja Singh\",\n        \"Website\": \"YourFoodHotel.com\",\n        \"Facebook\": \"Your Food Hotel\",\n        \"Twitter\": \"Your Food Hotel\",\n        \"IsActive\": \"Y\",\n        \"CreatedDate\": \"2021-01-11T14:35:11.203\",\n        \"CreatedBy\": \"Raja\",\n        \"UpdatedDate\": null,\n        \"UpdatedBy\": null\n    }\n]"
+				}
+			]
+		},
+		{
+			"name": "https://localhost:44371/api/hotel/findHotel/4",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:44371/api/hotel/findHotel/4",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44371",
+					"path": [
+						"api",
+						"hotel",
+						"findHotel",
+						"4"
+					]
+				},
+				"description": "GET single hotel details"
+			},
+			"response": [
+				{
+					"name": "Find hotel by ID",
+					"originalRequest": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:44371/api/hotel/findHotel/4",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "44371",
+							"path": [
+								"api",
+								"hotel",
+								"findHotel",
+								"4"
+							]
+						}
+					},
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "json",
+					"header": [
+						{
+							"key": "Cache-Control",
+							"value": "no-cache"
+						},
+						{
+							"key": "Pragma",
+							"value": "no-cache"
+						},
+						{
+							"key": "Content-Type",
+							"value": "application/json; charset=utf-8"
+						},
+						{
+							"key": "Expires",
+							"value": "-1"
+						},
+						{
+							"key": "Server",
+							"value": "Microsoft-IIS/10.0"
+						},
+						{
+							"key": "X-AspNet-Version",
+							"value": "4.0.30319"
+						},
+						{
+							"key": "X-SourceFiles",
+							"value": "=?UTF-8?B?RjpcR0FURVdBWVxHYXRld2F5IEFzc2lnbm1lbnRzXFdlYiBBcGkgRmluYWwgQXNzaWdubWVudFxITVMuV2ViQXBpXGFwaVxob3RlbFxmaW5kSG90ZWxcNA==?="
+						},
+						{
+							"key": "X-Powered-By",
+							"value": "ASP.NET"
+						},
+						{
+							"key": "Date",
+							"value": "Wed, 13 Jan 2021 05:43:00 GMT"
+						},
+						{
+							"key": "Content-Length",
+							"value": "319"
+						}
+					],
+					"cookie": [],
+					"body": "{\n    \"Id\": 4,\n    \"HotelName\": \"Juhu Hotel\",\n    \"Address\": \"Navsari\",\n    \"City\": \"Navsari\",\n    \"Pincode\": 396450,\n    \"ContactNo\": 9621221615,\n    \"ContactPerson\": \"Raju Singh\",\n    \"Website\": \"Juhu.com\",\n    \"Facebook\": \"Juhu hotel\",\n    \"Twitter\": \"Juhu hotel\",\n    \"IsActive\": \"Y\",\n    \"CreatedDate\": \"2021-01-11T14:30:29.407\",\n    \"CreatedBy\": \"Raju\",\n    \"UpdatedDate\": null,\n    \"UpdatedBy\": null\n}"
+				}
+			]
+		},
+		{
+			"name": "https://localhost:44371/api/room/createRoom",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"RoomName\": \"Sweet\",\r\n    \"RoomCategory\": \"size <35 m2\",\r\n    \"RoomPrice\": 6300,\r\n    \"IsActive\": \"Y\",\r\n    \"CreatedDate\": \"12-12-2020\",\r\n    \"CreatedBy\": \"Raju\",\r\n    \"UpdatedDate\": null,\r\n    \"UpdatedBy\": null,\r\n    \"HotelId\": 9\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44371/api/room/createRoom",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44371",
+					"path": [
+						"api",
+						"room",
+						"createRoom"
+					]
+				},
+				"description": "POST 3-5 rooms in each hotel with different price and\r\ndifferent category."
+			},
+			"response": [
+				{
+					"name": "Create a room",
+					"originalRequest": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"RoomName\": \"Sweet\",\r\n    \"RoomCategory\": \"size <35 m2\",\r\n    \"RoomPrice\": 6300,\r\n    \"IsActive\": \"Y\",\r\n    \"CreatedDate\": \"12-12-2020\",\r\n    \"CreatedBy\": \"Raju\",\r\n    \"UpdatedDate\": null,\r\n    \"UpdatedBy\": null,\r\n    \"HotelId\": 9\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:44371/api/room/createRoom",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "44371",
+							"path": [
+								"api",
+								"room",
+								"createRoom"
+							]
+						}
+					},
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "json",
+					"header": [
+						{
+							"key": "Cache-Control",
+							"value": "no-cache"
+						},
+						{
+							"key": "Pragma",
+							"value": "no-cache"
+						},
+						{
+							"key": "Content-Type",
+							"value": "application/json; charset=utf-8"
+						},
+						{
+							"key": "Expires",
+							"value": "-1"
+						},
+						{
+							"key": "Server",
+							"value": "Microsoft-IIS/10.0"
+						},
+						{
+							"key": "X-AspNet-Version",
+							"value": "4.0.30319"
+						},
+						{
+							"key": "X-SourceFiles",
+							"value": "=?UTF-8?B?RjpcR0FURVdBWVxHYXRld2F5IEFzc2lnbm1lbnRzXFdlYiBBcGkgRmluYWwgQXNzaWdubWVudFxITVMuV2ViQXBpXGFwaVxyb29tXGNyZWF0ZVJvb20=?="
+						},
+						{
+							"key": "X-Powered-By",
+							"value": "ASP.NET"
+						},
+						{
+							"key": "Date",
+							"value": "Mon, 11 Jan 2021 10:02:52 GMT"
+						},
+						{
+							"key": "Content-Length",
+							"value": "27"
+						}
+					],
+					"cookie": [],
+					"body": "\"Room Successfully Added!!\""
+				}
+			]
+		},
+		{
+			"name": "https://localhost:44371/api/room/checkRoom/3/12-12-2020",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [
+					{
+						"key": "email",
+						"value": "ram@gmail.com",
+						"type": "text"
+					},
+					{
+						"key": "password",
+						"value": "123456",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "name",
+							"value": "raman",
+							"type": "text"
+						}
+					],
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44371/api/room/checkRoom/3/12-12-2020",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44371",
+					"path": [
+						"api",
+						"room",
+						"checkRoom",
+						"3",
+						"12-12-2020"
+					]
+				},
+				"description": "GET availability of room on some particular date\r\n(Parameters)"
+			},
+			"response": [
+				{
+					"name": "Check availability of room ",
+					"originalRequest": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "email",
+								"value": "ram@gmail.com",
+								"type": "text"
+							},
+							{
+								"key": "password",
+								"value": "123456",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "name",
+									"value": "raman",
+									"type": "text"
+								}
+							],
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:44371/api/room/checkRoom/3/12-12-2020",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "44371",
+							"path": [
+								"api",
+								"room",
+								"checkRoom",
+								"3",
+								"12-12-2020"
+							]
+						}
+					},
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "json",
+					"header": [
+						{
+							"key": "Cache-Control",
+							"value": "no-cache"
+						},
+						{
+							"key": "Pragma",
+							"value": "no-cache"
+						},
+						{
+							"key": "Content-Type",
+							"value": "application/json; charset=utf-8"
+						},
+						{
+							"key": "Expires",
+							"value": "-1"
+						},
+						{
+							"key": "Server",
+							"value": "Microsoft-IIS/10.0"
+						},
+						{
+							"key": "X-AspNet-Version",
+							"value": "4.0.30319"
+						},
+						{
+							"key": "X-SourceFiles",
+							"value": "=?UTF-8?B?RjpcR0FURVdBWVxHYXRld2F5IEFzc2lnbm1lbnRzXFdlYiBBcGkgRmluYWwgQXNzaWdubWVudFxITVMuV2ViQXBpXGFwaVxyb29tXGNoZWNrUm9vbVwzXDEyLTEyLTIwMjA=?="
+						},
+						{
+							"key": "X-Powered-By",
+							"value": "ASP.NET"
+						},
+						{
+							"key": "Date",
+							"value": "Mon, 11 Jan 2021 10:39:10 GMT"
+						},
+						{
+							"key": "Content-Length",
+							"value": "5"
+						}
+					],
+					"cookie": [],
+					"body": "false"
+				}
+			]
+		},
+		{
+			"name": "https://localhost:44371/api/room/bookRoom",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"RoomId\":5,\r\n    \"BookingDate\":\"10-12-2020\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44371/api/room/bookRoom",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44371",
+					"path": [
+						"api",
+						"room",
+						"bookRoom"
+					]
+				},
+				"description": "POST Booked the room of hotel for particular date with (optional status)"
+			},
+			"response": [
+				{
+					"name": "Booking of room no 5 on 12-12-2020 confirmed",
+					"originalRequest": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"RoomId\":5,\r\n    \"BookingDate\":\"12-12-2020\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:44371/api/room/bookRoom",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "44371",
+							"path": [
+								"api",
+								"room",
+								"bookRoom"
+							]
+						}
+					},
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "json",
+					"header": [
+						{
+							"key": "Cache-Control",
+							"value": "no-cache"
+						},
+						{
+							"key": "Pragma",
+							"value": "no-cache"
+						},
+						{
+							"key": "Content-Type",
+							"value": "application/json; charset=utf-8"
+						},
+						{
+							"key": "Expires",
+							"value": "-1"
+						},
+						{
+							"key": "Server",
+							"value": "Microsoft-IIS/10.0"
+						},
+						{
+							"key": "X-AspNet-Version",
+							"value": "4.0.30319"
+						},
+						{
+							"key": "X-SourceFiles",
+							"value": "=?UTF-8?B?RjpcR0FURVdBWVxHYXRld2F5IEFzc2lnbm1lbnRzXFdlYiBBcGkgRmluYWwgQXNzaWdubWVudFxITVMuV2ViQXBpXGFwaVxyb29tXGJvb2tSb29t?="
+						},
+						{
+							"key": "X-Powered-By",
+							"value": "ASP.NET"
+						},
+						{
+							"key": "Date",
+							"value": "Mon, 11 Jan 2021 11:15:33 GMT"
+						},
+						{
+							"key": "Content-Length",
+							"value": "88"
+						}
+					],
+					"cookie": [],
+					"body": "\"Booking of room no 5 has been confirmed on 12-12-2020 12:00:00 AM with optional status\""
+				}
+			]
+		},
+		{
+			"name": "https://localhost:44371/api/booking/updateBooking",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"RoomId\":6,\r\n    \"BookingDate\":\"4-12-2020\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44371/api/booking/updateBooking",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44371",
+					"path": [
+						"api",
+						"booking",
+						"updateBooking"
+					]
+				},
+				"description": " PUT update booking date for any room by Id"
+			},
+			"response": [
+				{
+					"name": "Booking Date Changed",
+					"originalRequest": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"RoomId\":6,\r\n    \"BookingDate\":\"14-12-2020\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:44371/api/booking/updateBooking",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "44371",
+							"path": [
+								"api",
+								"booking",
+								"updateBooking"
+							]
+						}
+					},
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "json",
+					"header": [
+						{
+							"key": "Cache-Control",
+							"value": "no-cache"
+						},
+						{
+							"key": "Pragma",
+							"value": "no-cache"
+						},
+						{
+							"key": "Content-Type",
+							"value": "application/json; charset=utf-8"
+						},
+						{
+							"key": "Expires",
+							"value": "-1"
+						},
+						{
+							"key": "Server",
+							"value": "Microsoft-IIS/10.0"
+						},
+						{
+							"key": "X-AspNet-Version",
+							"value": "4.0.30319"
+						},
+						{
+							"key": "X-SourceFiles",
+							"value": "=?UTF-8?B?RjpcR0FURVdBWVxHYXRld2F5IEFzc2lnbm1lbnRzXFdlYiBBcGkgRmluYWwgQXNzaWdubWVudFxITVMuV2ViQXBpXGFwaVxib29raW5nXHVwZGF0ZUJvb2tpbmc=?="
+						},
+						{
+							"key": "X-Powered-By",
+							"value": "ASP.NET"
+						},
+						{
+							"key": "Date",
+							"value": "Mon, 11 Jan 2021 12:00:16 GMT"
+						},
+						{
+							"key": "Content-Length",
+							"value": "92"
+						}
+					],
+					"cookie": [],
+					"body": "\"Booking of room no 6 has been changed from 12-04-2020 12:00:00 AM to  with optional status\""
+				}
+			]
+		},
+		{
+			"name": "https://localhost:44371/api/booking/allBooking",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:44371/api/booking/allBooking",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44371",
+					"path": [
+						"api",
+						"booking",
+						"allBooking"
+					]
+				},
+				"description": "GET all the bookings"
+			},
+			"response": [
+				{
+					"name": "Display All the booking",
+					"originalRequest": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:44371/api/booking/allBooking",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "44371",
+							"path": [
+								"api",
+								"booking",
+								"allBooking"
+							]
+						}
+					},
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "json",
+					"header": [
+						{
+							"key": "Cache-Control",
+							"value": "no-cache"
+						},
+						{
+							"key": "Pragma",
+							"value": "no-cache"
+						},
+						{
+							"key": "Content-Type",
+							"value": "application/json; charset=utf-8"
+						},
+						{
+							"key": "Expires",
+							"value": "-1"
+						},
+						{
+							"key": "Server",
+							"value": "Microsoft-IIS/10.0"
+						},
+						{
+							"key": "X-AspNet-Version",
+							"value": "4.0.30319"
+						},
+						{
+							"key": "X-SourceFiles",
+							"value": "=?UTF-8?B?RjpcR0FURVdBWVxHYXRld2F5IEFzc2lnbm1lbnRzXFdlYiBBcGkgRmluYWwgQXNzaWdubWVudFxITVMuV2ViQXBpXGFwaVxib29raW5nXGFsbEJvb2tpbmc=?="
+						},
+						{
+							"key": "X-Powered-By",
+							"value": "ASP.NET"
+						},
+						{
+							"key": "Date",
+							"value": "Mon, 11 Jan 2021 15:48:21 GMT"
+						},
+						{
+							"key": "Content-Length",
+							"value": "316"
+						}
+					],
+					"cookie": [],
+					"body": "[\n    {\n        \"Id\": 1,\n        \"RoomId\": 3,\n        \"BookingDate\": \"2020-04-12T00:00:00\",\n        \"BookingStatus\": \"Cancelled\"\n    },\n    {\n        \"Id\": 2,\n        \"RoomId\": 6,\n        \"BookingDate\": null,\n        \"BookingStatus\": \"Optional\"\n    },\n    {\n        \"Id\": 3,\n        \"RoomId\": 5,\n        \"BookingDate\": \"2020-10-12T00:00:00\",\n        \"BookingStatus\": \"Deleted\"\n    },\n    {\n        \"Id\": 4,\n        \"RoomId\": 4,\n        \"BookingDate\": \"2020-12-12T00:00:00\",\n        \"BookingStatus\": \"Optional\"\n    }\n]"
+				}
+			]
+		},
+		{
+			"name": "https://localhost:44371/api/booking/updateStatus",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"Id\":2,\r\n    \"BookingStatus\":\"Definitive\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44371/api/booking/updateStatus",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44371",
+					"path": [
+						"api",
+						"booking",
+						"updateStatus"
+					]
+				},
+				"description": "PUT update booking status by booking Id (optional status to Definitive or Cancelled)\r\n"
+			},
+			"response": [
+				{
+					"name": "Booking Status changed to Definitive",
+					"originalRequest": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"Id\":2,\r\n    \"BookingStatus\":\"Definitive\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:44371/api/booking/updateStatus",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "44371",
+							"path": [
+								"api",
+								"booking",
+								"updateStatus"
+							]
+						}
+					},
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "json",
+					"header": [
+						{
+							"key": "Cache-Control",
+							"value": "no-cache"
+						},
+						{
+							"key": "Pragma",
+							"value": "no-cache"
+						},
+						{
+							"key": "Content-Type",
+							"value": "application/json; charset=utf-8"
+						},
+						{
+							"key": "Expires",
+							"value": "-1"
+						},
+						{
+							"key": "Server",
+							"value": "Microsoft-IIS/10.0"
+						},
+						{
+							"key": "X-AspNet-Version",
+							"value": "4.0.30319"
+						},
+						{
+							"key": "X-SourceFiles",
+							"value": "=?UTF-8?B?RjpcR0FURVdBWVxHYXRld2F5IEFzc2lnbm1lbnRzXFdlYiBBcGkgRmluYWwgQXNzaWdubWVudFxITVMuV2ViQXBpXGFwaVxib29raW5nXHVwZGF0ZVN0YXR1cw==?="
+						},
+						{
+							"key": "X-Powered-By",
+							"value": "ASP.NET"
+						},
+						{
+							"key": "Date",
+							"value": "Mon, 11 Jan 2021 16:03:28 GMT"
+						},
+						{
+							"key": "Content-Length",
+							"value": "55"
+						}
+					],
+					"cookie": [],
+					"body": "\"Status of Booking no 2 has been changed to Definitive\""
+				}
+			]
+		},
+		{
+			"name": "https://localhost:44371/api/booking/deleteBooking",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"Id\":2\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44371/api/booking/deleteBooking",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44371",
+					"path": [
+						"api",
+						"booking",
+						"deleteBooking"
+					]
+				},
+				"description": "DELETE delete booking by booking Id (change status Deleted – soft delete)\r\n"
+			},
+			"response": [
+				{
+					"name": "Change status to deleted soft delete",
+					"originalRequest": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"Id\":2\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:44371/api/booking/deleteBooking",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "44371",
+							"path": [
+								"api",
+								"booking",
+								"deleteBooking"
+							]
+						}
+					},
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "json",
+					"header": [
+						{
+							"key": "Cache-Control",
+							"value": "no-cache"
+						},
+						{
+							"key": "Pragma",
+							"value": "no-cache"
+						},
+						{
+							"key": "Content-Type",
+							"value": "application/json; charset=utf-8"
+						},
+						{
+							"key": "Expires",
+							"value": "-1"
+						},
+						{
+							"key": "Server",
+							"value": "Microsoft-IIS/10.0"
+						},
+						{
+							"key": "X-AspNet-Version",
+							"value": "4.0.30319"
+						},
+						{
+							"key": "X-SourceFiles",
+							"value": "=?UTF-8?B?RjpcR0FURVdBWVxHYXRld2F5IEFzc2lnbm1lbnRzXFdlYiBBcGkgRmluYWwgQXNzaWdubWVudFxITVMuV2ViQXBpXGFwaVxib29raW5nXGRlbGV0ZUJvb2tpbmc=?="
+						},
+						{
+							"key": "X-Powered-By",
+							"value": "ASP.NET"
+						},
+						{
+							"key": "Date",
+							"value": "Mon, 11 Jan 2021 16:28:24 GMT"
+						},
+						{
+							"key": "Content-Length",
+							"value": "52"
+						}
+					],
+					"cookie": [],
+					"body": "\"Status of Booking id 2 has been changed to deleted\""
+				}
+			]
+		},
+		{
+			"name": "https://localhost:44371/api/room/sortAllRoom/city",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:44371/api/room/sortAllRoom/city",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44371",
+					"path": [
+						"api",
+						"room",
+						"sortAllRoom",
+						"city"
+					]
+				},
+				"description": "GET all rooms of hotels with optional parameter by hotel city, pin code, Price, Category. (Default\r\nsort by price of room low to high)"
+			},
+			"response": [
+				{
+					"name": "sort by city",
+					"originalRequest": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:44371/api/room/sortAllRoom/city",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "44371",
+							"path": [
+								"api",
+								"room",
+								"sortAllRoom",
+								"city"
+							]
+						}
+					},
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "json",
+					"header": [
+						{
+							"key": "Cache-Control",
+							"value": "no-cache"
+						},
+						{
+							"key": "Pragma",
+							"value": "no-cache"
+						},
+						{
+							"key": "Content-Type",
+							"value": "application/json; charset=utf-8"
+						},
+						{
+							"key": "Expires",
+							"value": "-1"
+						},
+						{
+							"key": "Server",
+							"value": "Microsoft-IIS/10.0"
+						},
+						{
+							"key": "X-AspNet-Version",
+							"value": "4.0.30319"
+						},
+						{
+							"key": "X-SourceFiles",
+							"value": "=?UTF-8?B?RjpcR0FURVdBWVxHYXRld2F5IEFzc2lnbm1lbnRzXFdlYiBBcGkgRmluYWwgQXNzaWdubWVudFxITVMuV2ViQXBpXGFwaVxyb29tXHNvcnRBbGxSb29tXGNpdHk=?="
+						},
+						{
+							"key": "X-Powered-By",
+							"value": "ASP.NET"
+						},
+						{
+							"key": "Date",
+							"value": "Wed, 13 Jan 2021 08:21:23 GMT"
+						},
+						{
+							"key": "Content-Length",
+							"value": "4964"
+						}
+					],
+					"cookie": [],
+					"body": "[\n    {\n        \"Id\": 11,\n        \"RoomName\": \"Single Bed Room\",\n        \"RoomCategory\": \"size <35 m2\",\n        \"RoomPrice\": 2400,\n        \"IsActive\": \"Y\",\n        \"CreatedDate\": \"2021-01-11T15:28:03.79\",\n        \"CreatedBy\": \"Raju\",\n        \"UpdatedDate\": null,\n        \"UpdatedBy\": null,\n        \"HotelId\": 9\n    },\n    {\n        \"Id\": 17,\n        \"RoomName\": \"KING SIZE ROOM\",\n        \"RoomCategory\": \"size 51-100 m2\",\n        \"RoomPrice\": 90000,\n        \"IsActive\": \"Y\",\n        \"CreatedDate\": \"2021-01-11T15:29:35.51\",\n        \"CreatedBy\": \"Raju\",\n        \"UpdatedDate\": null,\n        \"UpdatedBy\": null,\n        \"HotelId\": 9\n    },\n    {\n        \"Id\": 24,\n        \"RoomName\": \"Sweet\",\n        \"RoomCategory\": \"size 36-50 m2\",\n        \"RoomPrice\": 6300,\n        \"IsActive\": \"Y\",\n        \"CreatedDate\": \"2021-01-11T15:32:52.417\",\n        \"CreatedBy\": \"Raju\",\n        \"UpdatedDate\": null,\n        \"UpdatedBy\": null,\n        \"HotelId\": 9\n    },\n    {\n        \"Id\": 10,\n        \"RoomName\": \"Single Bed Room\",\n        \"RoomCategory\": \"size <35 m2\",\n        \"RoomPrice\": 7000,\n        \"IsActive\": \"Y\",\n        \"CreatedDate\": \"2021-01-11T15:27:22.477\",\n        \"CreatedBy\": \"Raju\",\n        \"UpdatedDate\": null,\n        \"UpdatedBy\": null,\n        \"HotelId\": 8\n    },\n    {\n        \"Id\": 16,\n        \"RoomName\": \"KING SIZE ROOM\",\n        \"RoomCategory\": \"size 51-100 m2\",\n        \"RoomPrice\": 85000,\n        \"IsActive\": \"Y\",\n        \"CreatedDate\": \"2021-01-11T15:29:29.53\",\n        \"CreatedBy\": \"Raju\",\n        \"UpdatedDate\": null,\n        \"UpdatedBy\": null,\n        \"HotelId\": 8\n    },\n    {\n        \"Id\": 23,\n        \"RoomName\": \"Sweet\",\n        \"RoomCategory\": \"size 36-50 m2\",\n        \"RoomPrice\": 7300,\n        \"IsActive\": \"Y\",\n        \"CreatedDate\": \"2021-01-11T15:32:46.873\",\n        \"CreatedBy\": \"Raju\",\n        \"UpdatedDate\": null,\n        \"UpdatedBy\": null,\n        \"HotelId\": 8\n    },\n    {\n        \"Id\": 1,\n        \"RoomName\": \"Sweet\",\n        \"RoomCategory\": \"size 36-50 m2\",\n        \"RoomPrice\": 10000,\n        \"IsActive\": \"Y\",\n        \"CreatedDate\": \"2021-01-11T15:21:52.26\",\n        \"CreatedBy\": \"Raju\",\n        \"UpdatedDate\": null,\n        \"UpdatedBy\": null,\n        \"HotelId\": 2\n    },\n    {\n        \"Id\": 2,\n        \"RoomName\": \"KING SIZE ROOM\",\n        \"RoomCategory\": \"size 51-100 m2\",\n        \"RoomPrice\": 100000,\n        \"IsActive\": \"Y\",\n        \"CreatedDate\": \"2021-01-11T15:23:16.227\",\n        \"CreatedBy\": \"Raju\",\n        \"UpdatedDate\": null,\n        \"UpdatedBy\": null,\n        \"HotelId\": 2\n    },\n    {\n        \"Id\": 3,\n        \"RoomName\": \"Single Bed Room\",\n        \"RoomCategory\": \"size <35 m2\",\n        \"RoomPrice\": 5000,\n        \"IsActive\": \"Y\",\n        \"CreatedDate\": \"2021-01-11T15:24:38.317\",\n        \"CreatedBy\": \"Raju\",\n        \"UpdatedDate\": null,\n        \"UpdatedBy\": null,\n        \"HotelId\": 2\n    },\n    {\n        \"Id\": 6,\n        \"RoomName\": \"Single Bed Room\",\n        \"RoomCategory\": \"size <35 m2\",\n        \"RoomPrice\": 6000,\n        \"IsActive\": \"Y\",\n        \"CreatedDate\": \"2021-01-11T15:26:47.007\",\n        \"CreatedBy\": \"Raju\",\n        \"UpdatedDate\": null,\n        \"UpdatedBy\": null,\n        \"HotelId\": 3\n    },\n    {\n        \"Id\": 12,\n        \"RoomName\": \"KING SIZE ROOM\",\n        \"RoomCategory\": \"size 51-100 m2\",\n        \"RoomPrice\": 80000,\n        \"IsActive\": \"Y\",\n        \"CreatedDate\": \"2021-01-11T15:28:41.447\",\n        \"CreatedBy\": \"Raju\",\n        \"UpdatedDate\": null,\n        \"UpdatedBy\": null,\n        \"HotelId\": 3\n    },\n    {\n        \"Id\": 18,\n        \"RoomName\": \"Sweet\",\n        \"RoomCategory\": \"size 36-50 m2\",\n        \"RoomPrice\": 9000,\n        \"IsActive\": \"Y\",\n        \"CreatedDate\": \"2021-01-11T15:32:09.613\",\n        \"CreatedBy\": \"Raju\",\n        \"UpdatedDate\": null,\n        \"UpdatedBy\": null,\n        \"HotelId\": 3\n    },\n    {\n        \"Id\": 7,\n        \"RoomName\": \"Single Bed Room\",\n        \"RoomCategory\": \"size <35 m2\",\n        \"RoomPrice\": 7000,\n        \"IsActive\": \"Y\",\n        \"CreatedDate\": \"2021-01-11T15:26:55.127\",\n        \"CreatedBy\": \"Raju\",\n        \"UpdatedDate\": null,\n        \"UpdatedBy\": null,\n        \"HotelId\": 4\n    },\n    {\n        \"Id\": 13,\n        \"RoomName\": \"KING SIZE ROOM\",\n        \"RoomCategory\": \"size 51-100 m2\",\n        \"RoomPrice\": 90000,\n        \"IsActive\": \"Y\",\n        \"CreatedDate\": \"2021-01-11T15:28:47.97\",\n        \"CreatedBy\": \"Raju\",\n        \"UpdatedDate\": null,\n        \"UpdatedBy\": null,\n        \"HotelId\": 4\n    },\n    {\n        \"Id\": 19,\n        \"RoomName\": \"Sweet\",\n        \"RoomCategory\": \"size 36-50 m2\",\n        \"RoomPrice\": 9500,\n        \"IsActive\": \"Y\",\n        \"CreatedDate\": \"2021-01-11T15:32:20.52\",\n        \"CreatedBy\": \"Raju\",\n        \"UpdatedDate\": null,\n        \"UpdatedBy\": null,\n        \"HotelId\": 4\n    },\n    {\n        \"Id\": 4,\n        \"RoomName\": \"Single Bed Room\",\n        \"RoomCategory\": \"size <35 m2\",\n        \"RoomPrice\": 5000,\n        \"IsActive\": \"Y\",\n        \"CreatedDate\": \"2021-01-11T15:25:37.81\",\n        \"CreatedBy\": \"Raju\",\n        \"UpdatedDate\": null,\n        \"UpdatedBy\": null,\n        \"HotelId\": 5\n    },\n    {\n        \"Id\": 5,\n        \"RoomName\": \"KING SIZE ROOM\",\n        \"RoomCategory\": \"size 51-100 m2\",\n        \"RoomPrice\": 100000,\n        \"IsActive\": \"Y\",\n        \"CreatedDate\": \"2021-01-11T15:26:11.073\",\n        \"CreatedBy\": \"Raju\",\n        \"UpdatedDate\": null,\n        \"UpdatedBy\": null,\n        \"HotelId\": 5\n    },\n    {\n        \"Id\": 20,\n        \"RoomName\": \"Sweet\",\n        \"RoomCategory\": \"size 36-50 m2\",\n        \"RoomPrice\": 9300,\n        \"IsActive\": \"Y\",\n        \"CreatedDate\": \"2021-01-11T15:32:27.933\",\n        \"CreatedBy\": \"Raju\",\n        \"UpdatedDate\": null,\n        \"UpdatedBy\": null,\n        \"HotelId\": 5\n    },\n    {\n        \"Id\": 8,\n        \"RoomName\": \"Single Bed Room\",\n        \"RoomCategory\": \"size <35 m2\",\n        \"RoomPrice\": 4000,\n        \"IsActive\": \"Y\",\n        \"CreatedDate\": \"2021-01-11T15:27:02.547\",\n        \"CreatedBy\": \"Raju\",\n        \"UpdatedDate\": null,\n        \"UpdatedBy\": null,\n        \"HotelId\": 6\n    },\n    {\n        \"Id\": 14,\n        \"RoomName\": \"KING SIZE ROOM\",\n        \"RoomCategory\": \"size 51-100 m2\",\n        \"RoomPrice\": 100000,\n        \"IsActive\": \"Y\",\n        \"CreatedDate\": \"2021-01-11T15:29:12.83\",\n        \"CreatedBy\": \"Raju\",\n        \"UpdatedDate\": null,\n        \"UpdatedBy\": null,\n        \"HotelId\": 6\n    },\n    {\n        \"Id\": 21,\n        \"RoomName\": \"Sweet\",\n        \"RoomCategory\": \"size 36-50 m2\",\n        \"RoomPrice\": 7300,\n        \"IsActive\": \"Y\",\n        \"CreatedDate\": \"2021-01-11T15:32:34.617\",\n        \"CreatedBy\": \"Raju\",\n        \"UpdatedDate\": null,\n        \"UpdatedBy\": null,\n        \"HotelId\": 6\n    },\n    {\n        \"Id\": 9,\n        \"RoomName\": \"Single Bed Room\",\n        \"RoomCategory\": \"size <35 m2\",\n        \"RoomPrice\": 3000,\n        \"IsActive\": \"Y\",\n        \"CreatedDate\": \"2021-01-11T15:27:13.177\",\n        \"CreatedBy\": \"Raju\",\n        \"UpdatedDate\": null,\n        \"UpdatedBy\": null,\n        \"HotelId\": 7\n    },\n    {\n        \"Id\": 15,\n        \"RoomName\": \"KING SIZE ROOM\",\n        \"RoomCategory\": \"size 51-100 m2\",\n        \"RoomPrice\": 80000,\n        \"IsActive\": \"Y\",\n        \"CreatedDate\": \"2021-01-11T15:29:21.497\",\n        \"CreatedBy\": \"Raju\",\n        \"UpdatedDate\": null,\n        \"UpdatedBy\": null,\n        \"HotelId\": 7\n    },\n    {\n        \"Id\": 22,\n        \"RoomName\": \"Sweet\",\n        \"RoomCategory\": \"size 36-50 m2\",\n        \"RoomPrice\": 4300,\n        \"IsActive\": \"Y\",\n        \"CreatedDate\": \"2021-01-11T15:32:40.507\",\n        \"CreatedBy\": \"Raju\",\n        \"UpdatedDate\": null,\n        \"UpdatedBy\": null,\n        \"HotelId\": 7\n    }\n]"
+				}
+			]
+		}
+	],
+	"auth": {
+		"type": "basic",
+		"basic": [
+			{
+				"key": "username",
+				"value": "Saurabh",
+				"type": "string"
+			},
+			{
+				"key": "password",
+				"value": "123456",
+				"type": "string"
+			}
+		]
+	},
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	]
+}
