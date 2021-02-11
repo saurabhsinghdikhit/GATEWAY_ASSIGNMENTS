@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "kFW0yYkl3y152CAjorSz0/sa1uQI2NOhyPo37aZ78M1hlxrk0Tn50xupw1V+SFlr4Eb8mFlmiBShTjkIC1lupw==",
+  "success": true,
+  "projectFilePath": "E:\\GATEWAY\\Gateway Assignments\\Microservices\\Assignment 3\\MicroserviceAssignment3\\GatewayAPI\\GatewayAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ss520\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Ss520\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Ss520\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Ss520\\.nuget\\packages\\swashbuckle.aspnetcore\\6.0.4\\swashbuckle.aspnetcore.6.0.4.nupkg.sha512",
+    "C:\\Users\\Ss520\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.0.4\\swashbuckle.aspnetcore.swagger.6.0.4.nupkg.sha512",
+    "C:\\Users\\Ss520\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.0.4\\swashbuckle.aspnetcore.swaggergen.6.0.4.nupkg.sha512",
+    "C:\\Users\\Ss520\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.0.4\\swashbuckle.aspnetcore.swaggerui.6.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+E:\GATEWAY\Gateway Assignments\Microservices\Assignment 3\MicroserviceAssignment3\CommonObject\bin\Debug\netcoreapp3.1\CommonObject.deps.json
+E:\GATEWAY\Gateway Assignments\Microservices\Assignment 3\MicroserviceAssignment3\CommonObject\bin\Debug\netcoreapp3.1\CommonObject.dll
+E:\GATEWAY\Gateway Assignments\Microservices\Assignment 3\MicroserviceAssignment3\CommonObject\bin\Debug\netcoreapp3.1\CommonObject.pdb
+E:\GATEWAY\Gateway Assignments\Microservices\Assignment 3\MicroserviceAssignment3\CommonObject\obj\Debug\netcoreapp3.1\CommonObject.AssemblyInfoInputs.cache
+E:\GATEWAY\Gateway Assignments\Microservices\Assignment 3\MicroserviceAssignment3\CommonObject\obj\Debug\netcoreapp3.1\CommonObject.AssemblyInfo.cs
+E:\GATEWAY\Gateway Assignments\Microservices\Assignment 3\MicroserviceAssignment3\CommonObject\obj\Debug\netcoreapp3.1\CommonObject.csproj.CoreCompileInputs.cache
+E:\GATEWAY\Gateway Assignments\Microservices\Assignment 3\MicroserviceAssignment3\CommonObject\obj\Debug\netcoreapp3.1\CommonObject.dll
+E:\GATEWAY\Gateway Assignments\Microservices\Assignment 3\MicroserviceAssignment3\CommonObject\obj\Debug\netcoreapp3.1\CommonObject.pdb
+E:\GATEWAY\Gateway Assignments\Microservices\Assignment 3\MicroserviceAssignment3\CommonObject\obj\Debug\netcoreapp3.1\CommonObject.csprojAssemblyReference.cache

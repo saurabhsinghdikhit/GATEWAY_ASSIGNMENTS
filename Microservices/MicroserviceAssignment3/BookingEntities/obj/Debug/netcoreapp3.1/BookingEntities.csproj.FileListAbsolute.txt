@@ -1,0 +1,9 @@
+E:\GATEWAY\Gateway Assignments\Microservices\Assignment 3\MicroserviceAssignment3\BookingEntities\bin\Debug\netcoreapp3.1\BookingEntities.deps.json
+E:\GATEWAY\Gateway Assignments\Microservices\Assignment 3\MicroserviceAssignment3\BookingEntities\bin\Debug\netcoreapp3.1\BookingEntities.dll
+E:\GATEWAY\Gateway Assignments\Microservices\Assignment 3\MicroserviceAssignment3\BookingEntities\bin\Debug\netcoreapp3.1\BookingEntities.pdb
+E:\GATEWAY\Gateway Assignments\Microservices\Assignment 3\MicroserviceAssignment3\BookingEntities\obj\Debug\netcoreapp3.1\BookingEntities.AssemblyInfoInputs.cache
+E:\GATEWAY\Gateway Assignments\Microservices\Assignment 3\MicroserviceAssignment3\BookingEntities\obj\Debug\netcoreapp3.1\BookingEntities.AssemblyInfo.cs
+E:\GATEWAY\Gateway Assignments\Microservices\Assignment 3\MicroserviceAssignment3\BookingEntities\obj\Debug\netcoreapp3.1\BookingEntities.csproj.CoreCompileInputs.cache
+E:\GATEWAY\Gateway Assignments\Microservices\Assignment 3\MicroserviceAssignment3\BookingEntities\obj\Debug\netcoreapp3.1\BookingEntities.dll
+E:\GATEWAY\Gateway Assignments\Microservices\Assignment 3\MicroserviceAssignment3\BookingEntities\obj\Debug\netcoreapp3.1\BookingEntities.pdb
+E:\GATEWAY\Gateway Assignments\Microservices\Assignment 3\MicroserviceAssignment3\BookingEntities\obj\Debug\netcoreapp3.1\BookingEntities.csprojAssemblyReference.cache

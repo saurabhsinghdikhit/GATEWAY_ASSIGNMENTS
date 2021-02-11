@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "718BDHOg6RQxAmUmr+Bfdt55gwXerI4Z+iFR4Iyv6tFSFJsEDkjifeGyY2238d/3fDN2aY5/hH/2uFe0BLW7gA==",
+  "success": true,
+  "projectFilePath": "E:\\GATEWAY\\Gateway Assignments\\Microservices\\Assignment 3\\MicroserviceAssignment3\\TheaterAPI\\TheaterAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ss520\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Ss520\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Ss520\\.nuget\\packages\\swashbuckle.aspnetcore\\6.0.3\\swashbuckle.aspnetcore.6.0.3.nupkg.sha512",
+    "C:\\Users\\Ss520\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.0.3\\swashbuckle.aspnetcore.swagger.6.0.3.nupkg.sha512",
+    "C:\\Users\\Ss520\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.0.3\\swashbuckle.aspnetcore.swaggergen.6.0.3.nupkg.sha512",
+    "C:\\Users\\Ss520\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.0.3\\swashbuckle.aspnetcore.swaggerui.6.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
