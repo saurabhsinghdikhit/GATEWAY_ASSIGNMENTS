@@ -1,0 +1,90 @@
+﻿@model SBS.BE.BussinessEntities.AppointBookingVM
+
+@{
+    ViewBag.Title = "ApproveAppointment";
+}
+
+<h2>Approve Appointment</h2>
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <div class="row">
+        <div class="col-lg-6">
+            <div class="form-horizontal">
+                <hr />
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                @Html.HiddenFor(model => model.Id)
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.StartTime, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.StartTime, new { htmlAttributes = new { @class = "form-control", @Type = "datetime-local" } })
+                        @Html.ValidationMessageFor(model => model.StartTime, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.EndTime, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.EndTime, new { htmlAttributes = new { @class = "form-control", @Type = "datetime-local" } })
+                        @Html.ValidationMessageFor(model => model.EndTime, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.VehicleId, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.VehicleId, new { htmlAttributes = new { @class = "form-control", @Readonly = "Readonly" } })
+                        @Html.ValidationMessageFor(model => model.VehicleId, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="control-label col-md-2">Brand Name</label>
+                    <div class="col-md-10">
+                        <input type="text" id="vehicleName" readonly="readonly" class="form-control" />
+                    </div>
+                </div>
+
+
+
+
+
+
+
+
+
+
+            </div>
+        </div>
+
+        <div class="col-lg-6">
+            <div class="">
+                <hr />
+                <div class="form-inline">
+                    <input type="text" class="form-control" id="txtSearchBrandMechanic" />
+                    <button class="btn btn-info" id="btnSearchBrandMechanic">Search Mechanic By Brand</button>
+                </div>
+                <br />
+                Searched Mechanic info
+                <div class="form-group">
+                    ID: <input type="text" required class="form-control" readonly="readonly" name="searchmechanicId" id="searchmechanicId" />
+                    <br />Name: <input type="text" required class="form-control" readonly="readonly" id="searchmechanicName" />
+                </div>
+            </div>
+        </div>
+    </div>
+    <br />
+    <div class="form-group text-center">
+        <div class="">
+            <input type="submit" value="Confrim Appointment" class="btn btn-success" />
+        </div>
+    </div>
+}
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    <script src="~/Scripts/confirmAppointment.js"></script>
+}

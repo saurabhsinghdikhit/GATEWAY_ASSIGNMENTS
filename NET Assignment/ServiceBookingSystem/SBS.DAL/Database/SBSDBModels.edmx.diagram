@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="03092d1d2da44a318708c8db748198de" Name="Diagram1">
+        <EntityTypeShape EntityType="ServiceBookingSystemModel.AppointBooking" Width="1.5" PointX="5.25" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="ServiceBookingSystemModel.Customer" Width="1.5" PointX="0.75" PointY="11.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="ServiceBookingSystemModel.Dealer" Width="1.5" PointX="0.75" PointY="3.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="ServiceBookingSystemModel.Mechanic" Width="1.5" PointX="3" PointY="7.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="ServiceBookingSystemModel.Service" Width="1.5" PointX="3" PointY="3.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="ServiceBookingSystemModel.Vehicle" Width="1.5" PointX="3" PointY="11.875" IsExpanded="true" />
+        <AssociationConnector Association="ServiceBookingSystemModel.FK_AppointBookings_DealerId" ManuallyRouted="false" />
+        <AssociationConnector Association="ServiceBookingSystemModel.FK_AppointBookings_MechanicId" ManuallyRouted="false" />
+        <AssociationConnector Association="ServiceBookingSystemModel.FK_AppointBookings_ServiceId" ManuallyRouted="false" />
+        <AssociationConnector Association="ServiceBookingSystemModel.FK_AppointBookings_VehicleId" ManuallyRouted="false" />
+        <AssociationConnector Association="ServiceBookingSystemModel.FK_Vehicles_OwnerId" ManuallyRouted="false" />
+        <AssociationConnector Association="ServiceBookingSystemModel.FK_Mechanics_DealerId" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

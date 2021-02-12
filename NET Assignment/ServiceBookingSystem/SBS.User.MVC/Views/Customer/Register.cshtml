@@ -1,0 +1,126 @@
+﻿@model SBS.BE.BussinessEntities.CustomerVM
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Customer Registration</title>
+    @Styles.Render("~/Content/authenticate")
+    @Scripts.Render("~/bundles/modernizr")
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="icon" href="~/images/bike.png" type="image/imge_header">
+    @{ Html.EnableClientValidation(); }
+</head>
+<body>
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+        <div class="main" style="padding:0px">
+
+
+            <!-- Sign up form -->
+            <section class="signup">
+                <div class="container">
+                    <div class="signup-content">
+                        <div class="signup-form">
+                            <h2 class="form-title">Sign up</h2>
+                            <form method="POST" class="register-form" id="register-form">
+                                <div class="form-group">
+                                    <div class="col-lg-6">
+                                        <label><i class="fa fa-user material-icons-name"></i></label>
+                                        @Html.TextBoxFor(a => a.Name, new { @Placeholder = "Name" })
+                                        @Html.ValidationMessageFor(a => a.Name, "", new { @class = "text-danger" })
+                                    </div>
+                                    <div class="col-lg-6">
+                                        <label><i class="fa fa-envelope material-icons-name"></i></label>
+                                        @Html.TextBoxFor(a => a.Email, new { @Placeholder = "Email" })
+                                        @Html.ValidationMessageFor(a => a.Email, "", new { @class = "text-danger" })
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <div class="col-lg-6">
+                                        <label><i class="fa fa-unlock-alt material-icons-name"></i></label>
+                                        @Html.TextBoxFor(a => a.Password, new { @Placeholder = "Password", type = "password" })
+                                        @Html.ValidationMessageFor(a => a.Password, "", new { @class = "text-danger" })
+                                    </div>
+                                    <div class="col-lg-6">
+                                        <label><i class="fa fa-unlock-alt material-icons-name"></i></label>
+                                        @Html.TextBoxFor(a => a.ConfirmPassword, new { @Placeholder = "Confirm Password", type = "password" })
+                                        @Html.ValidationMessageFor(a => a.ConfirmPassword, "", new { @class = "text-danger" })
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <div class="col-lg-6">
+                                        <label><i class="fa fa-globe material-icons-name"></i></label>
+                                        @Html.TextBoxFor(a => a.Address, new { @Placeholder = "Local Address" })
+                                        @Html.ValidationMessageFor(a => a.Address, "", new { @class = "text-danger" })
+                                    </div>
+                                    <div class="col-lg-6">
+                                        <label><i class="fa fa-map-marker material-icons-name"></i></label>
+                                        @Html.TextBoxFor(a => a.City, new { @Placeholder = "City" })
+                                        @Html.ValidationMessageFor(a => a.City, "", new { @class = "text-danger" })
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <div class="col-lg-6">
+                                        <label><i class="fa fa-globe material-icons-name"></i></label>
+                                        @Html.TextBoxFor(a => a.State, new { @Placeholder = "State" })
+                                        @Html.ValidationMessageFor(a => a.State, "", new { @class = "text-danger" })
+                                    </div>
+                                    <div class="col-lg-6">
+                                        <label><i class="fa fa-map-marker material-icons-name"></i></label>
+                                        @Html.TextBoxFor(a => a.Zipcode, new { @Placeholder = "Zipcode", type = "number" })
+                                        @Html.ValidationMessageFor(a => a.Zipcode, "", new { @class = "text-danger" })
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <div class="col-lg-4">
+                                        <label><i class="fa fa-phone material-icons-name"></i></label>
+                                        @Html.TextBoxFor(a => a.Mobile, new { @Placeholder = "Mobile", type = "number" })
+                                        @Html.ValidationMessageFor(a => a.Mobile, "", new { @class = "text-danger" })
+                                    </div>
+                                    <div class="col-lg-4">
+                                        <label><i class="fa fa-question-circle material-icons-name"></i></label>
+                                        @Html.DropDownListFor(a => a.Question, (IEnumerable<SelectListItem>
+                                        )ViewData["SecurityQuestions"],
+
+                                        htmlAttributes: new { @class = "form-control", style = "border: 1px solid #cccccc52" })
+
+                                        @Html.ValidationMessageFor(a => a.Question, "", new { @class = "text-danger" })
+                                    </div>
+                                    <div class="col-lg-4">
+                                        <label><i class="fa fa-lightbulb-o material-icons-name"></i></label>
+                                        @Html.TextBoxFor(a => a.Answer, new { @Placeholder = "Security Answer" })
+                                        @Html.ValidationMessageFor(a => a.Answer, "", new { @class = "text-danger" })
+                                    </div>
+                                </div>
+                                <div class="form-group form-button text-center">
+                                    <input type="submit" name="signup" id="signup" class="form-submit" value="Register" />
+                                    <br />@Html.ActionLink("Already have an account?", "Login", "Customer")
+                                </div>
+
+                            </form>
+                        </div>
+
+                    </div>
+                </div>
+            </section>
+
+
+        </div>
+
+    }
+
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    <script src="@Url.Content("~/Scripts/jquery.validate.min.js")" type="text/javascript"></script>
+    <script src="@Url.Content("~/Scripts/jquery.validate.unobtrusive.min.js")" type="text/javascript"></script>
+</body>
+</html>

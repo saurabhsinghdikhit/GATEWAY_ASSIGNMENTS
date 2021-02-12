@@ -1,0 +1,94 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="~/Images/bike.png" type="image/imge_header">
+    <link href='https://cdn.jsdelivr.net/npm/boxicons@2.0.5/css/boxicons.min.css' rel='stylesheet'>
+    <link href="~/fonts/font-awesome-4.7/css/font-awesome.min.css" rel="stylesheet" media="all">
+    <title>@ViewBag.Title:: Admin Panel</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+</head>
+<body>
+    <div id="nofication" style="background:blue" class="notification">
+    </div>
+    <div id="navig" class="navbar navbar-dark navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a href="/Admin/Dashboard"><img src="~/Images/bike.png" width="50" height="50" /></a>
+
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li style="@ViewBag.Home">@Html.ActionLink("Home", "Dashboard", "Admin")</li>
+                    <li style="@ViewBag.Index">
+                        <div class="dropdown">
+                            <button class="dropbtn">Administration</button>
+                            <div class="dropdown-content">
+                                <a href="/Admin/Dealer">Dealer</a>
+                                <a href="/Admin/Customer">Customer</a>
+                                <a href="/Admin/Mechanic">Mechanic</a>
+                                <a href="/Admin/Service">Service</a>
+                            </div>
+                        </div>
+                    </li>
+
+                    <li>
+                        <div class="dropdown">
+                            <button class="dropbtn">Workshop</button>
+                            <div class="dropdown-content">
+                                <a href="/Admin/Appointments">Appointments</a>
+                                <a href="/Admin/Report">Booking Report</a>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="dropdown">
+                            <button class="dropbtn">Settings</button>
+                            <div class="dropdown-content">
+                                <a href="/Admin/Customer">Chages Password</a>
+                                <a href="/Admin/Customer">Update Profile</a>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+
+        </div>
+    </div>
+    <div class="container">
+        @RenderBody()
+        <br /><br />
+        <div class="container-fluid">
+            <!--===== FOOTER =====-->
+            <footer class="footer">
+                <p class="footer__title">Saurabh Singh <a target="_blank" href="http://www.developersaurabh.ml">Visit My Website</a></p>
+                <div class="footer__social">
+                    <a href="mailto:saurabhurajput@gmail.com" class="footer__icon"><i class='bx bx-mail-send'></i></a>
+                    <a target="_blank" href="https://www.facebook.com/profile.php?id=100005608683263" class="footer__icon"><i class='bx bxl-facebook'></i></a>
+                    <a target="_blank" href="https://www.instagram.com/damn_rajput/" class="footer__icon"><i class='bx bxl-instagram'></i></a>
+                    <a target="_blank" href="https://twitter.com/Saurabh89157654" class="footer__icon"><i class='bx bxl-twitter'></i></a>
+                    <a target="_blank" href="https://www.linkedin.com/in/developersaurabhsingh/" class="footer__icon"><i class='bx bxl-linkedin'></i></a>
+                </div>
+                <p>&#169; 2021 copyright all right reserved</p>
+            </footer>
+        </div>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    @Scripts.Render("~/bundles/bootstrap")
+
+    
+    @RenderSection("scripts", required: false)
+
+
+</body>
+</html>

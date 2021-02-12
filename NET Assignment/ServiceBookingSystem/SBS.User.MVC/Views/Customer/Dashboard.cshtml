@@ -1,0 +1,37 @@
+﻿
+@{
+    ViewBag.Title = "Dashboard";
+}
+
+<h2>Dashboard</h2>
+@if (ViewBag.Message != null)
+{
+    <div id="nofication" style="background:@ViewBag.Color" class="notification">
+        @ViewBag.Message
+    </div>
+}
+<div class="row">
+    <div class="col-md-12 text-center">
+        <div class="user-card">
+            <div class="user-img">
+                <img src="~/Images/bike.png" />
+            </div>
+            <div class="user-text">
+                Welcome Back!
+            </div>
+            <div class="user-details">
+                <p><strong>Name :</strong> @Session["userName"]</p>
+                <p><strong>Email :</strong>  @Session["userEmail"]</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section scripts
+    {
+    <script>
+        setTimeout(function () {
+            $('#nofication').fadeOut('fast');
+        }, 4000);
+    </script>
+}

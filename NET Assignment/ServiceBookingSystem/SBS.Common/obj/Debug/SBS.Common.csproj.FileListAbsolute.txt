@@ -1,0 +1,6 @@
+E:\GATEWAY\Gateway Assignments\.net\ServiceBookingSystem\SBS.Common\bin\Debug\SBS.Common.dll
+E:\GATEWAY\Gateway Assignments\.net\ServiceBookingSystem\SBS.Common\bin\Debug\SBS.Common.pdb
+E:\GATEWAY\Gateway Assignments\.net\ServiceBookingSystem\SBS.Common\obj\Debug\SBS.Common.csprojAssemblyReference.cache
+E:\GATEWAY\Gateway Assignments\.net\ServiceBookingSystem\SBS.Common\obj\Debug\SBS.Common.csproj.CoreCompileInputs.cache
+E:\GATEWAY\Gateway Assignments\.net\ServiceBookingSystem\SBS.Common\obj\Debug\SBS.Common.dll
+E:\GATEWAY\Gateway Assignments\.net\ServiceBookingSystem\SBS.Common\obj\Debug\SBS.Common.pdb

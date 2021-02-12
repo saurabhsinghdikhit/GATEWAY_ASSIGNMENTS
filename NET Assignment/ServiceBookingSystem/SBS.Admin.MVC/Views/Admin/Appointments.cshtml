@@ -1,0 +1,77 @@
+﻿@model IEnumerable<SBS.BE.BussinessEntities.AppointBookingVM>
+
+@{
+    ViewBag.Title = "Appointments";
+}
+
+<h2>Appointments</h2>
+
+<p>
+    @Html.ActionLink("Create New Appointment", "CreateAppointment",null, new { @class = "btn btn-info" })
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.StartTime)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EndTime)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.VehicleId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DealerId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MechanicId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ServiceId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CreatedBy)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.UpdatedBy)
+        </th>
+        
+        <th>Operations</th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.StartTime)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.EndTime)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.VehicleId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DealerId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.MechanicId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ServiceId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CreatedBy)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.UpdatedBy)
+        </td>
+        
+        <td>
+            @Html.ActionLink("Update", "EditAppointment", new { id = item.Id }, new { @class = "btn btn-info" })
+            @Html.ActionLink("Approve", "Approve", new { id = item.Id }, new { @class = "btn btn-success" })
+
+        </td>
+    </tr>
+}
+
+</table>

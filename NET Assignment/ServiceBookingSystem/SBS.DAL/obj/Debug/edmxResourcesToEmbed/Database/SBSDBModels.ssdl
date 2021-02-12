@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ServiceBookingSystemModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="AppointBookings">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="StartTime" Type="datetime" Nullable="false" />
+    <Property Name="EndTime" Type="datetime" Nullable="false" />
+    <Property Name="VehicleId" Type="int" Nullable="false" />
+    <Property Name="DealerId" Type="int" Nullable="false" />
+    <Property Name="MechanicId" Type="int" />
+    <Property Name="ServiceId" Type="int" Nullable="false" />
+    <Property Name="CreatedBy" Type="int" Nullable="false" />
+    <Property Name="UpdatedBy" Type="int" />
+    <Property Name="Status" Type="bit" />
+  </EntityType>
+  <EntityType Name="Customers">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="40" Nullable="false" />
+    <Property Name="Address" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="City" Type="nvarchar" MaxLength="30" Nullable="false" />
+    <Property Name="State" Type="nvarchar" MaxLength="30" Nullable="false" />
+    <Property Name="Zipcode" Type="int" Nullable="false" />
+    <Property Name="Email" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Mobile" Type="nvarchar" MaxLength="13" Nullable="false" />
+    <Property Name="Password" Type="nvarchar" MaxLength="30" Nullable="false" />
+    <Property Name="Question" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Answer" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Dealers">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="30" Nullable="false" />
+    <Property Name="Address" Type="nvarchar" MaxLength="70" Nullable="false" />
+    <Property Name="City" Type="nvarchar" MaxLength="30" Nullable="false" />
+    <Property Name="State" Type="nvarchar" MaxLength="30" Nullable="false" />
+    <Property Name="Zipcode" Type="int" Nullable="false" />
+    <Property Name="Email" Type="nvarchar" MaxLength="30" Nullable="false" />
+    <Property Name="Mobile" Type="nvarchar" MaxLength="13" Nullable="false" />
+    <Property Name="Password" Type="nvarchar" MaxLength="25" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Mechanics">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="30" Nullable="false" />
+    <Property Name="Mobile" Type="nvarchar" MaxLength="13" Nullable="false" />
+    <Property Name="Make" Type="nvarchar" MaxLength="30" Nullable="false" />
+    <Property Name="Email" Type="nvarchar" MaxLength="30" Nullable="false" />
+    <Property Name="DealerId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Services">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="30" Nullable="false" />
+    <Property Name="Price" Type="decimal" Precision="6" Scale="2" Nullable="false" />
+    <Property Name="Duration" Type="nvarchar" MaxLength="10" Nullable="false" />
+    <Property Name="Active" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Vehicles">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="LicensePlate" Type="nvarchar" MaxLength="12" Nullable="false" />
+    <Property Name="Make" Type="nvarchar" MaxLength="25" Nullable="false" />
+    <Property Name="Model" Type="nvarchar" MaxLength="25" Nullable="false" />
+    <Property Name="RegistrationDate" Type="datetime" Nullable="false" />
+    <Property Name="ChassisNo" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="OwnerId" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_AppointBookings_DealerId">
+    <End Role="Dealers" Type="Self.Dealers" Multiplicity="1" />
+    <End Role="AppointBookings" Type="Self.AppointBookings" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Dealers">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="AppointBookings">
+        <PropertyRef Name="DealerId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_AppointBookings_MechanicId">
+    <End Role="Mechanics" Type="Self.Mechanics" Multiplicity="0..1" />
+    <End Role="AppointBookings" Type="Self.AppointBookings" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Mechanics">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="AppointBookings">
+        <PropertyRef Name="MechanicId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_AppointBookings_ServiceId">
+    <End Role="Services" Type="Self.Services" Multiplicity="1" />
+    <End Role="AppointBookings" Type="Self.AppointBookings" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Services">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="AppointBookings">
+        <PropertyRef Name="ServiceId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_AppointBookings_VehicleId">
+    <End Role="Vehicles" Type="Self.Vehicles" Multiplicity="1" />
+    <End Role="AppointBookings" Type="Self.AppointBookings" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Vehicles">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="AppointBookings">
+        <PropertyRef Name="VehicleId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Mechanics_DealerId">
+    <End Role="Dealers" Type="Self.Dealers" Multiplicity="1" />
+    <End Role="Mechanics" Type="Self.Mechanics" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Dealers">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Mechanics">
+        <PropertyRef Name="DealerId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Vehicles_OwnerId">
+    <End Role="Customers" Type="Self.Customers" Multiplicity="1" />
+    <End Role="Vehicles" Type="Self.Vehicles" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Customers">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Vehicles">
+        <PropertyRef Name="OwnerId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="ServiceBookingSystemModelStoreContainer">
+    <EntitySet Name="AppointBookings" EntityType="Self.AppointBookings" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Customers" EntityType="Self.Customers" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Dealers" EntityType="Self.Dealers" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Mechanics" EntityType="Self.Mechanics" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Services" EntityType="Self.Services" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Vehicles" EntityType="Self.Vehicles" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_AppointBookings_DealerId" Association="Self.FK_AppointBookings_DealerId">
+      <End Role="Dealers" EntitySet="Dealers" />
+      <End Role="AppointBookings" EntitySet="AppointBookings" />
+    </AssociationSet>
+    <AssociationSet Name="FK_AppointBookings_MechanicId" Association="Self.FK_AppointBookings_MechanicId">
+      <End Role="Mechanics" EntitySet="Mechanics" />
+      <End Role="AppointBookings" EntitySet="AppointBookings" />
+    </AssociationSet>
+    <AssociationSet Name="FK_AppointBookings_ServiceId" Association="Self.FK_AppointBookings_ServiceId">
+      <End Role="Services" EntitySet="Services" />
+      <End Role="AppointBookings" EntitySet="AppointBookings" />
+    </AssociationSet>
+    <AssociationSet Name="FK_AppointBookings_VehicleId" Association="Self.FK_AppointBookings_VehicleId">
+      <End Role="Vehicles" EntitySet="Vehicles" />
+      <End Role="AppointBookings" EntitySet="AppointBookings" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Mechanics_DealerId" Association="Self.FK_Mechanics_DealerId">
+      <End Role="Dealers" EntitySet="Dealers" />
+      <End Role="Mechanics" EntitySet="Mechanics" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Vehicles_OwnerId" Association="Self.FK_Vehicles_OwnerId">
+      <End Role="Customers" EntitySet="Customers" />
+      <End Role="Vehicles" EntitySet="Vehicles" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
