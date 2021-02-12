@@ -1,0 +1,96 @@
+﻿@using PagedList;
+@using PagedList.Mvc;
+@model PagedList.IPagedList<CS.PMA.BE.ViewModels.ProductVM>
+
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+
+@{
+    ViewBag.Title = "Index";
+    ViewBag.Index = "background:#2196f3;border-radius:50px";
+}
+@if (ViewBag.Message != null)
+{
+    <div id="nofication" style="background:@ViewBag.Color" class="notification">
+        @ViewBag.Message
+    </div>
+}
+
+<hr />
+<div class="filter-layout row">
+    <div class="col-md-2">
+        <div class="dropdown">
+            <button class="dropbtn">Sort by</button>
+            <div class="dropdown-content">
+                @Html.ActionLink("Product Name", "Index", new { sortOrder = ViewBag.ProductNameSortParm, currentFilter = ViewBag.CurrentFilter })
+                @Html.ActionLink("Category Name", "Index", new { sortOrder = ViewBag.CategoryNameSortParm, currentFilter = ViewBag.CurrentFilter })
+            </div>
+        </div>
+
+    </div>
+
+    @using (Html.BeginForm("Index", "Product", FormMethod.Get))
+    {
+        <div class="col-md-7">
+            <select name="custom" class="dropdown form-control">
+                <option value="nocustom">-- Select any for custom search --</option>
+                <option value="name">Name</option>
+                <option value="category">Category</option>
+                <option value="Sdescription">Short Description</option>
+                <option value="Ldescription">Long Description</option>
+            </select>
+        </div>
+        <div class="col-md-4">
+            @Html.TextBox("SearchString", ViewBag.CurrentFilter as string, new { @class = "form-control" })
+        </div>
+        <div class="col-md-1">
+            <input type="submit" class="btn btn-success" value="Search" />
+        </div>
+    }
+</div>
+
+<br>
+@using (Html.BeginForm("DeleteMultipleProducts", "Product", FormMethod.Post, new { id = "form", action = "DeleteMultipleProducts" }))
+{
+    <a onclick='$("#form").submit()' style="display:none" id="deleteButton" class="float">
+        <i class="fa fa-trash fa-2x my-float"><span class="badge" id="selectionTotal"></span></i>
+    </a>
+    <div class="row">
+        @foreach (var item in Model)
+        {
+
+            <div class="col-md-3">
+                <div class="card">
+                    <div class="checkbox">
+                        <input type="checkbox" name="deleteCheckBox" id="deletecheck" value="@item.Id" onclick="buttonPopup()">
+                    </div>
+                    <a href="/Product/Details/@item.Id">
+                        <div class="imgBox">
+                            <img src="~/Uploads/@item.SmallImageUrl" />
+                        </div>
+                    </a>
+                    <div class="contentBox">
+                        <h3> @Html.DisplayFor(modelItem => item.Name)</h3>
+                        <h2 class="price">&#8377; @Html.DisplayFor(modelItem => item.Price)</h2>
+                        <div style="margin-top:15px">
+                            @Html.ActionLink("Edit", "Edit", new { id = item.Id }, htmlAttributes: new { @class = "buy" })
+                            @Html.ActionLink("Delete", "Delete", new { id = item.Id }, htmlAttributes: new { @class = "buy", @style = "background:red" })
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+
+}
+<br />
+<div class="filter-layout" style="flex-direction:column">
+    Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+
+    @Html.PagedListPager(Model, page => Url.Action("Index",
+        new { page, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter }))
+</div>
+@section scripts{
+
+    <script src="~/Scripts/MultipleDelete.js"></script>
+}
+

@@ -1,0 +1,43 @@
+﻿@model CS.PMA.BE.ViewModels.ProductVM
+
+@{
+    ViewBag.Title = "Product Details";
+    ViewBag.Index = "background:#2196f3;border-radius:50px";
+}
+
+<h2>Product Details</h2>
+
+<div>
+
+    <hr />
+    <div class="row">
+        <div class="col-md-4">
+            <div class="chart-card">
+                <div class="chart-text">
+                    @Html.DisplayFor(model => model.Name)
+                </div>
+                <img src="~/uploads/@Html.DisplayFor(model => model.SmallImageUrl)" width="250px" height="250px" />
+            </div>
+        </div>
+        <div class="col-md-8">
+            <div class="user-card">
+
+
+                <div class="user-details">
+                    <p><strong>@Html.DisplayNameFor(model => model.Name)</strong>:  @Html.DisplayFor(model => model.Name)</p>
+                    <p><strong>@Html.DisplayNameFor(model => model.Category)</strong>:  @Html.DisplayFor(model => model.Category)</p>
+                    <p><strong>@Html.DisplayNameFor(model => model.Price)</strong>:  @Html.DisplayFor(model => model.Price)</p>
+                    <p><strong>@Html.DisplayNameFor(model => model.Quantity)</strong>:  @Html.DisplayFor(model => model.Quantity)</p>
+                    <p><strong>Description</strong>:  @Html.DisplayFor(model => model.LongDescription)</p>
+                    <p><strong>Date</strong>:  @Html.DisplayFor(model => model.CreatedAt)</p>
+                    <p>
+                        @Html.ActionLink("Edit", "Edit", new { id = Model.Id }, htmlAttributes: new { @class = "btn btn-success" })
+                        <a class="btn btn-primary" href="/Product/Index">Back to List</a>
+
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>

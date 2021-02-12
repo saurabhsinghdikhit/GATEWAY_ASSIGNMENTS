@@ -1,0 +1,6 @@
+E:\GATEWAY\Gateway Assignments\C#\CSharpProductManagementAssignment\CS.PMA.BE\bin\Debug\CS.PMA.BE.dll
+E:\GATEWAY\Gateway Assignments\C#\CSharpProductManagementAssignment\CS.PMA.BE\bin\Debug\CS.PMA.BE.pdb
+E:\GATEWAY\Gateway Assignments\C#\CSharpProductManagementAssignment\CS.PMA.BE\obj\Debug\CS.PMA.BE.csprojAssemblyReference.cache
+E:\GATEWAY\Gateway Assignments\C#\CSharpProductManagementAssignment\CS.PMA.BE\obj\Debug\CS.PMA.BE.csproj.CoreCompileInputs.cache
+E:\GATEWAY\Gateway Assignments\C#\CSharpProductManagementAssignment\CS.PMA.BE\obj\Debug\CS.PMA.BE.dll
+E:\GATEWAY\Gateway Assignments\C#\CSharpProductManagementAssignment\CS.PMA.BE\obj\Debug\CS.PMA.BE.pdb

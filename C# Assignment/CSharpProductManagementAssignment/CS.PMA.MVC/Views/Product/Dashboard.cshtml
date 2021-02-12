@@ -1,0 +1,73 @@
+﻿
+@{
+    ViewBag.Title = "Home";
+    ViewBag.Home = "background:#2196f3;border-radius:50px";
+}
+<ul>
+    @{
+        List<string> category = new List<string>();
+        List<int> total = new List<int>();
+    }
+    @foreach (var item in Model.values)
+    {
+        total.Add(item.total);
+        category.Add(item.categoryName);
+    }
+</ul>
+<div class="row">
+    <div class="col-md-4">
+        <div class="chart-card">
+            <div class="chart-text">
+                Top Category Products
+            </div>
+            <canvas id="polar-chart1" class="ct-chart" height="200"></canvas>
+        </div>
+    </div>
+    <div class="col-md-8">
+        <div class="user-card">
+            <div class="user-img">
+                <img src="~/product.png" />
+            </div>
+            <div class="user-text">
+                Welcome Back!
+            </div>
+            <div class="user-details">
+                <p><strong>Name :</strong> @Session["userName"]</p>
+                <p><strong>Email :</strong>  @Session["userEmail"]</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<br />
+
+@section scripts
+    {
+    <script src="~/Scripts/chart.min.js"></script>
+    <script src="~/Scripts/mychart.js"></script>
+    <script>
+        //Polar Chart1
+var data = '@String.Join(",", total)';  //for data value
+var city = '@String.Join(",", category)';   //for company value
+new Chart(document.getElementById("polar-chart1"), {
+    type: 'polarArea',
+    data: {
+        labels: city.split(','),
+        datasets: [
+            {
+
+                backgroundColor: ["#3e95cd", "#8e5ea2", "#3cba9f", "#e8c3b9", "#c45850"],
+                data: data.split(',')
+            }
+        ]
+    },
+    options: {
+        legend: { display: false },
+        title: {
+            display: false,
+
+        }
+    }
+});
+    </script>
+}

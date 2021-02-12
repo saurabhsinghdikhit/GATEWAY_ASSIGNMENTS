@@ -1,0 +1,89 @@
+﻿@model CS.PMA.BE.ViewModels.ProductVM
+
+@{
+    ViewBag.Title = "Insert Product";
+    ViewBag.Create = "background:#2196f3;border-radius:50px";
+}
+
+<h2 class="text-center">Insert Product</h2>
+@using (Html.BeginForm("Create", "Product", FormMethod.Post, new { @enctype = "multipart/form-data", id = "form" }))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Name, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-4">
+                @Html.EditorFor(model => model.Name, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Name, "", new { @class = "text-danger" })
+            </div>
+            @Html.LabelFor(model => model.Category, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-4">
+                @Html.DropDownListFor(model => model.Category, new List<SelectListItem>
+    {
+    new SelectListItem() {Text = "Electronics", Value="Electronics"},
+    new SelectListItem() {Text = "Clothes", Value="Clothes"},
+    new SelectListItem() {Text = "Furniture", Value="Furniture"},
+    new SelectListItem() {Text = "Sports", Value="Sports"}}, htmlAttributes: new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.Category, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.Price, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-4">
+                @Html.EditorFor(model => model.Price, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Price, "", new { @class = "text-danger" })
+            </div>
+            @Html.LabelFor(model => model.Quantity, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-4">
+                @Html.DropDownListFor(model => model.Quantity, new List<SelectListItem>{
+                    new SelectListItem() {Text = "10", Value="10"},
+                    new SelectListItem() {Text = "20", Value="20"},
+                    new SelectListItem() {Text = "30", Value="30"},
+                    new SelectListItem() {Text = "40", Value="40"},
+                    new SelectListItem() {Text = "50", Value="50"}}, htmlAttributes: new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.Quantity, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.ShortDescription, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-4">
+                @Html.TextAreaFor(model => model.ShortDescription, new { htmlAttributes = new { @class = "form-control" } })
+
+                @Html.ValidationMessageFor(model => model.ShortDescription, "", new { @class = "text-danger" })
+            </div>
+            @Html.LabelFor(model => model.LongDescription, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-4">
+                @Html.TextAreaFor(model => model.LongDescription, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.LongDescription, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.SmallImageUrl, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-4">
+                @Html.EditorFor(model => model.SmallImageUrl, new { htmlAttributes = new { @class = "form-control", type = "file", accept = ".png, .jpg, .jpeg" } })
+                @Html.ValidationMessageFor(model => model.SmallImageUrl, "", new { @class = "text-danger" })
+            </div>
+            @Html.LabelFor(model => model.LargeImageUrl, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-4">
+                @Html.EditorFor(model => model.LargeImageUrl, new { htmlAttributes = new { @class = "form-control", type = "file", accept = ".png, .jpg, .jpeg" } })
+                @Html.ValidationMessageFor(model => model.LargeImageUrl, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <br />
+
+        <div class="form-group text-center">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Insert Record" class="btn btn-success" />
+                <a class="btn btn-primary" href="/Product/Index">Back to List</a>
+            </div>
+        </div>
+    </div>
+}
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
