@@ -51,7 +51,7 @@
 <br>
 @using (Html.BeginForm("DeleteMultipleProducts", "Product", FormMethod.Post, new { id = "form", action = "DeleteMultipleProducts" }))
 {
-    <a onclick='$("#form").submit()' style="display:none" id="deleteButton" class="float">
+    <a onclick="if (!confirm('Are you sure want to delete them?')) { return false; } else { $('#form').submit();}" style="display:none" id="deleteButton" class="float">
         <i class="fa fa-trash fa-2x my-float"><span class="badge" id="selectionTotal"></span></i>
     </a>
     <div class="row">
