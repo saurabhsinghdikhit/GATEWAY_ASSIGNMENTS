@@ -1,0 +1,9 @@
+E:\GATEWAY\Gateway Assignments\Testing\Assignment 1\TESTING.CLPMT.WEPAPI\TESTING.CLPMT.BAL\bin\Debug\TESTING.CLPMT.BAL.dll
+E:\GATEWAY\Gateway Assignments\Testing\Assignment 1\TESTING.CLPMT.WEPAPI\TESTING.CLPMT.BAL\bin\Debug\TESTING.CLPMT.BAL.pdb
+E:\GATEWAY\Gateway Assignments\Testing\Assignment 1\TESTING.CLPMT.WEPAPI\TESTING.CLPMT.BAL\bin\Debug\TESTING.CLPMT.BE.dll
+E:\GATEWAY\Gateway Assignments\Testing\Assignment 1\TESTING.CLPMT.WEPAPI\TESTING.CLPMT.BAL\bin\Debug\TESTING.CLPMT.BE.pdb
+E:\GATEWAY\Gateway Assignments\Testing\Assignment 1\TESTING.CLPMT.WEPAPI\TESTING.CLPMT.BAL\obj\Debug\TESTING.CLPMT.BAL.csprojAssemblyReference.cache
+E:\GATEWAY\Gateway Assignments\Testing\Assignment 1\TESTING.CLPMT.WEPAPI\TESTING.CLPMT.BAL\obj\Debug\TESTING.CLPMT.BAL.csproj.CoreCompileInputs.cache
+E:\GATEWAY\Gateway Assignments\Testing\Assignment 1\TESTING.CLPMT.WEPAPI\TESTING.CLPMT.BAL\obj\Debug\TESTING.CLPMT.BAL.csproj.CopyComplete
+E:\GATEWAY\Gateway Assignments\Testing\Assignment 1\TESTING.CLPMT.WEPAPI\TESTING.CLPMT.BAL\obj\Debug\TESTING.CLPMT.BAL.dll
+E:\GATEWAY\Gateway Assignments\Testing\Assignment 1\TESTING.CLPMT.WEPAPI\TESTING.CLPMT.BAL\obj\Debug\TESTING.CLPMT.BAL.pdb

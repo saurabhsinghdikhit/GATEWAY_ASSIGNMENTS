@@ -1,0 +1,6 @@
+E:\GATEWAY\Gateway Assignments\Testing\Assignment 1\TESTING.CLPMT.WEPAPI\TESTING.CLPMT.BE\bin\Debug\TESTING.CLPMT.BE.dll
+E:\GATEWAY\Gateway Assignments\Testing\Assignment 1\TESTING.CLPMT.WEPAPI\TESTING.CLPMT.BE\bin\Debug\TESTING.CLPMT.BE.pdb
+E:\GATEWAY\Gateway Assignments\Testing\Assignment 1\TESTING.CLPMT.WEPAPI\TESTING.CLPMT.BE\obj\Debug\TESTING.CLPMT.BE.csprojAssemblyReference.cache
+E:\GATEWAY\Gateway Assignments\Testing\Assignment 1\TESTING.CLPMT.WEPAPI\TESTING.CLPMT.BE\obj\Debug\TESTING.CLPMT.BE.csproj.CoreCompileInputs.cache
+E:\GATEWAY\Gateway Assignments\Testing\Assignment 1\TESTING.CLPMT.WEPAPI\TESTING.CLPMT.BE\obj\Debug\TESTING.CLPMT.BE.dll
+E:\GATEWAY\Gateway Assignments\Testing\Assignment 1\TESTING.CLPMT.WEPAPI\TESTING.CLPMT.BE\obj\Debug\TESTING.CLPMT.BE.pdb

@@ -1,0 +1,7 @@
+E:\GATEWAY\Gateway Assignments\Testing\Assignment 2\TESTING.ASSIGNMENT2\TESTING.CONSOLEAPP\bin\Debug\TESTING.CONSOLEAPP.exe.config
+E:\GATEWAY\Gateway Assignments\Testing\Assignment 2\TESTING.ASSIGNMENT2\TESTING.CONSOLEAPP\bin\Debug\TESTING.CONSOLEAPP.exe
+E:\GATEWAY\Gateway Assignments\Testing\Assignment 2\TESTING.ASSIGNMENT2\TESTING.CONSOLEAPP\bin\Debug\TESTING.CONSOLEAPP.pdb
+E:\GATEWAY\Gateway Assignments\Testing\Assignment 2\TESTING.ASSIGNMENT2\TESTING.CONSOLEAPP\obj\Debug\TESTING.CONSOLEAPP.csprojAssemblyReference.cache
+E:\GATEWAY\Gateway Assignments\Testing\Assignment 2\TESTING.ASSIGNMENT2\TESTING.CONSOLEAPP\obj\Debug\TESTING.CONSOLEAPP.csproj.CoreCompileInputs.cache
+E:\GATEWAY\Gateway Assignments\Testing\Assignment 2\TESTING.ASSIGNMENT2\TESTING.CONSOLEAPP\obj\Debug\TESTING.CONSOLEAPP.exe
+E:\GATEWAY\Gateway Assignments\Testing\Assignment 2\TESTING.ASSIGNMENT2\TESTING.CONSOLEAPP\obj\Debug\TESTING.CONSOLEAPP.pdb

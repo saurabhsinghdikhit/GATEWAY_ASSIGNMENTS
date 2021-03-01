@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\GATEWAY\\Gateway Assignments\\Testing\\Assignment 1\\TESTING.CLPMT.WEPAPI\\TESTING.CLPMT.TEST\\TESTING.CLPMT.TEST.csproj": {}
+  },
+  "projects": {
+    "E:\\GATEWAY\\Gateway Assignments\\Testing\\Assignment 1\\TESTING.CLPMT.WEPAPI\\TESTING.CLPMT.BAL\\TESTING.CLPMT.BAL.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\GATEWAY\\Gateway Assignments\\Testing\\Assignment 1\\TESTING.CLPMT.WEPAPI\\TESTING.CLPMT.BAL\\TESTING.CLPMT.BAL.csproj",
+        "projectName": "TESTING.CLPMT.BAL",
+        "projectPath": "E:\\GATEWAY\\Gateway Assignments\\Testing\\Assignment 1\\TESTING.CLPMT.WEPAPI\\TESTING.CLPMT.BAL\\TESTING.CLPMT.BAL.csproj",
+        "frameworks": {
+          "net45": {
+            "projectReferences": {
+              "E:\\GATEWAY\\Gateway Assignments\\Testing\\Assignment 1\\TESTING.CLPMT.WEPAPI\\TESTING.CLPMT.BE\\TESTING.CLPMT.BE.csproj": {
+                "projectPath": "E:\\GATEWAY\\Gateway Assignments\\Testing\\Assignment 1\\TESTING.CLPMT.WEPAPI\\TESTING.CLPMT.BE\\TESTING.CLPMT.BE.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net45": {}
+      }
+    },
+    "E:\\GATEWAY\\Gateway Assignments\\Testing\\Assignment 1\\TESTING.CLPMT.WEPAPI\\TESTING.CLPMT.BE\\TESTING.CLPMT.BE.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\GATEWAY\\Gateway Assignments\\Testing\\Assignment 1\\TESTING.CLPMT.WEPAPI\\TESTING.CLPMT.BE\\TESTING.CLPMT.BE.csproj",
+        "projectName": "TESTING.CLPMT.BE",
+        "projectPath": "E:\\GATEWAY\\Gateway Assignments\\Testing\\Assignment 1\\TESTING.CLPMT.WEPAPI\\TESTING.CLPMT.BE\\TESTING.CLPMT.BE.csproj"
+      },
+      "frameworks": {
+        "net45": {}
+      }
+    },
+    "E:\\GATEWAY\\Gateway Assignments\\Testing\\Assignment 1\\TESTING.CLPMT.WEPAPI\\TESTING.CLPMT.TEST\\TESTING.CLPMT.TEST.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\GATEWAY\\Gateway Assignments\\Testing\\Assignment 1\\TESTING.CLPMT.WEPAPI\\TESTING.CLPMT.TEST\\TESTING.CLPMT.TEST.csproj",
+        "projectName": "TESTING.CLPMT.TEST",
+        "projectPath": "E:\\GATEWAY\\Gateway Assignments\\Testing\\Assignment 1\\TESTING.CLPMT.WEPAPI\\TESTING.CLPMT.TEST\\TESTING.CLPMT.TEST.csproj",
+        "packagesPath": "C:\\Users\\Ss520\\.nuget\\packages\\",
+        "outputPath": "E:\\GATEWAY\\Gateway Assignments\\Testing\\Assignment 1\\TESTING.CLPMT.WEPAPI\\TESTING.CLPMT.TEST\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Ss520\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "E:\\GATEWAY\\Gateway Assignments\\Testing\\Assignment 1\\TESTING.CLPMT.WEPAPI\\TESTING.CLPMT.BAL\\TESTING.CLPMT.BAL.csproj": {
+                "projectPath": "E:\\GATEWAY\\Gateway Assignments\\Testing\\Assignment 1\\TESTING.CLPMT.WEPAPI\\TESTING.CLPMT.BAL\\TESTING.CLPMT.BAL.csproj"
+              },
+              "E:\\GATEWAY\\Gateway Assignments\\Testing\\Assignment 1\\TESTING.CLPMT.WEPAPI\\TESTING.CLPMT.BE\\TESTING.CLPMT.BE.csproj": {
+                "projectPath": "E:\\GATEWAY\\Gateway Assignments\\Testing\\Assignment 1\\TESTING.CLPMT.WEPAPI\\TESTING.CLPMT.BE\\TESTING.CLPMT.BE.csproj"
+              },
+              "E:\\GATEWAY\\Gateway Assignments\\Testing\\Assignment 1\\TESTING.CLPMT.WEPAPI\\TESTING.CLPMT.WEPAPI\\TESTING.CLPMT.WEBAPI.csproj": {
+                "projectPath": "E:\\GATEWAY\\Gateway Assignments\\Testing\\Assignment 1\\TESTING.CLPMT.WEPAPI\\TESTING.CLPMT.WEPAPI\\TESTING.CLPMT.WEBAPI.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Microsoft.AspNet.WebApi.Core": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.16.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "E:\\GATEWAY\\Gateway Assignments\\Testing\\Assignment 1\\TESTING.CLPMT.WEPAPI\\TESTING.CLPMT.WEPAPI\\TESTING.CLPMT.WEBAPI.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\GATEWAY\\Gateway Assignments\\Testing\\Assignment 1\\TESTING.CLPMT.WEPAPI\\TESTING.CLPMT.WEPAPI\\TESTING.CLPMT.WEBAPI.csproj",
+        "projectName": "TESTING.CLPMT.WEBAPI",
+        "projectPath": "E:\\GATEWAY\\Gateway Assignments\\Testing\\Assignment 1\\TESTING.CLPMT.WEPAPI\\TESTING.CLPMT.WEPAPI\\TESTING.CLPMT.WEBAPI.csproj",
+        "frameworks": {
+          "net45": {
+            "projectReferences": {
+              "E:\\GATEWAY\\Gateway Assignments\\Testing\\Assignment 1\\TESTING.CLPMT.WEPAPI\\TESTING.CLPMT.BAL\\TESTING.CLPMT.BAL.csproj": {
+                "projectPath": "E:\\GATEWAY\\Gateway Assignments\\Testing\\Assignment 1\\TESTING.CLPMT.WEPAPI\\TESTING.CLPMT.BAL\\TESTING.CLPMT.BAL.csproj"
+              },
+              "E:\\GATEWAY\\Gateway Assignments\\Testing\\Assignment 1\\TESTING.CLPMT.WEPAPI\\TESTING.CLPMT.BE\\TESTING.CLPMT.BE.csproj": {
+                "projectPath": "E:\\GATEWAY\\Gateway Assignments\\Testing\\Assignment 1\\TESTING.CLPMT.WEPAPI\\TESTING.CLPMT.BE\\TESTING.CLPMT.BE.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net45": {}
+      }
+    }
+  }
+}
