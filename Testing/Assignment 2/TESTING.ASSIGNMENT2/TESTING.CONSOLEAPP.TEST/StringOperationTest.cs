@@ -15,7 +15,7 @@ namespace TESTING.CONSOLEAPP.TEST
             var inputString = "Upper";
             var outputString = "upper";
             // Act
-            var newString = StringOperations.ChangeCase(inputString);
+            var newString = inputString.ChangeCase();
             // Assert
             Assert.Equal(newString, outputString);
         }
@@ -26,7 +26,7 @@ namespace TESTING.CONSOLEAPP.TEST
             var inputString = "ram MCA RAM Bca BbA";
             var outputString = "Ram MCA RAM Bca Bba";
             // Act
-            var newString = StringOperations.ChangeToTitleCase(inputString);
+            var newString = inputString.ChangeToTitleCase();
             // Assert
             Assert.Equal(newString, outputString);
         }
@@ -36,7 +36,7 @@ namespace TESTING.CONSOLEAPP.TEST
             // Arrange
             var inputString = "ramsingh";
             // Act
-            var newString = StringOperations.IsLowerCaseString(inputString);
+            var newString = inputString.IsLowerCaseString();
             // Assert
             Assert.True(newString);
         }
@@ -46,7 +46,7 @@ namespace TESTING.CONSOLEAPP.TEST
             // Arrange
             var inputString = "RAM";
             // Act
-            var newString = StringOperations.IsUpperCaseString(inputString);
+            var newString = inputString.IsUpperCaseString();
             // Assert
             Assert.True(newString);
         }
@@ -57,7 +57,7 @@ namespace TESTING.CONSOLEAPP.TEST
             var inputString = "ram";
             var outputString = "Ram";
             // Act
-            var newString = StringOperations.DoCapitalize(inputString);
+            var newString = inputString.DoCapitalize();
             // Assert
             Assert.Equal(newString,outputString);
         }
@@ -69,7 +69,7 @@ namespace TESTING.CONSOLEAPP.TEST
             // Arrange
             
             // Act
-            var newString = StringOperations.IsValidNumericValue(inputString);
+            var newString = inputString.IsValidNumericValue();
             // Assert
             Assert.Equal(newString, result);
         }
@@ -80,7 +80,7 @@ namespace TESTING.CONSOLEAPP.TEST
             var inputString = "Ram Singh";
             var outputString = "Ram Sing";
             // Act
-            var newString = StringOperations.RemoveLastCharacter(inputString);
+            var newString = inputString.RemoveLastCharacter();
             // Assert
             Assert.Equal(newString, outputString);
         }
@@ -91,7 +91,7 @@ namespace TESTING.CONSOLEAPP.TEST
             var inputString = "Ram Singh";
             var count = 2;
             // Act
-            var newString = StringOperations.WordCount(inputString);
+            var newString = inputString.WordCount();
             // Assert
             Assert.Equal(newString, count);
         }
@@ -102,7 +102,7 @@ namespace TESTING.CONSOLEAPP.TEST
             var inputString = "123";
             var output = 123;
             // Act
-            var newString = StringOperations.StringToInteger(inputString);
+            var newString = inputString.StringToInteger();
             // Assert
             Assert.Equal(newString, output);
         }

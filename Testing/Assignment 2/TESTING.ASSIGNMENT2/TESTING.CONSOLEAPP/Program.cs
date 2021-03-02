@@ -11,15 +11,15 @@ namespace TESTING.CONSOLEAPP
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(StringOperations.ChangeCase("ramSinghDIKHIT"));
-            Console.WriteLine(StringOperations.ChangeToTitleCase("ram MCA RAM Bca BbA"));
-            Console.WriteLine(StringOperations.IsLowerCaseString("Ram")?"All Characters are lower":"Not all characters are lower");
-            Console.WriteLine(StringOperations.DoCapitalize("ramsingh"));
-            Console.WriteLine(StringOperations.IsUpperCaseString("ram") ? "All Characters are upper" : "Not all characters are upper");
-            Console.WriteLine(StringOperations.IsValidNumericValue("123d")?"Is valid numeric string":"Is not valid numeric string");
-            Console.WriteLine(StringOperations.RemoveLastCharacter("ramsingh"));
-            Console.WriteLine(StringOperations.WordCount("ram singh"));
-            Console.WriteLine(StringOperations.StringToInteger("123"));
+            Console.WriteLine("Ram".ChangeCase());
+            Console.WriteLine("ram MCA RAM Bca BbA".ChangeToTitleCase());
+            Console.WriteLine("Ram".IsLowerCaseString()?"All Characters are lower":"Not all characters are lower");
+            Console.WriteLine("ramsingh".DoCapitalize());
+            Console.WriteLine("ram".IsUpperCaseString() ? "All Characters are upper" : "Not all characters are upper");
+            Console.WriteLine("123d".IsValidNumericValue()?"Is valid numeric string":"Is not valid numeric string");
+            Console.WriteLine("ramsingh".RemoveLastCharacter());
+            Console.WriteLine("ram singh".WordCount());
+            Console.WriteLine("123".StringToInteger());
             Console.ReadLine();
         }
     }

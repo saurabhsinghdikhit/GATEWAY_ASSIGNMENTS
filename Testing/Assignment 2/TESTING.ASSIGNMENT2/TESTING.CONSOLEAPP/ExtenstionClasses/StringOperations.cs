@@ -9,10 +9,10 @@ namespace TESTING.CONSOLEAPP.ExtenstionClasses
 {
     public static class StringOperations
     {
-        public static string ChangeCase(string inputString) {
+        public static string ChangeCase(this string inputString) {
             return Char.IsLower(inputString[0]) ? inputString.ToUpper() : inputString.ToLower();
         }
-        public static string ChangeToTitleCase(string inputString)
+        public static string ChangeToTitleCase(this string inputString)
         {
             StringBuilder updatedString = new StringBuilder();
             string[] inputStringArray = inputString.Split(' ');
@@ -35,7 +35,7 @@ namespace TESTING.CONSOLEAPP.ExtenstionClasses
             }
             return updatedString.ToString().Remove(updatedString.Length-1);
         }
-        public static bool IsLowerCaseString(string inputString)
+        public static bool IsLowerCaseString(this string inputString)
         {
             bool isLower = true;
             for (int index = 0; index < inputString.Length; index++)
@@ -48,11 +48,11 @@ namespace TESTING.CONSOLEAPP.ExtenstionClasses
             }
             return isLower ? true : false;
         }
-        public static string DoCapitalize(string inputString)
+        public static string DoCapitalize(this string inputString)
         {
             return CultureInfo.InvariantCulture.TextInfo.ToTitleCase(inputString);
         }
-        public static bool IsUpperCaseString(string inputString)
+        public static bool IsUpperCaseString(this string inputString)
         {
             bool isUpper = true;
             for (int index = 0; index < inputString.Length; index++)
@@ -65,19 +65,19 @@ namespace TESTING.CONSOLEAPP.ExtenstionClasses
             }
             return isUpper ? true : false;
         }
-        public static bool IsValidNumericValue(String inputString)
+        public static bool IsValidNumericValue(this string inputString)
         {
             return int.TryParse(inputString, out int n);
         }
-        public static string RemoveLastCharacter(String inputString)
+        public static string RemoveLastCharacter(this string inputString)
         {
             return inputString.Remove(inputString.Length - 1);
         }
-        public static int WordCount(String inputString)
+        public static int WordCount(this string inputString)
         {
             return inputString.Split(' ').Length;
         }
-        public static int StringToInteger(String inputString)
+        public static int StringToInteger(this string inputString)
         {
             int.TryParse(inputString,out int n);
             return n;
