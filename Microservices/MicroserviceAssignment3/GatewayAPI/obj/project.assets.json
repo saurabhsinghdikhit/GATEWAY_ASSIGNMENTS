@@ -256,19 +256,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ss520\\.nuget\\packages\\": {}
+    "C:\\Users\\saurabh.singh\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\GATEWAY\\Gateway Assignments\\Microservices\\Assignment 3\\MicroserviceAssignment3\\GatewayAPI\\GatewayAPI.csproj",
+      "projectUniqueName": "D:\\Gateway_Assignments\\GATEWAY_ASSIGNMENTS\\Microservices\\MicroserviceAssignment3\\GatewayAPI\\GatewayAPI.csproj",
       "projectName": "GatewayAPI",
-      "projectPath": "E:\\GATEWAY\\Gateway Assignments\\Microservices\\Assignment 3\\MicroserviceAssignment3\\GatewayAPI\\GatewayAPI.csproj",
-      "packagesPath": "C:\\Users\\Ss520\\.nuget\\packages\\",
-      "outputPath": "E:\\GATEWAY\\Gateway Assignments\\Microservices\\Assignment 3\\MicroserviceAssignment3\\GatewayAPI\\obj\\",
+      "projectPath": "D:\\Gateway_Assignments\\GATEWAY_ASSIGNMENTS\\Microservices\\MicroserviceAssignment3\\GatewayAPI\\GatewayAPI.csproj",
+      "packagesPath": "C:\\Users\\saurabh.singh\\.nuget\\packages\\",
+      "outputPath": "D:\\Gateway_Assignments\\GATEWAY_ASSIGNMENTS\\Microservices\\MicroserviceAssignment3\\GatewayAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Ss520\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\saurabh.singh\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -282,8 +282,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "E:\\GATEWAY\\Gateway Assignments\\Microservices\\Assignment 3\\MicroserviceAssignment3\\CommonObject\\CommonObject.csproj": {
-              "projectPath": "E:\\GATEWAY\\Gateway Assignments\\Microservices\\Assignment 3\\MicroserviceAssignment3\\CommonObject\\CommonObject.csproj"
+            "D:\\Gateway_Assignments\\GATEWAY_ASSIGNMENTS\\Microservices\\MicroserviceAssignment3\\CommonObject\\CommonObject.csproj": {
+              "projectPath": "D:\\Gateway_Assignments\\GATEWAY_ASSIGNMENTS\\Microservices\\MicroserviceAssignment3\\CommonObject\\CommonObject.csproj"
             }
           }
         }

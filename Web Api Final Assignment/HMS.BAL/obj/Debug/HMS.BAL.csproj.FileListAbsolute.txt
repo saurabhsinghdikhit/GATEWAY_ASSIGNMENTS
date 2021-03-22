@@ -29,3 +29,34 @@ F:\GATEWAY\Gateway Assignments\Web Api Final Assignment\HMS.BAL\bin\Debug\Entity
 F:\GATEWAY\Gateway Assignments\Web Api Final Assignment\HMS.BAL\bin\Debug\EntityFramework.SqlServer.xml
 F:\GATEWAY\Gateway Assignments\Web Api Final Assignment\HMS.BAL\bin\Debug\AutoMapper.dll
 F:\GATEWAY\Gateway Assignments\Web Api Final Assignment\HMS.BAL\bin\Debug\AutoMapper.xml
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Web Api Final Assignment\HMS.BAL\bin\Debug\HMS.BAL.dll
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Web Api Final Assignment\HMS.BAL\bin\Debug\HMS.BAL.pdb
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Web Api Final Assignment\HMS.BAL\bin\Debug\HMS.DAL.dll
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Web Api Final Assignment\HMS.BAL\bin\Debug\HMS.Models.dll
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Web Api Final Assignment\HMS.BAL\bin\Debug\Newtonsoft.Json.dll
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Web Api Final Assignment\HMS.BAL\bin\Debug\System.Net.Http.Formatting.dll
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Web Api Final Assignment\HMS.BAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Web Api Final Assignment\HMS.BAL\bin\Debug\System.Web.Http.dll
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Web Api Final Assignment\HMS.BAL\bin\Debug\Unity.Abstractions.dll
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Web Api Final Assignment\HMS.BAL\bin\Debug\Unity.Container.dll
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Web Api Final Assignment\HMS.BAL\bin\Debug\Unity.WebApi.dll
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Web Api Final Assignment\HMS.BAL\bin\Debug\EntityFramework.dll
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Web Api Final Assignment\HMS.BAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Web Api Final Assignment\HMS.BAL\bin\Debug\AutoMapper.dll
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Web Api Final Assignment\HMS.BAL\bin\Debug\HMS.DAL.pdb
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Web Api Final Assignment\HMS.BAL\bin\Debug\HMS.DAL.dll.config
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Web Api Final Assignment\HMS.BAL\bin\Debug\HMS.Models.pdb
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Web Api Final Assignment\HMS.BAL\bin\Debug\Newtonsoft.Json.xml
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Web Api Final Assignment\HMS.BAL\bin\Debug\System.Net.Http.Formatting.xml
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Web Api Final Assignment\HMS.BAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Web Api Final Assignment\HMS.BAL\bin\Debug\System.Web.Http.xml
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Web Api Final Assignment\HMS.BAL\bin\Debug\Unity.Abstractions.pdb
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Web Api Final Assignment\HMS.BAL\bin\Debug\Unity.Container.pdb
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Web Api Final Assignment\HMS.BAL\bin\Debug\EntityFramework.xml
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Web Api Final Assignment\HMS.BAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Web Api Final Assignment\HMS.BAL\bin\Debug\AutoMapper.xml
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Web Api Final Assignment\HMS.BAL\obj\Debug\HMS.BAL.csprojAssemblyReference.cache
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Web Api Final Assignment\HMS.BAL\obj\Debug\HMS.BAL.csproj.CoreCompileInputs.cache
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Web Api Final Assignment\HMS.BAL\obj\Debug\HMS.BAL.csproj.CopyComplete
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Web Api Final Assignment\HMS.BAL\obj\Debug\HMS.BAL.dll
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Web Api Final Assignment\HMS.BAL\obj\Debug\HMS.BAL.pdb

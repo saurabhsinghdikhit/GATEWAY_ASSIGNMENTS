@@ -27,3 +27,32 @@ E:\GATEWAY\Gateway Assignments\Microservices\Assignment 3\MicroserviceAssignment
 E:\GATEWAY\Gateway Assignments\Microservices\Assignment 3\MicroserviceAssignment3\GatewayAPI\obj\Debug\netcoreapp3.1\GatewayAPI.csprojAssemblyReference.cache
 E:\GATEWAY\Gateway Assignments\Microservices\Assignment 3\MicroserviceAssignment3\GatewayAPI\obj\Debug\netcoreapp3.1\GatewayAPI.MvcApplicationPartsAssemblyInfo.cs
 E:\GATEWAY\Gateway Assignments\Microservices\Assignment 3\MicroserviceAssignment3\GatewayAPI\obj\Debug\netcoreapp3.1\GatewayAPI.csproj.CopyComplete
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\GatewayAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\GatewayAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\GatewayAPI\bin\Debug\netcoreapp3.1\GatewayAPI.exe
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\GatewayAPI\bin\Debug\netcoreapp3.1\GatewayAPI.deps.json
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\GatewayAPI\bin\Debug\netcoreapp3.1\GatewayAPI.runtimeconfig.json
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\GatewayAPI\bin\Debug\netcoreapp3.1\GatewayAPI.runtimeconfig.dev.json
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\GatewayAPI\bin\Debug\netcoreapp3.1\GatewayAPI.dll
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\GatewayAPI\bin\Debug\netcoreapp3.1\GatewayAPI.pdb
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\GatewayAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\GatewayAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\GatewayAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\GatewayAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\GatewayAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\GatewayAPI\bin\Debug\netcoreapp3.1\CommonObject.dll
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\GatewayAPI\bin\Debug\netcoreapp3.1\CommonObject.pdb
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\GatewayAPI\obj\Debug\netcoreapp3.1\GatewayAPI.csprojAssemblyReference.cache
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\GatewayAPI\obj\Debug\netcoreapp3.1\GatewayAPI.AssemblyInfoInputs.cache
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\GatewayAPI\obj\Debug\netcoreapp3.1\GatewayAPI.AssemblyInfo.cs
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\GatewayAPI\obj\Debug\netcoreapp3.1\GatewayAPI.csproj.CoreCompileInputs.cache
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\GatewayAPI\obj\Debug\netcoreapp3.1\GatewayAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\GatewayAPI\obj\Debug\netcoreapp3.1\GatewayAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\GatewayAPI\obj\Debug\netcoreapp3.1\staticwebassets\GatewayAPI.StaticWebAssets.Manifest.cache
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\GatewayAPI\obj\Debug\netcoreapp3.1\staticwebassets\GatewayAPI.StaticWebAssets.xml
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\GatewayAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\GatewayAPI.styles.css
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\GatewayAPI\obj\Debug\netcoreapp3.1\GatewayAPI.RazorTargetAssemblyInfo.cache
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\GatewayAPI\obj\Debug\netcoreapp3.1\GatewayAPI.csproj.CopyComplete
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\GatewayAPI\obj\Debug\netcoreapp3.1\GatewayAPI.dll
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\GatewayAPI\obj\Debug\netcoreapp3.1\GatewayAPI.pdb
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\GatewayAPI\obj\Debug\netcoreapp3.1\GatewayAPI.genruntimeconfig.cache

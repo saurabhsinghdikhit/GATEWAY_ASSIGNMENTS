@@ -28,3 +28,33 @@ E:\GATEWAY\Gateway Assignments\Microservices\Assignment 3\MicroserviceAssignment
 E:\GATEWAY\Gateway Assignments\Microservices\Assignment 3\MicroserviceAssignment3\TheaterAPI\bin\Debug\netcoreapp3.1\CommonObject.pdb
 E:\GATEWAY\Gateway Assignments\Microservices\Assignment 3\MicroserviceAssignment3\TheaterAPI\bin\Debug\netcoreapp3.1\TheaterEntities.dll
 E:\GATEWAY\Gateway Assignments\Microservices\Assignment 3\MicroserviceAssignment3\TheaterAPI\bin\Debug\netcoreapp3.1\TheaterEntities.pdb
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\TheaterAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\TheaterAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\TheaterAPI\bin\Debug\netcoreapp3.1\TheaterAPI.exe
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\TheaterAPI\bin\Debug\netcoreapp3.1\TheaterAPI.deps.json
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\TheaterAPI\bin\Debug\netcoreapp3.1\TheaterAPI.runtimeconfig.json
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\TheaterAPI\bin\Debug\netcoreapp3.1\TheaterAPI.runtimeconfig.dev.json
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\TheaterAPI\bin\Debug\netcoreapp3.1\TheaterAPI.dll
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\TheaterAPI\bin\Debug\netcoreapp3.1\TheaterAPI.pdb
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\TheaterAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\TheaterAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\TheaterAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\TheaterAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\TheaterAPI\bin\Debug\netcoreapp3.1\CommonObject.dll
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\TheaterAPI\bin\Debug\netcoreapp3.1\TheaterEntities.dll
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\TheaterAPI\bin\Debug\netcoreapp3.1\CommonObject.pdb
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\TheaterAPI\bin\Debug\netcoreapp3.1\TheaterEntities.pdb
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\TheaterAPI\obj\Debug\netcoreapp3.1\TheaterAPI.csprojAssemblyReference.cache
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\TheaterAPI\obj\Debug\netcoreapp3.1\TheaterAPI.AssemblyInfoInputs.cache
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\TheaterAPI\obj\Debug\netcoreapp3.1\TheaterAPI.AssemblyInfo.cs
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\TheaterAPI\obj\Debug\netcoreapp3.1\TheaterAPI.csproj.CoreCompileInputs.cache
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\TheaterAPI\obj\Debug\netcoreapp3.1\TheaterAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\TheaterAPI\obj\Debug\netcoreapp3.1\TheaterAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\TheaterAPI\obj\Debug\netcoreapp3.1\staticwebassets\TheaterAPI.StaticWebAssets.Manifest.cache
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\TheaterAPI\obj\Debug\netcoreapp3.1\staticwebassets\TheaterAPI.StaticWebAssets.xml
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\TheaterAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\TheaterAPI.styles.css
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\TheaterAPI\obj\Debug\netcoreapp3.1\TheaterAPI.RazorTargetAssemblyInfo.cache
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\TheaterAPI\obj\Debug\netcoreapp3.1\TheaterAPI.csproj.CopyComplete
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\TheaterAPI\obj\Debug\netcoreapp3.1\TheaterAPI.dll
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\TheaterAPI\obj\Debug\netcoreapp3.1\TheaterAPI.pdb
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\TheaterAPI\obj\Debug\netcoreapp3.1\TheaterAPI.genruntimeconfig.cache

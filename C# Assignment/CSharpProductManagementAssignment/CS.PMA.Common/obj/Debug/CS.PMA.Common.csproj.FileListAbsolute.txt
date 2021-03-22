@@ -4,3 +4,9 @@ E:\GATEWAY\Gateway Assignments\C#\CSharpProductManagementAssignment\CS.PMA.Commo
 E:\GATEWAY\Gateway Assignments\C#\CSharpProductManagementAssignment\CS.PMA.Common\obj\Debug\CS.PMA.Common.dll
 E:\GATEWAY\Gateway Assignments\C#\CSharpProductManagementAssignment\CS.PMA.Common\obj\Debug\CS.PMA.Common.pdb
 E:\GATEWAY\Gateway Assignments\C#\CSharpProductManagementAssignment\CS.PMA.Common\obj\Debug\CS.PMA.Common.csprojAssemblyReference.cache
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\C# Assignment\CSharpProductManagementAssignment\CS.PMA.Common\bin\Debug\CS.PMA.Common.dll
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\C# Assignment\CSharpProductManagementAssignment\CS.PMA.Common\bin\Debug\CS.PMA.Common.pdb
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\C# Assignment\CSharpProductManagementAssignment\CS.PMA.Common\obj\Debug\CS.PMA.Common.csprojAssemblyReference.cache
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\C# Assignment\CSharpProductManagementAssignment\CS.PMA.Common\obj\Debug\CS.PMA.Common.csproj.CoreCompileInputs.cache
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\C# Assignment\CSharpProductManagementAssignment\CS.PMA.Common\obj\Debug\CS.PMA.Common.dll
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\C# Assignment\CSharpProductManagementAssignment\CS.PMA.Common\obj\Debug\CS.PMA.Common.pdb

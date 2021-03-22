@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\GATEWAY\\Gateway Assignments\\Microservices\\Assignment 3\\MicroserviceAssignment3\\BookingEntities\\BookingEntities.csproj": {}
+    "D:\\Gateway_Assignments\\GATEWAY_ASSIGNMENTS\\Microservices\\MicroserviceAssignment3\\BookingEntities\\BookingEntities.csproj": {}
   },
   "projects": {
-    "E:\\GATEWAY\\Gateway Assignments\\Microservices\\Assignment 3\\MicroserviceAssignment3\\BookingEntities\\BookingEntities.csproj": {
+    "D:\\Gateway_Assignments\\GATEWAY_ASSIGNMENTS\\Microservices\\MicroserviceAssignment3\\BookingEntities\\BookingEntities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GATEWAY\\Gateway Assignments\\Microservices\\Assignment 3\\MicroserviceAssignment3\\BookingEntities\\BookingEntities.csproj",
+        "projectUniqueName": "D:\\Gateway_Assignments\\GATEWAY_ASSIGNMENTS\\Microservices\\MicroserviceAssignment3\\BookingEntities\\BookingEntities.csproj",
         "projectName": "BookingEntities",
-        "projectPath": "E:\\GATEWAY\\Gateway Assignments\\Microservices\\Assignment 3\\MicroserviceAssignment3\\BookingEntities\\BookingEntities.csproj",
-        "packagesPath": "C:\\Users\\Ss520\\.nuget\\packages\\",
-        "outputPath": "E:\\GATEWAY\\Gateway Assignments\\Microservices\\Assignment 3\\MicroserviceAssignment3\\BookingEntities\\obj\\",
+        "projectPath": "D:\\Gateway_Assignments\\GATEWAY_ASSIGNMENTS\\Microservices\\MicroserviceAssignment3\\BookingEntities\\BookingEntities.csproj",
+        "packagesPath": "C:\\Users\\saurabh.singh\\.nuget\\packages\\",
+        "outputPath": "D:\\Gateway_Assignments\\GATEWAY_ASSIGNMENTS\\Microservices\\MicroserviceAssignment3\\BookingEntities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ss520\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\saurabh.singh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

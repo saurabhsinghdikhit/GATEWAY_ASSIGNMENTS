@@ -7,3 +7,12 @@ E:\GATEWAY\Gateway Assignments\Microservices\Assignment 3\MicroserviceAssignment
 E:\GATEWAY\Gateway Assignments\Microservices\Assignment 3\MicroserviceAssignment3\TheaterEntities\obj\Debug\netcoreapp3.1\TheaterEntities.dll
 E:\GATEWAY\Gateway Assignments\Microservices\Assignment 3\MicroserviceAssignment3\TheaterEntities\obj\Debug\netcoreapp3.1\TheaterEntities.pdb
 E:\GATEWAY\Gateway Assignments\Microservices\Assignment 3\MicroserviceAssignment3\TheaterEntities\obj\Debug\netcoreapp3.1\TheaterEntities.csprojAssemblyReference.cache
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\TheaterEntities\bin\Debug\netcoreapp3.1\TheaterEntities.deps.json
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\TheaterEntities\bin\Debug\netcoreapp3.1\TheaterEntities.dll
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\TheaterEntities\bin\Debug\netcoreapp3.1\TheaterEntities.pdb
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\TheaterEntities\obj\Debug\netcoreapp3.1\TheaterEntities.csprojAssemblyReference.cache
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\TheaterEntities\obj\Debug\netcoreapp3.1\TheaterEntities.AssemblyInfoInputs.cache
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\TheaterEntities\obj\Debug\netcoreapp3.1\TheaterEntities.AssemblyInfo.cs
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\TheaterEntities\obj\Debug\netcoreapp3.1\TheaterEntities.csproj.CoreCompileInputs.cache
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\TheaterEntities\obj\Debug\netcoreapp3.1\TheaterEntities.dll
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Microservices\MicroserviceAssignment3\TheaterEntities\obj\Debug\netcoreapp3.1\TheaterEntities.pdb

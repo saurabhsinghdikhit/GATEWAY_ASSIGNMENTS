@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F598urYycgcqDy/CJIiF4aJu21472k0jg01hlF9ImRwhXuCb95qRRQpGfm3eFeITtAI/jy94QWyVfpHZT+p4qw==",
+  "dgSpecHash": "MCCp/2pe1x9s+pY38jVN1axvdNgLcURvra5f22K92ke6DzasmvLN1AV2WmvQ8wqeefqLyce67I//vjqfqIZwAw==",
   "success": true,
-  "projectFilePath": "E:\\GATEWAY\\Gateway Assignments\\Microservices\\Assignment 3\\MicroserviceAssignment3\\TheaterEntities\\TheaterEntities.csproj",
+  "projectFilePath": "D:\\Gateway_Assignments\\GATEWAY_ASSIGNMENTS\\Microservices\\MicroserviceAssignment3\\TheaterEntities\\TheaterEntities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
