@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "email": "gateway@gmail.com",
+        "name": "Gateway",
+        "totalEmployee": 34,
+        "address": "Ahmedabad",
+        "isCompanyActive": true,
+        "totalBranch": 4,
+        "companyBranch": [
+            {
+                "branchId": 1,
+                "branchName": "Gateway Ahmedabad",
+                "address": "Bodakdev"
+            },
+            {
+                "branchId": 2,
+                "branchName": "Gateway Gandhinagar",
+                "address": "Gandhinagar"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "email": "softech@gmail.com",
+        "name": "Softtech",
+        "totalEmployee": 30,
+        "address": "Ahmedabad",
+        "isCompanyActive": false,
+        "totalBranch": 3,
+        "companyBranch": [
+            {
+                "branchId": 1,
+                "branchName": "Softech Ahmedabad",
+                "address": "Bodakdev"
+            }
+        ]
+    }
+]
