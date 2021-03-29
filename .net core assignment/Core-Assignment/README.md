@@ -7,7 +7,7 @@ and execute this command
 
 update-database
 
-## About: Human Resoource management
+## About: Human Resource management
 - ⚡ Used Multitier architecture
 - 🔭 Used JWT token authentication to authenticate apis.
 - 🌱 Used Filters to Add Your name in each response headers
