@@ -1,0 +1,204 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\GATEWAY\\GATEWAY_ASSIGNMENTS_GITHUB\\GATEWAY_ASSIGNMENTS\\.net core assignment\\Core-Assignment\\HRM.CoreMVC\\HRM.CoreMVC.csproj": {}
+  },
+  "projects": {
+    "E:\\GATEWAY\\GATEWAY_ASSIGNMENTS_GITHUB\\GATEWAY_ASSIGNMENTS\\.net core assignment\\Core-Assignment\\HRM.BE\\HRM.BE.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\GATEWAY\\GATEWAY_ASSIGNMENTS_GITHUB\\GATEWAY_ASSIGNMENTS\\.net core assignment\\Core-Assignment\\HRM.BE\\HRM.BE.csproj",
+        "projectName": "HRM.BE",
+        "projectPath": "E:\\GATEWAY\\GATEWAY_ASSIGNMENTS_GITHUB\\GATEWAY_ASSIGNMENTS\\.net core assignment\\Core-Assignment\\HRM.BE\\HRM.BE.csproj",
+        "packagesPath": "C:\\Users\\Ss520\\.nuget\\packages\\",
+        "outputPath": "E:\\GATEWAY\\GATEWAY_ASSIGNMENTS_GITHUB\\GATEWAY_ASSIGNMENTS\\.net core assignment\\Core-Assignment\\HRM.BE\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ss520\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\GATEWAY\\GATEWAY_ASSIGNMENTS_GITHUB\\GATEWAY_ASSIGNMENTS\\.net core assignment\\Core-Assignment\\HRM.Common\\HRM.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\GATEWAY\\GATEWAY_ASSIGNMENTS_GITHUB\\GATEWAY_ASSIGNMENTS\\.net core assignment\\Core-Assignment\\HRM.Common\\HRM.Common.csproj",
+        "projectName": "HRM.Common",
+        "projectPath": "E:\\GATEWAY\\GATEWAY_ASSIGNMENTS_GITHUB\\GATEWAY_ASSIGNMENTS\\.net core assignment\\Core-Assignment\\HRM.Common\\HRM.Common.csproj",
+        "packagesPath": "C:\\Users\\Ss520\\.nuget\\packages\\",
+        "outputPath": "E:\\GATEWAY\\GATEWAY_ASSIGNMENTS_GITHUB\\GATEWAY_ASSIGNMENTS\\.net core assignment\\Core-Assignment\\HRM.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ss520\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\GATEWAY\\GATEWAY_ASSIGNMENTS_GITHUB\\GATEWAY_ASSIGNMENTS\\.net core assignment\\Core-Assignment\\HRM.CoreMVC\\HRM.CoreMVC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\GATEWAY\\GATEWAY_ASSIGNMENTS_GITHUB\\GATEWAY_ASSIGNMENTS\\.net core assignment\\Core-Assignment\\HRM.CoreMVC\\HRM.CoreMVC.csproj",
+        "projectName": "HRM.CoreMVC",
+        "projectPath": "E:\\GATEWAY\\GATEWAY_ASSIGNMENTS_GITHUB\\GATEWAY_ASSIGNMENTS\\.net core assignment\\Core-Assignment\\HRM.CoreMVC\\HRM.CoreMVC.csproj",
+        "packagesPath": "C:\\Users\\Ss520\\.nuget\\packages\\",
+        "outputPath": "E:\\GATEWAY\\GATEWAY_ASSIGNMENTS_GITHUB\\GATEWAY_ASSIGNMENTS\\.net core assignment\\Core-Assignment\\HRM.CoreMVC\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ss520\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "E:\\GATEWAY\\GATEWAY_ASSIGNMENTS_GITHUB\\GATEWAY_ASSIGNMENTS\\.net core assignment\\Core-Assignment\\HRM.BE\\HRM.BE.csproj": {
+                "projectPath": "E:\\GATEWAY\\GATEWAY_ASSIGNMENTS_GITHUB\\GATEWAY_ASSIGNMENTS\\.net core assignment\\Core-Assignment\\HRM.BE\\HRM.BE.csproj"
+              },
+              "E:\\GATEWAY\\GATEWAY_ASSIGNMENTS_GITHUB\\GATEWAY_ASSIGNMENTS\\.net core assignment\\Core-Assignment\\HRM.Common\\HRM.Common.csproj": {
+                "projectPath": "E:\\GATEWAY\\GATEWAY_ASSIGNMENTS_GITHUB\\GATEWAY_ASSIGNMENTS\\.net core assignment\\Core-Assignment\\HRM.Common\\HRM.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Formatters.Json": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.1.13, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Serilog.Extensions.Logging.File": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

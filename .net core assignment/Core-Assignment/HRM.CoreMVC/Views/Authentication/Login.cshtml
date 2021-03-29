@@ -1,0 +1,65 @@
+﻿@model HRM.BE.ViewModels.AdminLoginVM
+@{
+    Layout = null;
+}
+@if (ViewBag.Message != null)
+{
+    <div id="nofication" style="background: red; z-index: 10000;padding-top: 14px; padding-bottom: 15px;" class="notification">
+        @ViewBag.Message
+    </div>
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Admin Login</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <environment include="Development">
+        <link rel="icon" href="~/assets/icon.png" type="image/imge_header">
+        <link rel='stylesheet' type='text/css' media='screen' href='~/css/login.css'>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    </environment>
+</head>
+<body>
+    <div class="main" style="height:100%;width:100%">
+
+        <!-- Sing in  Form -->
+        <section class="sign-in">
+            <div class="container">
+                <div class="signin-content">
+                    <div class="signin-image">
+                        <figure><img src="~/assets/login.gif" alt="sing in image"></figure>
+                    </div>
+
+                    <div class="signin-form">
+                        <h2 class="form-title">Hello Admin</h2>
+                        <form asp-controller="Authentication" asp-action="Login" method="post">
+                            <div class="form-group">
+                                <label asp-for="Email" for="your_email"><i class="fa fa-envelope material-icons-name"></i></label>
+                                <input asp-for="Email" class="form-control" placeholder="Enter your email" />
+                            </div>
+                            <span asp-validation-for="Email" class="text-danger"></span>
+                            <div class="form-group">
+                                <label for="your_email"><i class="fa fa-unlock-alt material-icons-name"></i></label>
+                                <input asp-for="Password" class="form-control" placeholder="Enter your password" />
+                            </div>
+                            <span asp-validation-for="Password" class="text-danger"></span>
+                            <div class="form-group form-button">
+                                <input type="submit" id="signin" class="form-submit" value="Log in" />
+                            </div>
+                        </form>
+
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    </div>
+    <environment include="Development">
+        <script src="~/lib/jquery/dist/jquery.js"></script>
+        <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+        <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+    </environment>
+</body>
+</html>

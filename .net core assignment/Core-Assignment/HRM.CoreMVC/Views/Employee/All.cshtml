@@ -1,0 +1,48 @@
+﻿@model IEnumerable<HRM.BE.Employee>
+
+@{
+    ViewData["Title"] = "Employees List";
+}
+
+@if (ViewBag.Message != null)
+{
+    <div id="nofication" style="background: green; z-index: 10000;padding-top: 14px; padding-bottom: 15px;" class="notification">
+        @ViewBag.Message
+    </div>
+}
+<p>
+    <a asp-action="Create" class="btn btn-outline-success">Create New</a>
+</p>
+@if (Model != null)
+{
+    <div class="row">
+        @foreach (var item in Model)
+        {
+            <div class="col-lg-3">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">@item.Name</h5>
+                        <h6 class="card-subtitle mb-2 text-muted">@item.Department.Name</h6>
+                        <p class="card-text">@item.Phone</p>
+                        <a href="/Employee/Details/@item.Id" class="card-link btn btn-success" style="padding: 6px;">View</a>
+                        <a href="/Employee/Edit/@item.Id" class="card-link btn btn-warning" style="padding: 6px;">Edit</a>
+                        <a onclick="if (!confirm('Are you sure want to delete it?')) { return false; } else { $('#form').submit();}" href="/Employee/Delete/@item.Id" class="card-link btn btn-danger" style="padding: 6px;">Delete</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+}
+else
+{
+    <h1>No Data Found. Please Add some</h1>
+}
+
+@section scripts{
+    <script>
+        setTimeout(function () {
+            $('#nofication').fadeOut('fast');
+        }, 4000);
+    </script>
+}
+

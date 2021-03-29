@@ -1,0 +1,12 @@
+﻿@using Microsoft.AspNetCore.Http
+@inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor
+@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<div class="text-center">
+    <h1>Welcome @HttpContextAccessor.HttpContext.Session.GetString("user")</h1>
+    <img src="~/assets/dashboard.gif" />
+</div>
+
+

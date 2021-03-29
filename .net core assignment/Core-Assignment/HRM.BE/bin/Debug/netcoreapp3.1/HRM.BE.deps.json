@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "HRM.BE/1.0.0": {
+        "runtime": {
+          "HRM.BE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HRM.BE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

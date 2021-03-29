@@ -1,0 +1,246 @@
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\HRM.API.exe
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\HRM.API.deps.json
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\HRM.API.runtimeconfig.json
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\HRM.API.runtimeconfig.dev.json
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\HRM.API.dll
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\HRM.API.pdb
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Net core assignments\HRM.Solution\HRM.API\obj\Debug\netcoreapp3.1\HRM.API.csprojAssemblyReference.cache
+D:\Net core assignments\HRM.Solution\HRM.API\obj\Debug\netcoreapp3.1\HRM.API.AssemblyInfoInputs.cache
+D:\Net core assignments\HRM.Solution\HRM.API\obj\Debug\netcoreapp3.1\HRM.API.AssemblyInfo.cs
+D:\Net core assignments\HRM.Solution\HRM.API\obj\Debug\netcoreapp3.1\HRM.API.csproj.CoreCompileInputs.cache
+D:\Net core assignments\HRM.Solution\HRM.API\obj\Debug\netcoreapp3.1\HRM.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Net core assignments\HRM.Solution\HRM.API\obj\Debug\netcoreapp3.1\HRM.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Net core assignments\HRM.Solution\HRM.API\obj\Debug\netcoreapp3.1\staticwebassets\HRM.API.StaticWebAssets.Manifest.cache
+D:\Net core assignments\HRM.Solution\HRM.API\obj\Debug\netcoreapp3.1\staticwebassets\HRM.API.StaticWebAssets.xml
+D:\Net core assignments\HRM.Solution\HRM.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\HRM.API.styles.css
+D:\Net core assignments\HRM.Solution\HRM.API\obj\Debug\netcoreapp3.1\HRM.API.RazorTargetAssemblyInfo.cache
+D:\Net core assignments\HRM.Solution\HRM.API\obj\Debug\netcoreapp3.1\HRM.API.csproj.CopyComplete
+D:\Net core assignments\HRM.Solution\HRM.API\obj\Debug\netcoreapp3.1\HRM.API.dll
+D:\Net core assignments\HRM.Solution\HRM.API\obj\Debug\netcoreapp3.1\HRM.API.pdb
+D:\Net core assignments\HRM.Solution\HRM.API\obj\Debug\netcoreapp3.1\HRM.API.genruntimeconfig.cache
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\HRM.DAL.dll
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\HRM.DAL.pdb
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\HRM.BE.dll
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\HRM.BE.pdb
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\HRM.BAL.dll
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\HRM.BAL.pdb
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\appsettings.json
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\HRM.API.exe
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\HRM.API.deps.json
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\HRM.API.runtimeconfig.json
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\HRM.API.runtimeconfig.dev.json
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\HRM.API.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\HRM.API.pdb
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\HRM.BAL.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\HRM.BE.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\HRM.DAL.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\HRM.BAL.pdb
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\HRM.BE.pdb
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\HRM.DAL.pdb
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\obj\Debug\netcoreapp3.1\HRM.API.csprojAssemblyReference.cache
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\obj\Debug\netcoreapp3.1\HRM.API.AssemblyInfoInputs.cache
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\obj\Debug\netcoreapp3.1\HRM.API.AssemblyInfo.cs
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\obj\Debug\netcoreapp3.1\HRM.API.csproj.CoreCompileInputs.cache
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\obj\Debug\netcoreapp3.1\HRM.API.MvcApplicationPartsAssemblyInfo.cs
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\obj\Debug\netcoreapp3.1\HRM.API.MvcApplicationPartsAssemblyInfo.cache
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\obj\Debug\netcoreapp3.1\staticwebassets\HRM.API.StaticWebAssets.Manifest.cache
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\obj\Debug\netcoreapp3.1\staticwebassets\HRM.API.StaticWebAssets.xml
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\HRM.API.styles.css
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\obj\Debug\netcoreapp3.1\HRM.API.RazorTargetAssemblyInfo.cache
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\obj\Debug\netcoreapp3.1\HRM.API.csproj.CopyComplete
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\obj\Debug\netcoreapp3.1\HRM.API.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\obj\Debug\netcoreapp3.1\HRM.API.pdb
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\obj\Debug\netcoreapp3.1\HRM.API.genruntimeconfig.cache
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\HRM.Common.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\HRM.Common.pdb
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\HRM.Common.dll
+D:\Net core assignments\HRM.Solution\HRM.API\bin\Debug\netcoreapp3.1\HRM.Common.pdb
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\obj\Debug\netcoreapp3.1\HRM.API.csprojAssemblyReference.cache
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\obj\Debug\netcoreapp3.1\HRM.API.AssemblyInfoInputs.cache
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\obj\Debug\netcoreapp3.1\HRM.API.AssemblyInfo.cs
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\obj\Debug\netcoreapp3.1\HRM.API.csproj.CoreCompileInputs.cache
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\obj\Debug\netcoreapp3.1\HRM.API.MvcApplicationPartsAssemblyInfo.cs
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\obj\Debug\netcoreapp3.1\HRM.API.MvcApplicationPartsAssemblyInfo.cache
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\obj\Debug\netcoreapp3.1\HRM.API.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\obj\Debug\netcoreapp3.1\HRM.API.pdb
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\appsettings.json
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\HRM.API.exe
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\HRM.API.deps.json
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\HRM.API.runtimeconfig.json
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\HRM.API.runtimeconfig.dev.json
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\HRM.API.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\HRM.API.pdb
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\HRM.BAL.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\HRM.BE.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\HRM.Common.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\HRM.DAL.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\HRM.BAL.pdb
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\HRM.Common.pdb
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\HRM.BE.pdb
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\bin\Debug\netcoreapp3.1\HRM.DAL.pdb
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\obj\Debug\netcoreapp3.1\staticwebassets\HRM.API.StaticWebAssets.Manifest.cache
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\obj\Debug\netcoreapp3.1\staticwebassets\HRM.API.StaticWebAssets.xml
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\HRM.API.styles.css
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\obj\Debug\netcoreapp3.1\HRM.API.RazorTargetAssemblyInfo.cache
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\obj\Debug\netcoreapp3.1\HRM.API.csproj.CopyComplete
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.API\obj\Debug\netcoreapp3.1\HRM.API.genruntimeconfig.cache

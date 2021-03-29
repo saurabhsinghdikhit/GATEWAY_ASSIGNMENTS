@@ -1,0 +1,80 @@
+﻿@using HRM.Common.Enums;
+@model HRM.BE.Employee
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h2>Create An Employee</h2>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <img src="~/assets/dashboard.gif" class="img-thumbnail" />
+    </div>
+    <div class="col-md-8">
+        <form asp-action="Create" method="post">
+            <div class="form-row align-items-center">
+                <div class="col-sm-6 my-1">
+                    <label class="sr-only" for="inlineFormInputName">Name</label>
+                    <input asp-for="Name" type="text" class="form-control" id="inlineFormInputName" placeholder="Enter your name">
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+                <div class="col-sm-6 my-1">
+                    <label class="sr-only" for="inlineFormInputGroupUsername">Email</label>
+                    <div class="input-group">
+                        <div class="input-group-prepend">
+                            <div class="input-group-text">@@</div>
+                        </div>
+                        <input asp-for="Email" type="email" class="form-control" id="inlineFormInputGroupUsername" placeholder="Email">
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-sm-6 my-1">
+                    <select asp-for="DepartmentId" asp-items="ViewBag.Departments" class="custom-select">
+                    </select>
+                </div>
+                <div class="col-sm-6 my-1">
+                    <input asp-for="Salary" class="form-control" placeholder="Salary" />
+                    <span asp-validation-for="Salary" class="text-danger"></span>
+                </div>
+                <div class="col-sm-4 my-1" style=" padding-left: 30px;">
+                    <label class="form-check-label">
+                        <input class="form-check-input" onchange="valueChanged()" asp-for="IsManager" /> @Html.DisplayNameFor(model => model.IsManager)
+                    </label>
+                </div>
+                <div id="ManagerDiv" class="col-sm-4 my-1">
+                    <select asp-for="Manager" class="custom-select">
+                        @foreach (var item in ViewBag.Managers)
+                        {
+                            <option>@item</option>
+                        }
+                    </select>
+                    <span asp-validation-for="Manager" class="text-danger"></span>
+                </div>
+                <div class="col-sm-4 my-1">
+                    <input asp-for="Phone" class="form-control" placeholder="Phone" />
+                    <span asp-validation-for="Phone" class="text-danger"></span>
+                </div>
+
+            </div>
+            <div class="col-auto text-center my-1" style="padding-top:30px">
+                <button type="submit" class="btn btn-primary">Register Employee</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+    
+
+@section Scripts {
+    <script type="text/javascript">
+    function valueChanged()
+    {
+        if ($('#IsManager').is(":checked"))
+            $("#ManagerDiv").hide();
+        else
+            $("#ManagerDiv").show();
+    }
+    </script>
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

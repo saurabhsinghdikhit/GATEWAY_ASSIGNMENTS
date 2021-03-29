@@ -1,0 +1,25 @@
+D:\Net core assignments\HRM.Solution\HRM.Common\bin\Debug\netcoreapp3.1\HRM.Common.deps.json
+D:\Net core assignments\HRM.Solution\HRM.Common\bin\Debug\netcoreapp3.1\HRM.Common.dll
+D:\Net core assignments\HRM.Solution\HRM.Common\bin\Debug\netcoreapp3.1\HRM.Common.pdb
+D:\Net core assignments\HRM.Solution\HRM.Common\obj\Debug\netcoreapp3.1\HRM.Common.AssemblyInfoInputs.cache
+D:\Net core assignments\HRM.Solution\HRM.Common\obj\Debug\netcoreapp3.1\HRM.Common.AssemblyInfo.cs
+D:\Net core assignments\HRM.Solution\HRM.Common\obj\Debug\netcoreapp3.1\HRM.Common.csproj.CoreCompileInputs.cache
+D:\Net core assignments\HRM.Solution\HRM.Common\obj\Debug\netcoreapp3.1\HRM.Common.dll
+D:\Net core assignments\HRM.Solution\HRM.Common\obj\Debug\netcoreapp3.1\HRM.Common.pdb
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.Common\bin\Debug\netcoreapp3.1\HRM.Common.deps.json
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.Common\bin\Debug\netcoreapp3.1\HRM.Common.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.Common\bin\Debug\netcoreapp3.1\HRM.Common.pdb
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.Common\obj\Debug\netcoreapp3.1\HRM.Common.csprojAssemblyReference.cache
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.Common\obj\Debug\netcoreapp3.1\HRM.Common.AssemblyInfoInputs.cache
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.Common\obj\Debug\netcoreapp3.1\HRM.Common.AssemblyInfo.cs
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.Common\obj\Debug\netcoreapp3.1\HRM.Common.csproj.CoreCompileInputs.cache
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.Common\obj\Debug\netcoreapp3.1\HRM.Common.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.Common\obj\Debug\netcoreapp3.1\HRM.Common.pdb
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.Common\bin\Debug\netcoreapp3.1\HRM.Common.deps.json
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.Common\bin\Debug\netcoreapp3.1\HRM.Common.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.Common\bin\Debug\netcoreapp3.1\HRM.Common.pdb
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.Common\obj\Debug\netcoreapp3.1\HRM.Common.AssemblyInfoInputs.cache
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.Common\obj\Debug\netcoreapp3.1\HRM.Common.AssemblyInfo.cs
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.Common\obj\Debug\netcoreapp3.1\HRM.Common.csproj.CoreCompileInputs.cache
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.Common\obj\Debug\netcoreapp3.1\HRM.Common.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.Common\obj\Debug\netcoreapp3.1\HRM.Common.pdb

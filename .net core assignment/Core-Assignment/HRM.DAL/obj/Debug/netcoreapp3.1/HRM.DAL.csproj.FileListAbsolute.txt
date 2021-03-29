@@ -1,0 +1,45 @@
+D:\Net core assignments\HRM.Solution\HRM.DAL\bin\Debug\netcoreapp3.1\HRM.DAL.deps.json
+D:\Net core assignments\HRM.Solution\HRM.DAL\bin\Debug\netcoreapp3.1\HRM.DAL.runtimeconfig.json
+D:\Net core assignments\HRM.Solution\HRM.DAL\bin\Debug\netcoreapp3.1\HRM.DAL.runtimeconfig.dev.json
+D:\Net core assignments\HRM.Solution\HRM.DAL\bin\Debug\netcoreapp3.1\HRM.DAL.dll
+D:\Net core assignments\HRM.Solution\HRM.DAL\bin\Debug\netcoreapp3.1\HRM.DAL.pdb
+D:\Net core assignments\HRM.Solution\HRM.DAL\obj\Debug\netcoreapp3.1\HRM.DAL.csprojAssemblyReference.cache
+D:\Net core assignments\HRM.Solution\HRM.DAL\obj\Debug\netcoreapp3.1\HRM.DAL.AssemblyInfoInputs.cache
+D:\Net core assignments\HRM.Solution\HRM.DAL\obj\Debug\netcoreapp3.1\HRM.DAL.AssemblyInfo.cs
+D:\Net core assignments\HRM.Solution\HRM.DAL\obj\Debug\netcoreapp3.1\HRM.DAL.csproj.CoreCompileInputs.cache
+D:\Net core assignments\HRM.Solution\HRM.DAL\obj\Debug\netcoreapp3.1\HRM.DAL.dll
+D:\Net core assignments\HRM.Solution\HRM.DAL\obj\Debug\netcoreapp3.1\HRM.DAL.pdb
+D:\Net core assignments\HRM.Solution\HRM.DAL\obj\Debug\netcoreapp3.1\HRM.DAL.genruntimeconfig.cache
+D:\Net core assignments\HRM.Solution\HRM.DAL\bin\Debug\netcoreapp3.1\HRM.BE.dll
+D:\Net core assignments\HRM.Solution\HRM.DAL\bin\Debug\netcoreapp3.1\HRM.BE.pdb
+D:\Net core assignments\HRM.Solution\HRM.DAL\obj\Debug\netcoreapp3.1\HRM.DAL.csproj.CopyComplete
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.DAL\bin\Debug\netcoreapp3.1\HRM.DAL.deps.json
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.DAL\bin\Debug\netcoreapp3.1\HRM.DAL.runtimeconfig.json
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.DAL\bin\Debug\netcoreapp3.1\HRM.DAL.runtimeconfig.dev.json
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.DAL\bin\Debug\netcoreapp3.1\HRM.DAL.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.DAL\bin\Debug\netcoreapp3.1\HRM.DAL.pdb
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.DAL\bin\Debug\netcoreapp3.1\HRM.BE.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.DAL\bin\Debug\netcoreapp3.1\HRM.BE.pdb
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.DAL\obj\Debug\netcoreapp3.1\HRM.DAL.csprojAssemblyReference.cache
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.DAL\obj\Debug\netcoreapp3.1\HRM.DAL.AssemblyInfoInputs.cache
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.DAL\obj\Debug\netcoreapp3.1\HRM.DAL.AssemblyInfo.cs
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.DAL\obj\Debug\netcoreapp3.1\HRM.DAL.csproj.CoreCompileInputs.cache
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.DAL\obj\Debug\netcoreapp3.1\HRM.DAL.csproj.CopyComplete
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.DAL\obj\Debug\netcoreapp3.1\HRM.DAL.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.DAL\obj\Debug\netcoreapp3.1\HRM.DAL.pdb
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.DAL\obj\Debug\netcoreapp3.1\HRM.DAL.genruntimeconfig.cache
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.DAL\obj\Debug\netcoreapp3.1\HRM.DAL.csprojAssemblyReference.cache
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.DAL\obj\Debug\netcoreapp3.1\HRM.DAL.AssemblyInfoInputs.cache
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.DAL\obj\Debug\netcoreapp3.1\HRM.DAL.AssemblyInfo.cs
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.DAL\obj\Debug\netcoreapp3.1\HRM.DAL.csproj.CoreCompileInputs.cache
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.DAL\obj\Debug\netcoreapp3.1\HRM.DAL.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.DAL\obj\Debug\netcoreapp3.1\HRM.DAL.pdb
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.DAL\bin\Debug\netcoreapp3.1\HRM.DAL.deps.json
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.DAL\bin\Debug\netcoreapp3.1\HRM.DAL.runtimeconfig.json
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.DAL\bin\Debug\netcoreapp3.1\HRM.DAL.runtimeconfig.dev.json
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.DAL\bin\Debug\netcoreapp3.1\HRM.DAL.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.DAL\bin\Debug\netcoreapp3.1\HRM.DAL.pdb
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.DAL\bin\Debug\netcoreapp3.1\HRM.BE.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.DAL\bin\Debug\netcoreapp3.1\HRM.BE.pdb
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.DAL\obj\Debug\netcoreapp3.1\HRM.DAL.csproj.CopyComplete
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.DAL\obj\Debug\netcoreapp3.1\HRM.DAL.genruntimeconfig.cache

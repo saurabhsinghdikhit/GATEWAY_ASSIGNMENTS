@@ -1,0 +1,381 @@
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\HRM.CoreMVC.exe
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\HRM.CoreMVC.deps.json
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\HRM.CoreMVC.runtimeconfig.json
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\HRM.CoreMVC.runtimeconfig.dev.json
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\HRM.CoreMVC.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\HRM.CoreMVC.pdb
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\HRM.CoreMVC.Views.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\HRM.CoreMVC.Views.pdb
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\obj\Debug\netcoreapp3.1\HRM.CoreMVC.AssemblyInfoInputs.cache
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\obj\Debug\netcoreapp3.1\HRM.CoreMVC.AssemblyInfo.cs
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\obj\Debug\netcoreapp3.1\HRM.CoreMVC.csproj.CoreCompileInputs.cache
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\obj\Debug\netcoreapp3.1\HRM.CoreMVC.MvcApplicationPartsAssemblyInfo.cache
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\obj\Debug\netcoreapp3.1\HRM.CoreMVC.RazorAssemblyInfo.cache
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\obj\Debug\netcoreapp3.1\HRM.CoreMVC.RazorAssemblyInfo.cs
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\obj\Debug\netcoreapp3.1\staticwebassets\HRM.CoreMVC.StaticWebAssets.Manifest.cache
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\obj\Debug\netcoreapp3.1\staticwebassets\HRM.CoreMVC.StaticWebAssets.xml
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\obj\Debug\netcoreapp3.1\scopedcss\bundle\HRM.CoreMVC.styles.css
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\obj\Debug\netcoreapp3.1\HRM.CoreMVC.TagHelpers.input.cache
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\obj\Debug\netcoreapp3.1\HRM.CoreMVC.TagHelpers.output.cache
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\obj\Debug\netcoreapp3.1\HRM.CoreMVC.RazorCoreGenerate.cache
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\obj\Debug\netcoreapp3.1\HRM.CoreMVC.RazorTargetAssemblyInfo.cache
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\obj\Debug\netcoreapp3.1\HRM.CoreMVC.RazorTargetAssemblyInfo.cs
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\obj\Debug\netcoreapp3.1\HRM.CoreMVC.Views.pdb
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\obj\Debug\netcoreapp3.1\HRM.CoreMVC.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\obj\Debug\netcoreapp3.1\HRM.CoreMVC.pdb
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\obj\Debug\netcoreapp3.1\HRM.CoreMVC.genruntimeconfig.cache
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\obj\Debug\netcoreapp3.1\HRM.CoreMVC.csproj.CopyComplete
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\obj\Debug\netcoreapp3.1\HRM.CoreMVC.csprojAssemblyReference.cache
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\HRM.Common.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\HRM.Common.pdb
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\Authentication\Login.cshtml.g.cs
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\HRM.BE.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\HRM.BE.pdb
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Dashboard.cshtml.g.cs
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\Employee\All.cshtml.g.cs
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Create.cshtml.g.cs
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\appsettings.json
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\HRM.CoreMVC.exe
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\HRM.CoreMVC.deps.json
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\HRM.CoreMVC.runtimeconfig.json
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\HRM.CoreMVC.runtimeconfig.dev.json
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\HRM.CoreMVC.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\HRM.CoreMVC.pdb
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\HRM.CoreMVC.Views.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\HRM.CoreMVC.Views.pdb
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\HRM.BE.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\HRM.Common.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\HRM.BE.pdb
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\HRM.Common.pdb
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\obj\Debug\netcoreapp3.1\HRM.CoreMVC.csprojAssemblyReference.cache
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\obj\Debug\netcoreapp3.1\HRM.CoreMVC.AssemblyInfoInputs.cache
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\obj\Debug\netcoreapp3.1\HRM.CoreMVC.AssemblyInfo.cs
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\obj\Debug\netcoreapp3.1\HRM.CoreMVC.csproj.CoreCompileInputs.cache
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\obj\Debug\netcoreapp3.1\HRM.CoreMVC.MvcApplicationPartsAssemblyInfo.cache
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\obj\Debug\netcoreapp3.1\HRM.CoreMVC.RazorAssemblyInfo.cache
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\obj\Debug\netcoreapp3.1\HRM.CoreMVC.RazorAssemblyInfo.cs
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\obj\Debug\netcoreapp3.1\staticwebassets\HRM.CoreMVC.StaticWebAssets.Manifest.cache
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\obj\Debug\netcoreapp3.1\staticwebassets\HRM.CoreMVC.StaticWebAssets.xml
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\obj\Debug\netcoreapp3.1\scopedcss\bundle\HRM.CoreMVC.styles.css
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\obj\Debug\netcoreapp3.1\HRM.CoreMVC.TagHelpers.input.cache
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\obj\Debug\netcoreapp3.1\HRM.CoreMVC.TagHelpers.output.cache
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\obj\Debug\netcoreapp3.1\HRM.CoreMVC.RazorCoreGenerate.cache
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\Authentication\Login.cshtml.g.cs
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\Employee\All.cshtml.g.cs
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Create.cshtml.g.cs
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Dashboard.cshtml.g.cs
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\obj\Debug\netcoreapp3.1\HRM.CoreMVC.RazorTargetAssemblyInfo.cache
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\obj\Debug\netcoreapp3.1\HRM.CoreMVC.RazorTargetAssemblyInfo.cs
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\obj\Debug\netcoreapp3.1\HRM.CoreMVC.Views.pdb
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\obj\Debug\netcoreapp3.1\HRM.CoreMVC.csproj.CopyComplete
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\obj\Debug\netcoreapp3.1\HRM.CoreMVC.dll
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\obj\Debug\netcoreapp3.1\HRM.CoreMVC.pdb
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\obj\Debug\netcoreapp3.1\HRM.CoreMVC.genruntimeconfig.cache
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Details.cshtml.g.cs
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Edit.cshtml.g.cs
+E:\GATEWAY\Gateway Assignments\.net Core Assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Details.cshtml.g.cs
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Edit.cshtml.g.cs
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Serilog.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.File.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Serilog.Sinks.Async.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+D:\Net core assignments\HRM.Solution\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Serilog.Sinks.RollingFile.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\appsettings.json
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\HRM.CoreMVC.exe
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\HRM.CoreMVC.deps.json
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\HRM.CoreMVC.runtimeconfig.json
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\HRM.CoreMVC.runtimeconfig.dev.json
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\HRM.CoreMVC.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\HRM.CoreMVC.pdb
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\HRM.CoreMVC.Views.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\HRM.CoreMVC.Views.pdb
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Serilog.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.File.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Serilog.Sinks.Async.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\Serilog.Sinks.RollingFile.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\HRM.BE.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\HRM.Common.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\HRM.BE.pdb
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\bin\Debug\netcoreapp3.1\HRM.Common.pdb
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\obj\Debug\netcoreapp3.1\HRM.CoreMVC.csprojAssemblyReference.cache
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\obj\Debug\netcoreapp3.1\HRM.CoreMVC.AssemblyInfoInputs.cache
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\obj\Debug\netcoreapp3.1\HRM.CoreMVC.AssemblyInfo.cs
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\obj\Debug\netcoreapp3.1\HRM.CoreMVC.csproj.CoreCompileInputs.cache
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\obj\Debug\netcoreapp3.1\HRM.CoreMVC.MvcApplicationPartsAssemblyInfo.cache
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\obj\Debug\netcoreapp3.1\HRM.CoreMVC.RazorAssemblyInfo.cache
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\obj\Debug\netcoreapp3.1\HRM.CoreMVC.RazorAssemblyInfo.cs
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\obj\Debug\netcoreapp3.1\staticwebassets\HRM.CoreMVC.StaticWebAssets.Manifest.cache
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\obj\Debug\netcoreapp3.1\staticwebassets\HRM.CoreMVC.StaticWebAssets.xml
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\obj\Debug\netcoreapp3.1\scopedcss\bundle\HRM.CoreMVC.styles.css
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\obj\Debug\netcoreapp3.1\HRM.CoreMVC.TagHelpers.input.cache
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\obj\Debug\netcoreapp3.1\HRM.CoreMVC.TagHelpers.output.cache
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\obj\Debug\netcoreapp3.1\HRM.CoreMVC.RazorCoreGenerate.cache
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\Authentication\Login.cshtml.g.cs
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\Employee\All.cshtml.g.cs
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Create.cshtml.g.cs
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Dashboard.cshtml.g.cs
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Details.cshtml.g.cs
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Edit.cshtml.g.cs
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\obj\Debug\netcoreapp3.1\HRM.CoreMVC.RazorTargetAssemblyInfo.cache
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\obj\Debug\netcoreapp3.1\HRM.CoreMVC.RazorTargetAssemblyInfo.cs
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\obj\Debug\netcoreapp3.1\HRM.CoreMVC.Views.pdb
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\obj\Debug\netcoreapp3.1\HRM.CoreMVC.csproj.CopyComplete
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\obj\Debug\netcoreapp3.1\HRM.CoreMVC.dll
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\obj\Debug\netcoreapp3.1\HRM.CoreMVC.pdb
+E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.CoreMVC\obj\Debug\netcoreapp3.1\HRM.CoreMVC.genruntimeconfig.cache
