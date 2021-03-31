@@ -17,33 +17,53 @@ namespace TESTING.CLPMT.WEPAPI.Controllers
             _passengerManager = passengerManager;
         }
         // GET: api/Passenger
-        public IList<Passenger> Get()
+        public IHttpActionResult Get()
         {
-            return _passengerManager.GetPassengersList();
+            var passengers = _passengerManager.GetPassengersList();
+            if (passengers == null)
+                return ResponseMessage(Request.CreateErrorResponse(HttpStatusCode.BadRequest, "passengers list is null"));
+            else
+                return Ok(passengers);
         }
 
         // GET: api/Passenger/5
         public IHttpActionResult Get(Guid id)
         {
-            return Ok(_passengerManager.GetPassenger(id));
+            var passenger = _passengerManager.GetPassenger(id);
+            if (passenger == null)
+                return ResponseMessage(Request.CreateErrorResponse(HttpStatusCode.BadRequest, "could not find the passenger with Id"+id));
+            else
+                return Ok(passenger);
         }
 
         // POST: api/Passenger
-        public Passenger Post([FromBody]Passenger passenger)
+        public IHttpActionResult Post([FromBody]Passenger passenger)
         {
-            return _passengerManager.AddPassenger(passenger);
+            var _passenger = _passengerManager.AddPassenger(passenger); ;
+            if (_passenger == null)
+                return ResponseMessage(Request.CreateErrorResponse(HttpStatusCode.BadRequest, "not able to add passenger"));
+            else
+                return Ok(_passenger);
+            
         }
 
         // PUT: api/Passenger/5
-        public Passenger Put([FromBody]Passenger passenger)
+        public IHttpActionResult Put([FromBody]Passenger passenger)
         {
-            return _passengerManager.UpdatePassenger(passenger);
+            var _passenger = _passengerManager.UpdatePassenger(passenger);
+            if (_passenger == null)
+                return ResponseMessage(Request.CreateErrorResponse(HttpStatusCode.BadRequest, "not able to update passenger"));
+            else
+                return Ok(_passenger);
         }
 
         // DELETE: api/Passenger/5
-        public bool Delete(Guid id)
+        public IHttpActionResult Delete(Guid id)
         {
-            return _passengerManager.RemovePassenger(id);
+            if (!_passengerManager.RemovePassenger(id))
+                return ResponseMessage(Request.CreateErrorResponse(HttpStatusCode.BadRequest, "passenger deleted successfully"));
+            else
+                return Ok(true);
         }
     }
 }

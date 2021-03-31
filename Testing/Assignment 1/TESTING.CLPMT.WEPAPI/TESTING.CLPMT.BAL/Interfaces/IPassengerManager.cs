@@ -9,7 +9,7 @@ namespace TESTING.CLPMT.BAL.Interfaces
 {
     public interface IPassengerManager
     {
-        IList<Passenger> GetPassengersList();
+        IList<BE.Passenger> GetPassengersList();
         Passenger AddPassenger(Passenger passenger);
         Passenger UpdatePassenger(Passenger passenger);
         Passenger GetPassenger(Guid passengerId);

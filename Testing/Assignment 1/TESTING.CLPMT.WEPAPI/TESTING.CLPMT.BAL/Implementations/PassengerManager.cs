@@ -11,25 +11,25 @@ namespace TESTING.CLPMT.BAL.Implementations
 {
     public class PassengerManager : IPassengerManager
     {
-        readonly Dictionary<Guid, Passenger> _passenger = new Dictionary<Guid, Passenger>();
-        private Passenger CreatePassengerWithId(Passenger passenger)
+        readonly Dictionary<Guid, BE.Passenger> _passenger = new Dictionary<Guid, BE.Passenger>();
+        private BE.Passenger CreatePassengerWithId(BE.Passenger passenger)
         {
             Guid guid1 = Guid.NewGuid();
             passenger.Number = guid1;
             _passenger.Add(guid1, passenger);
             return passenger;
         }
-        public Passenger AddPassenger(Passenger passenger)
+        public BE.Passenger AddPassenger(BE.Passenger passenger)
         {
             return PassengerRepository.AddPassenger(CreatePassengerWithId(passenger));
         }
 
-        public Passenger GetPassenger(Guid passengerId)
+        public BE.Passenger GetPassenger(Guid passengerId)
         {
             return PassengerRepository.GetPassengerById(passengerId);
         }
 
-        public IList<Passenger> GetPassengersList()
+        public IList<BE.Passenger> GetPassengersList()
         {
             return PassengerRepository.GetPassengers();
         }
@@ -39,7 +39,7 @@ namespace TESTING.CLPMT.BAL.Implementations
             return PassengerRepository.DeletePassenger(passengerId);
         }
 
-        public Passenger UpdatePassenger(Passenger passenger)
+        public BE.Passenger UpdatePassenger(Passenger passenger)
         {
             return PassengerRepository.UpdatePassenger(passenger);
         }

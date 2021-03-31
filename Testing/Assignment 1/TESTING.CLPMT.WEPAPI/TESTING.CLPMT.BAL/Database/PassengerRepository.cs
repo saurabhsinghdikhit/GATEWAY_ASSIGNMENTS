@@ -1,4 +1,5 @@
-﻿using System;
+﻿using AutoMapper;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -7,41 +8,52 @@ using TESTING.CLPMT.BE;
 
 namespace TESTING.CLPMT.BAL.Database
 {
-    public static class PassengerRepository
+    public class PassengerRepository
     {
-        private static List<Passenger> passengers=new List<Passenger>();
-        static PassengerRepository()
+        private readonly TestingDBContext _testingDBContext;
+        public PassengerRepository(TestingDBContext testingDBContext)
         {
-            AddPassenger(new Passenger { Number = Guid.NewGuid(), FirstName = "ram1", LastName = "singh1", ContactNo = "123245" });
-            AddPassenger(new Passenger { Number = Guid.NewGuid(), FirstName = "ram2", LastName = "singh2", ContactNo = "123245" });
-            AddPassenger(new Passenger { Number = Guid.NewGuid(), FirstName = "ram3", LastName = "singh3", ContactNo = "123245" });
+            _testingDBContext = testingDBContext;
         }
-        public static Passenger AddPassenger(Passenger passenger)
+        public BE.Passenger AddPassenger(BE.Passenger passenger)
         {
-            passengers.Add(passenger);
+            Mapper.CreateMap<BE.Passenger, Passenger>();
+            Passenger passenger1 = Mapper.Map<Passenger>(passenger);
+            _testingDBContext.Passengers.Add(passenger1);
+            _testingDBContext.SaveChanges();
             return passenger;
         }
-        public static IList<Passenger> GetPassengers()
+        public  IList<BE.Passenger> GetPassengers()
         {
-            return passengers;
+            Mapper.CreateMap<Passenger, BE.Passenger>();
+            return Mapper.Map<List<BE.Passenger>>(_testingDBContext.Passengers.ToList());
+              
         }
-        public static Passenger GetPassengerById(Guid Id)
+        public  BE.Passenger GetPassengerById(Guid Id)
         {
-            return passengers.FirstOrDefault(x=>x.Number==Id);
+            Mapper.CreateMap<Passenger, BE.Passenger>();
+            return Mapper.Map<BE.Passenger>(_testingDBContext.Passengers.FirstOrDefault(x => x.Number == Id));
         }
-        public static bool DeletePassenger(Guid passengerId)
+        public  bool DeletePassenger(Guid passengerId)
         {
-            return passengers.Remove(GetPassengerById(passengerId));
+            Mapper.CreateMap<BE.Passenger, Passenger>();
+            if (_testingDBContext.Passengers.Remove(Mapper.Map<Passenger>(GetPassengerById(passengerId))) != null)
+                return true;
+            else
+                return false;
         }
-        public static Passenger UpdatePassenger(Passenger passenger)
+        public Passenger UpdatePassenger(Passenger passenger)
         {
-            Passenger passengerToUpdate = GetPassengerById(passenger.Number);
+            Mapper.CreateMap<BE.Passenger, Passenger>();
+            Passenger passengerToUpdate = Mapper.Map<Passenger>(GetPassengerById(passenger.Number));
             if (passengerToUpdate == null)
                 return null;
             passengerToUpdate.ContactNo = passenger.ContactNo;
             passengerToUpdate.FirstName = passenger.FirstName;
             passengerToUpdate.LastName = passenger.LastName;
+            _testingDBContext.SaveChanges();
             return passengerToUpdate;
         }
+        
     }
 }

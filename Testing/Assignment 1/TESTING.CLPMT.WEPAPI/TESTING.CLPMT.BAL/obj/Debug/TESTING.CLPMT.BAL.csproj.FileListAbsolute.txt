@@ -7,3 +7,17 @@ E:\GATEWAY\Gateway Assignments\Testing\Assignment 1\TESTING.CLPMT.WEPAPI\TESTING
 E:\GATEWAY\Gateway Assignments\Testing\Assignment 1\TESTING.CLPMT.WEPAPI\TESTING.CLPMT.BAL\obj\Debug\TESTING.CLPMT.BAL.csproj.CopyComplete
 E:\GATEWAY\Gateway Assignments\Testing\Assignment 1\TESTING.CLPMT.WEPAPI\TESTING.CLPMT.BAL\obj\Debug\TESTING.CLPMT.BAL.dll
 E:\GATEWAY\Gateway Assignments\Testing\Assignment 1\TESTING.CLPMT.WEPAPI\TESTING.CLPMT.BAL\obj\Debug\TESTING.CLPMT.BAL.pdb
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Testing\Assignment 1\TESTING.CLPMT.WEPAPI\TESTING.CLPMT.BAL\bin\Debug\TESTING.CLPMT.BAL.dll
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Testing\Assignment 1\TESTING.CLPMT.WEPAPI\TESTING.CLPMT.BAL\bin\Debug\TESTING.CLPMT.BAL.pdb
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Testing\Assignment 1\TESTING.CLPMT.WEPAPI\TESTING.CLPMT.BAL\bin\Debug\TESTING.CLPMT.BE.dll
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Testing\Assignment 1\TESTING.CLPMT.WEPAPI\TESTING.CLPMT.BAL\bin\Debug\TESTING.CLPMT.BE.pdb
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Testing\Assignment 1\TESTING.CLPMT.WEPAPI\TESTING.CLPMT.BAL\obj\Debug\TESTING.CLPMT.BAL.csprojAssemblyReference.cache
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Testing\Assignment 1\TESTING.CLPMT.WEPAPI\TESTING.CLPMT.BAL\obj\Debug\TESTING.CLPMT.BAL.csproj.CoreCompileInputs.cache
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Testing\Assignment 1\TESTING.CLPMT.WEPAPI\TESTING.CLPMT.BAL\obj\Debug\TESTING.CLPMT.BAL.csproj.CopyComplete
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Testing\Assignment 1\TESTING.CLPMT.WEPAPI\TESTING.CLPMT.BAL\obj\Debug\TESTING.CLPMT.BAL.dll
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Testing\Assignment 1\TESTING.CLPMT.WEPAPI\TESTING.CLPMT.BAL\obj\Debug\TESTING.CLPMT.BAL.pdb
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Testing\Assignment 1\TESTING.CLPMT.WEPAPI\TESTING.CLPMT.BAL\bin\Debug\TESTING.CLPMT.BAL.dll.config
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Testing\Assignment 1\TESTING.CLPMT.WEPAPI\TESTING.CLPMT.BAL\bin\Debug\EntityFramework.dll
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Testing\Assignment 1\TESTING.CLPMT.WEPAPI\TESTING.CLPMT.BAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Testing\Assignment 1\TESTING.CLPMT.WEPAPI\TESTING.CLPMT.BAL\bin\Debug\EntityFramework.xml
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Testing\Assignment 1\TESTING.CLPMT.WEPAPI\TESTING.CLPMT.BAL\bin\Debug\EntityFramework.SqlServer.xml
