@@ -58,7 +58,7 @@ namespace HMS.DAL.Repository.Classes
         {
             try
             {
-                if (id != null && date != null)
+                if (id != 0 && date != null)
                 {
                     var bookingRecord=_dbContext.Bookings.Where(m => m.RoomId==id && DbFunctions.TruncateTime(m.BookingDate)==date).FirstOrDefault();
                     if (bookingRecord == null)
@@ -133,5 +133,17 @@ namespace HMS.DAL.Repository.Classes
             
         }
 
+        public List<Room> filterRooms(string city, decimal pincode, decimal price, string category)
+        {
+            Mapper.CreateMap<Database.Room, Room>();
+            List<Database.Room> rooms = _dbContext.Rooms.Where(
+            x => x.Hotel.City == city
+            || x.Hotel.Pincode== pincode 
+            || x.RoomPrice <= price
+            || x.RoomCategory == category)
+            .OrderBy(x=>x.RoomPrice).ToList();
+            List<Room> room = Mapper.Map<List<Room>>(rooms);
+            return room;
+        }
     }
 }

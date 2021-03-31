@@ -28,11 +28,11 @@ namespace TESTING.CONSOLEAPP.TEST
         [InlineData("ram MCA RAM Bca BbA", "Ram MCA RAM Bca Bba")]
         [InlineData("Ram RAm MCA", "Ram Ram MCA")]
         [InlineData("abc bCA bcOm MVc MVC", "Abc Bca Bcom Mvc MVC")]
-        public void Test_ChangeToTitleCase(string inputString, string result)
+        public void Test_ChangeToTitle(string inputString, string result)
         {
             
             // Act
-            var newString = inputString.ChangeToTitleCase();
+            var newString = inputString.ChangeToTitle();
             
             // Assert
             Assert.Equal(newString, result);
@@ -40,14 +40,14 @@ namespace TESTING.CONSOLEAPP.TEST
         }
 
         [Fact]
-        public void Test_IsLowerCaseString()
+        public void Test_IsLowerCase()
         {
 
             // Arrange
             var inputString = "ramsingh";
             
             // Act
-            var newString = inputString.IsLowerCaseString();
+            var newString = inputString.IsLowerCase();
             
             // Assert
             Assert.True(newString);
@@ -55,14 +55,14 @@ namespace TESTING.CONSOLEAPP.TEST
         }
 
         [Fact]
-        public void Test_IsUpperCaseString()
+        public void Test_IsUpperCase()
         {
 
             // Arrange
             var inputString = "RAM";
             
             // Act
-            var newString = inputString.IsUpperCaseString();
+            var newString = inputString.IsUpperCase();
             
             // Assert
             Assert.True(newString);
@@ -70,7 +70,7 @@ namespace TESTING.CONSOLEAPP.TEST
         }
 
         [Fact]
-        public void Test_DoCapitalize()
+        public void Test_Capitalize()
         {
 
             // Arrange
@@ -78,7 +78,7 @@ namespace TESTING.CONSOLEAPP.TEST
             var outputString = "Ram";
             
             // Act
-            var newString = inputString.DoCapitalize();
+            var newString = inputString.Capitalize();
             
             // Assert
             Assert.Equal(newString,outputString);
@@ -90,11 +90,11 @@ namespace TESTING.CONSOLEAPP.TEST
         [InlineData("123c", false)]
         [InlineData("453", true)]
         [InlineData("abc", false)]
-        public void Test_IsValidNumericValue(string inputString,bool result)
+        public void Test_IsValidNumeric(string inputString,bool result)
         {
 
             // Act
-            var newString = inputString.IsValidNumericValue();
+            var newString = inputString.IsValidNumeric();
             
             // Assert
             Assert.Equal(newString, result);

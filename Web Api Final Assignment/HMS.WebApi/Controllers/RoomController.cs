@@ -39,6 +39,12 @@ namespace HMS.WebApi.Controllers
         {
             return Ok(_roomManager.checkRoomAvailability(id,date));
         }
+        [HttpGet]
+        [Route("api/room/filterRooms/{city?}/{pincode?}/{price?}/{category?}")]
+        public IHttpActionResult FilterAllRoom(string city=null,decimal pincode=0, decimal price = 0, string category = null)
+        {
+            return Ok(_roomManager.filterRooms(city,pincode,price,category));
+        }
 
         [HttpPost]
         [Route("api/room/bookRoom")]

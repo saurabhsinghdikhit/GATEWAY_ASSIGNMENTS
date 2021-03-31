@@ -12,6 +12,7 @@ namespace HMS.DAL.Repository.Interfaces
         List<Room> sortRoom(string sortBy);
         string createRoom(Room model);
         bool checkRoomAvailability(int id, DateTime date);
+        List<Room> filterRooms(string city, decimal pincode, decimal price, string category);
         string bookRoom(Booking model);
     }
 }

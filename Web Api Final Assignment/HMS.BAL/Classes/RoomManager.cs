@@ -32,6 +32,11 @@ namespace HMS.BAL.Classes
             return _roomRepository.createRoom(model);
         }
 
+        public List<Room> filterRooms(string city, decimal pincode, decimal price, string category)
+        {
+            return _roomRepository.filterRooms(city, pincode, price, category);
+        }
+
         public List<Room> sortRoom(string sortBy)
         {
             return _roomRepository.sortRoom(sortBy);

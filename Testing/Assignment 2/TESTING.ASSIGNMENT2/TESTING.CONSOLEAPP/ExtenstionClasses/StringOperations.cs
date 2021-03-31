@@ -12,7 +12,7 @@ namespace TESTING.CONSOLEAPP.ExtenstionClasses
         public static string ChangeCase(this string inputString) {
             return Char.IsLower(inputString[0]) ? inputString.ToUpper() : inputString.ToLower();
         }
-        public static string ChangeToTitleCase(this string inputString)
+        public static string ChangeToTitle(this string inputString)
         {
             StringBuilder updatedString = new StringBuilder();
             string[] inputStringArray = inputString.Split(' ');
@@ -35,7 +35,7 @@ namespace TESTING.CONSOLEAPP.ExtenstionClasses
             }
             return updatedString.ToString().Remove(updatedString.Length-1);
         }
-        public static bool IsLowerCaseString(this string inputString)
+        public static bool IsLowerCase(this string inputString)
         {
             bool isLower = true;
             for (int index = 0; index < inputString.Length; index++)
@@ -48,11 +48,11 @@ namespace TESTING.CONSOLEAPP.ExtenstionClasses
             }
             return isLower ? true : false;
         }
-        public static string DoCapitalize(this string inputString)
+        public static string Capitalize(this string inputString)
         {
             return CultureInfo.InvariantCulture.TextInfo.ToTitleCase(inputString);
         }
-        public static bool IsUpperCaseString(this string inputString)
+        public static bool IsUpperCase(this string inputString)
         {
             bool isUpper = true;
             for (int index = 0; index < inputString.Length; index++)
@@ -65,7 +65,7 @@ namespace TESTING.CONSOLEAPP.ExtenstionClasses
             }
             return isUpper ? true : false;
         }
-        public static bool IsValidNumericValue(this string inputString)
+        public static bool IsValidNumeric(this string inputString)
         {
             return int.TryParse(inputString, out int n);
         }

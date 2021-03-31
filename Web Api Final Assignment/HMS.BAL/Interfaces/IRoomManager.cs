@@ -13,5 +13,6 @@ namespace HMS.BAL.Interfaces
         string createRoom(Room model);
         bool checkRoomAvailability(int id, DateTime date);
         string bookRoom(Booking model);
+        List<Room> filterRooms(string city, decimal pincode, decimal price, string category);
     }
 }
