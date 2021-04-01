@@ -9,4 +9,3 @@ D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Testing\Assignment 1\TESTING.CLPMT.WE
 D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Testing\Assignment 1\TESTING.CLPMT.WEPAPI\TESTING.CLPMT.BE\obj\Debug\TESTING.CLPMT.BE.csproj.CoreCompileInputs.cache
 D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Testing\Assignment 1\TESTING.CLPMT.WEPAPI\TESTING.CLPMT.BE\obj\Debug\TESTING.CLPMT.BE.dll
 D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Testing\Assignment 1\TESTING.CLPMT.WEPAPI\TESTING.CLPMT.BE\obj\Debug\TESTING.CLPMT.BE.pdb
-D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Testing\Assignment 1\TESTING.CLPMT.WEPAPI\TESTING.CLPMT.BE\obj\Debug\TESTING.CLPMT.BE.csprojAssemblyReference.cache

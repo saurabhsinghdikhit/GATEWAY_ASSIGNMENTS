@@ -101,3 +101,9 @@ D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Testing\Assignment 1\TESTING.CLPMT.WE
 D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Testing\Assignment 1\TESTING.CLPMT.WEPAPI\TESTING.CLPMT.TEST\obj\Debug\TESTING.CLPMT.TEST.dll
 D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Testing\Assignment 1\TESTING.CLPMT.WEPAPI\TESTING.CLPMT.TEST\obj\Debug\TESTING.CLPMT.TEST.pdb
 D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Testing\Assignment 1\TESTING.CLPMT.WEPAPI\TESTING.CLPMT.TEST\bin\Debug\TESTING.CLPMT.BAL.dll.config
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Testing\Assignment 1\TESTING.CLPMT.WEPAPI\TESTING.CLPMT.TEST\bin\Debug\EntityFramework.dll
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Testing\Assignment 1\TESTING.CLPMT.WEPAPI\TESTING.CLPMT.TEST\bin\Debug\AutoMapper.dll
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Testing\Assignment 1\TESTING.CLPMT.WEPAPI\TESTING.CLPMT.TEST\bin\Debug\EntityFramework.xml
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Testing\Assignment 1\TESTING.CLPMT.WEPAPI\TESTING.CLPMT.TEST\bin\Debug\AutoMapper.xml
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Testing\Assignment 1\TESTING.CLPMT.WEPAPI\TESTING.CLPMT.TEST\bin\Debug\EntityFramework.SqlServer.dll
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Testing\Assignment 1\TESTING.CLPMT.WEPAPI\TESTING.CLPMT.TEST\bin\Debug\EntityFramework.SqlServer.xml

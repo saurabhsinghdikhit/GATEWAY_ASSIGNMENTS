@@ -21,3 +21,5 @@ D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Testing\Assignment 1\TESTING.CLPMT.WE
 D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Testing\Assignment 1\TESTING.CLPMT.WEPAPI\TESTING.CLPMT.BAL\bin\Debug\EntityFramework.SqlServer.dll
 D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Testing\Assignment 1\TESTING.CLPMT.WEPAPI\TESTING.CLPMT.BAL\bin\Debug\EntityFramework.xml
 D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Testing\Assignment 1\TESTING.CLPMT.WEPAPI\TESTING.CLPMT.BAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Testing\Assignment 1\TESTING.CLPMT.WEPAPI\TESTING.CLPMT.BAL\bin\Debug\AutoMapper.dll
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\Testing\Assignment 1\TESTING.CLPMT.WEPAPI\TESTING.CLPMT.BAL\bin\Debug\AutoMapper.xml

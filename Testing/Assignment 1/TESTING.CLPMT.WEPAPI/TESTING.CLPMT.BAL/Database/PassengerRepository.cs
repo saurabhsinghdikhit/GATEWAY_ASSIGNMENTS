@@ -42,10 +42,10 @@ namespace TESTING.CLPMT.BAL.Database
             else
                 return false;
         }
-        public Passenger UpdatePassenger(Passenger passenger)
+        public BE.Passenger UpdatePassenger(BE.Passenger passenger)
         {
             Mapper.CreateMap<BE.Passenger, Passenger>();
-            Passenger passengerToUpdate = Mapper.Map<Passenger>(GetPassengerById(passenger.Number));
+            BE.Passenger passengerToUpdate = Mapper.Map<BE.Passenger>(GetPassengerById(passenger.Number));
             if (passengerToUpdate == null)
                 return null;
             passengerToUpdate.ContactNo = passenger.ContactNo;

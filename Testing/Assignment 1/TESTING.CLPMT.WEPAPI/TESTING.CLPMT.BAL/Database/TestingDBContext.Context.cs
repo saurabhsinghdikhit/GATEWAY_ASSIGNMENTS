@@ -24,7 +24,10 @@ namespace TESTING.CLPMT.BAL.Database
         {
             throw new UnintentionalCodeFirstException();
         }
-    
+        public void FixEfProviderServicesProblem()
+        {
+            var instance = System.Data.Entity.SqlServer.SqlProviderServices.Instance;
+        }
         public virtual DbSet<Passenger> Passengers { get; set; }
     }
 }
