@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\GATEWAY\\GATEWAY_ASSIGNMENTS_GITHUB\\GATEWAY_ASSIGNMENTS\\.net core assignment\\Core-Assignment\\HRM.Common\\HRM.Common.csproj": {}
+    "D:\\Gateway_Assignments\\GATEWAY_ASSIGNMENTS\\.net core assignment\\Core-Assignment\\HRM.Common\\HRM.Common.csproj": {}
   },
   "projects": {
-    "E:\\GATEWAY\\GATEWAY_ASSIGNMENTS_GITHUB\\GATEWAY_ASSIGNMENTS\\.net core assignment\\Core-Assignment\\HRM.Common\\HRM.Common.csproj": {
+    "D:\\Gateway_Assignments\\GATEWAY_ASSIGNMENTS\\.net core assignment\\Core-Assignment\\HRM.Common\\HRM.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GATEWAY\\GATEWAY_ASSIGNMENTS_GITHUB\\GATEWAY_ASSIGNMENTS\\.net core assignment\\Core-Assignment\\HRM.Common\\HRM.Common.csproj",
+        "projectUniqueName": "D:\\Gateway_Assignments\\GATEWAY_ASSIGNMENTS\\.net core assignment\\Core-Assignment\\HRM.Common\\HRM.Common.csproj",
         "projectName": "HRM.Common",
-        "projectPath": "E:\\GATEWAY\\GATEWAY_ASSIGNMENTS_GITHUB\\GATEWAY_ASSIGNMENTS\\.net core assignment\\Core-Assignment\\HRM.Common\\HRM.Common.csproj",
-        "packagesPath": "C:\\Users\\Ss520\\.nuget\\packages\\",
-        "outputPath": "E:\\GATEWAY\\GATEWAY_ASSIGNMENTS_GITHUB\\GATEWAY_ASSIGNMENTS\\.net core assignment\\Core-Assignment\\HRM.Common\\obj\\",
+        "projectPath": "D:\\Gateway_Assignments\\GATEWAY_ASSIGNMENTS\\.net core assignment\\Core-Assignment\\HRM.Common\\HRM.Common.csproj",
+        "packagesPath": "C:\\Users\\saurabh.singh\\.nuget\\packages\\",
+        "outputPath": "D:\\Gateway_Assignments\\GATEWAY_ASSIGNMENTS\\.net core assignment\\Core-Assignment\\HRM.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ss520\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\saurabh.singh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

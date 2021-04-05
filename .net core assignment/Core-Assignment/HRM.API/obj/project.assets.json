@@ -6228,19 +6228,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ss520\\.nuget\\packages\\": {}
+    "C:\\Users\\saurabh.singh\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\GATEWAY\\GATEWAY_ASSIGNMENTS_GITHUB\\GATEWAY_ASSIGNMENTS\\.net core assignment\\Core-Assignment\\HRM.API\\HRM.API.csproj",
+      "projectUniqueName": "D:\\Gateway_Assignments\\GATEWAY_ASSIGNMENTS\\.net core assignment\\Core-Assignment\\HRM.API\\HRM.API.csproj",
       "projectName": "HRM.API",
-      "projectPath": "E:\\GATEWAY\\GATEWAY_ASSIGNMENTS_GITHUB\\GATEWAY_ASSIGNMENTS\\.net core assignment\\Core-Assignment\\HRM.API\\HRM.API.csproj",
-      "packagesPath": "C:\\Users\\Ss520\\.nuget\\packages\\",
-      "outputPath": "E:\\GATEWAY\\GATEWAY_ASSIGNMENTS_GITHUB\\GATEWAY_ASSIGNMENTS\\.net core assignment\\Core-Assignment\\HRM.API\\obj\\",
+      "projectPath": "D:\\Gateway_Assignments\\GATEWAY_ASSIGNMENTS\\.net core assignment\\Core-Assignment\\HRM.API\\HRM.API.csproj",
+      "packagesPath": "C:\\Users\\saurabh.singh\\.nuget\\packages\\",
+      "outputPath": "D:\\Gateway_Assignments\\GATEWAY_ASSIGNMENTS\\.net core assignment\\Core-Assignment\\HRM.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Ss520\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\saurabh.singh\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6254,11 +6254,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "E:\\GATEWAY\\GATEWAY_ASSIGNMENTS_GITHUB\\GATEWAY_ASSIGNMENTS\\.net core assignment\\Core-Assignment\\HRM.BAL\\HRM.BAL.csproj": {
-              "projectPath": "E:\\GATEWAY\\GATEWAY_ASSIGNMENTS_GITHUB\\GATEWAY_ASSIGNMENTS\\.net core assignment\\Core-Assignment\\HRM.BAL\\HRM.BAL.csproj"
+            "D:\\Gateway_Assignments\\GATEWAY_ASSIGNMENTS\\.net core assignment\\Core-Assignment\\HRM.BAL\\HRM.BAL.csproj": {
+              "projectPath": "D:\\Gateway_Assignments\\GATEWAY_ASSIGNMENTS\\.net core assignment\\Core-Assignment\\HRM.BAL\\HRM.BAL.csproj"
             },
-            "E:\\GATEWAY\\GATEWAY_ASSIGNMENTS_GITHUB\\GATEWAY_ASSIGNMENTS\\.net core assignment\\Core-Assignment\\HRM.Common\\HRM.Common.csproj": {
-              "projectPath": "E:\\GATEWAY\\GATEWAY_ASSIGNMENTS_GITHUB\\GATEWAY_ASSIGNMENTS\\.net core assignment\\Core-Assignment\\HRM.Common\\HRM.Common.csproj"
+            "D:\\Gateway_Assignments\\GATEWAY_ASSIGNMENTS\\.net core assignment\\Core-Assignment\\HRM.Common\\HRM.Common.csproj": {
+              "projectPath": "D:\\Gateway_Assignments\\GATEWAY_ASSIGNMENTS\\.net core assignment\\Core-Assignment\\HRM.Common\\HRM.Common.csproj"
             }
           }
         }
@@ -6300,7 +6300,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }
