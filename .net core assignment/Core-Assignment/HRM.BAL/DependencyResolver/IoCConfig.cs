@@ -11,7 +11,7 @@ namespace HRM.BAL.DependencyResolver
     {
         public static void ConfigureServices(ref IServiceCollection services)
         {
-            services.AddTransient<IEmployeeRepository, EmployeeRepository>();
+            services.AddScoped<IEmployeeRepository, EmployeeRepository>();
         }
     }
 }

@@ -23,3 +23,12 @@ E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\C
 E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.BE\obj\Debug\netcoreapp3.1\HRM.BE.csproj.CoreCompileInputs.cache
 E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.BE\obj\Debug\netcoreapp3.1\HRM.BE.dll
 E:\GATEWAY\GATEWAY_ASSIGNMENTS_GITHUB\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.BE\obj\Debug\netcoreapp3.1\HRM.BE.pdb
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.BE\bin\Debug\netcoreapp3.1\HRM.BE.deps.json
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.BE\bin\Debug\netcoreapp3.1\HRM.BE.dll
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.BE\bin\Debug\netcoreapp3.1\HRM.BE.pdb
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.BE\obj\Debug\netcoreapp3.1\HRM.BE.csprojAssemblyReference.cache
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.BE\obj\Debug\netcoreapp3.1\HRM.BE.AssemblyInfoInputs.cache
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.BE\obj\Debug\netcoreapp3.1\HRM.BE.AssemblyInfo.cs
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.BE\obj\Debug\netcoreapp3.1\HRM.BE.csproj.CoreCompileInputs.cache
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.BE\obj\Debug\netcoreapp3.1\HRM.BE.dll
+D:\Gateway_Assignments\GATEWAY_ASSIGNMENTS\.net core assignment\Core-Assignment\HRM.BE\obj\Debug\netcoreapp3.1\HRM.BE.pdb

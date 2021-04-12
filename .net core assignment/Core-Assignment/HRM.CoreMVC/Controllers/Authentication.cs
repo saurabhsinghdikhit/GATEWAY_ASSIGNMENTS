@@ -27,6 +27,10 @@ namespace HRM.CoreMVC.Controllers
         /// <returns></returns>
         public IActionResult Login()
         {
+            if(HttpContext.Session.GetString("user") != null) {
+                TempData["message"] = "You are already logged in";
+                return RedirectToAction("All", "Employee");
+            }
             var loadMessage = TempData["message"];
             if (loadMessage != null)
             {
@@ -98,6 +102,11 @@ namespace HRM.CoreMVC.Controllers
         /// <returns></returns>
         public IActionResult Logout()
         {
+            if (HttpContext.Session.GetString("user") == null)
+            {
+                TempData["message"] = "No user found to logout";
+                return RedirectToAction("Login");
+            }
             HttpContext.Session.Remove("user");
             HttpContext.Session.Remove("token");
             return RedirectToAction("Login");
