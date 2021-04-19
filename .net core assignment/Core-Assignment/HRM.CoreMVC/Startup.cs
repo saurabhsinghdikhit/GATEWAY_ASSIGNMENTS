@@ -66,7 +66,7 @@ namespace HRM.CoreMVC
             app.Use(async (context, next) =>
             {
                 context.Response.Headers.Add("Developed-By", "Saurabh Singh");
-                await next.Invoke();
+                await next();
             });
 
             // logging response time
@@ -74,10 +74,10 @@ namespace HRM.CoreMVC
             {
                 Stopwatch stopWatch = new Stopwatch();
                 stopWatch.Start();
-                await next.Invoke();
+                await next();
                 stopWatch.Stop();
                 TimeSpan ts = stopWatch.Elapsed;
-                logger.LogInformation("Time Taken = " + ts);
+                logger.LogInformation("Response Time Taken = " + ts);
 
             });
 

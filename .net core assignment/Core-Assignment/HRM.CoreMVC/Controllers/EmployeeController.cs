@@ -37,7 +37,7 @@ namespace HRM.CoreMVC.Controllers
         /// Get all employee data to display
         /// </summary>
         /// <returns></returns>
-        [ResponseCache(Duration = (1/2))]
+        [ResponseCache(Duration = 1)]
         public async Task<IActionResult> All()
         {
             // notification loading machenishm

@@ -38,31 +38,10 @@ namespace HRM.API
             // Adding Db context
             services.AddDbContext<EmployeeContext>(item => item.UseSqlServer(Configuration.GetConnectionString("myconn")));
             // Resolving dependency of BAL and DAL layer
-            DependencyResolver.IoCConfig.ConfigureServices(ref services);
+            DependencyResolver.IoCConfig.ConfigureServices(ref services,Configuration);
             BAL.DependencyResolver.IoCConfig.ConfigureServices(ref services);
             // Dependency resolver for admin authentication
             services.AddScoped<IAuthenticateService, AuthenticateService>();
-            // JWT Auth
-            var appSettingSection = Configuration.GetSection("AppSettings");
-            services.Configure<AppSettings>(appSettingSection);
-            var appSettings = appSettingSection.Get<AppSettings>();
-            var key = Encoding.ASCII.GetBytes(appSettings.Key);
-            services.AddAuthentication(auth =>
-            {
-                auth.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
-                auth.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
-            }).AddJwtBearer(jwt =>
-            {
-                jwt.RequireHttpsMetadata = false;
-                jwt.SaveToken = true;
-                jwt.TokenValidationParameters = new TokenValidationParameters
-                {
-                    ValidateIssuerSigningKey = true,
-                    IssuerSigningKey = new SymmetricSecurityKey(key),
-                    ValidateIssuer = false,
-                    ValidateAudience = false
-                };
-            });
             
         }
 

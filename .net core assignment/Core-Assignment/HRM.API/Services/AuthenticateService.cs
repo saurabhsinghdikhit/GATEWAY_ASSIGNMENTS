@@ -51,7 +51,7 @@ namespace HRM.API.Services
             var key = Encoding.ASCII.GetBytes(_appSettings.Key);
             var tokenDescriptor = new SecurityTokenDescriptor
             {
-                Subject = new System.Security.Claims.ClaimsIdentity(new Claim[]
+                Subject = new ClaimsIdentity(new Claim[]
                 {
                     new Claim(ClaimTypes.Name,admin.Email.ToString()),
                     new Claim(ClaimTypes.Role,"Admin"),
