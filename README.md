@@ -68,7 +68,7 @@
 
 <br />
 
-[website]: https://developersaurabh.ml
+[website]: https://saurabhsingh.ml
 [twitter]: https://twitter.com/Saurabh89157654
 [instagram]: https://instagram.com/damn_rajput/
 [linkedin]: https://linkedin.com/in/saurabh-singh-42a727148/
